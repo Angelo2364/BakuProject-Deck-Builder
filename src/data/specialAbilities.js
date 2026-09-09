@@ -25,8 +25,8 @@ export const SPECIAL_ABILITY_CARDS = [
   },
   {
     "id": "special-3",
-    "name": "An allied Bakugan is defeated, and an opponent's Bakugan loses G's equal to it's power level.",
-    "text": "",
+    "name": "Darkus Scythe",
+    "text": "An allied Bakugan is defeated, and an opponent's Bakugan loses G's equal to it's power level.",
     "bakuganRef": "Altair",
     "requiredAttribute": "Darkus",
     "category": "especial",

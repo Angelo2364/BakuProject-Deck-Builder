@@ -15,6 +15,18 @@
 //
 // Exemplos (apague/edite quando entrar com os dados reais):
 export const GATE_CARDS = [
+
+{
+     id: 'gate-pyrus-attr-400',
+     name: 'Pyrus Reactor',
+     category: 'atributo',
+     attribute: 'Pyrus',
+     bakuganRef: null,
+     power: 400,
+     text: 'Qualquer Bakugan Pyrus em cima dessa carta ganha +400 G\u2019s.',
+     image: '',
+ },
+
   // {
   //   id: 'gate-pyrus-attr-400',
   //   name: 'Pyrus Reactor',

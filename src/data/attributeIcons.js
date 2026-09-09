@@ -9,10 +9,10 @@
 // nome do atributo em texto (ver Filters.jsx) — então não quebra nada
 // enquanto você não tiver os símbolos prontos.
 export const ATTRIBUTE_ICONS = {
-  Pyrus: '',
-  Darkus: '',
-  Aquos: '',
-  Subterra: '',
-  Ventus: '',
-  Haos: '',
+  Pyrus: '/icons/pyrus.svg',
+  Darkus: '/icons/darkus.svg',
+  Aquos: '/icons/aquos.svg',
+  Subterra: '/icons/subterra.svg',
+  Ventus: '/icons/ventus.svg',
+  Haos: '/icons/haos.svg',
 };
