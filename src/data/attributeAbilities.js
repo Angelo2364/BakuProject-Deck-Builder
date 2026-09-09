@@ -9,6 +9,7 @@
 //   attribute: 'Pyrus' | 'Darkus' | 'Aquos' | 'Subterra' | 'Ventus' | 'Haos',
 //   text: 'Descrição do efeito da carta.',
 //   image: '',
+//   maxCopies: 3, // quantas cópias dessa carta podem entrar no deck (1, 2 ou 3)
 // }
 //
 // Exemplo (apague/edite quando entrar com os dados reais):
@@ -19,5 +20,6 @@ export const ATTRIBUTE_ABILITY_CARDS = [
   //   attribute: 'Pyrus',
   //   text: 'Um Bakugan Pyrus aliado ganha +50 G\u2019s.',
   //   image: '',
+  //   maxCopies: 3,
   // },
 ];

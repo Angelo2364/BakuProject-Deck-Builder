@@ -1,3 +1,8 @@
+// Valor especial usado no filtro de atributo pra representar cartas sem
+// atributo fixo (ex: uma Habilidade Especial que serve pra qualquer
+// variante de atributo do bakugan, ou uma carta de Função neutra).
+export const NEUTRAL_FILTER = '__neutral__';
+
 // Atributos do jogo e cores de identidade visual de cada um.
 // Ajuste os hex livremente para bater com a arte oficial se quiser.
 export const ATTRIBUTES = ['Pyrus', 'Darkus', 'Aquos', 'Subterra', 'Ventus', 'Haos'];
@@ -19,12 +24,15 @@ export const DECK_LIMITS = {
   ability: 20,
 };
 
-// Quantas cópias da MESMA carta podem entrar no deck.
-// Ex: só 1 cópia de cada carta de Portão, até 3 cópias de cada Habilidade.
-// Bakugan não tem limite de cópia definido ainda (o normal seria 1, já que
-// o deck só tem 3 no total) — se quiser travar isso, é só adicionar
-// "bakugan: 1" aqui embaixo.
-export const CARD_COPY_LIMITS = {
+// Quantas cópias da MESMA carta podem entrar no deck, por padrão.
+// - Gate: toda carta de portão é limitada a 1 cópia.
+// - Ability: usado só como fallback — o ideal é cada carta em
+//   specialAbilities.js / attributeAbilities.js ter seu próprio campo
+//   `maxCopies` (1, 2 ou 3), porque nem toda habilidade permite 3 cópias.
+//   Se a carta não tiver `maxCopies` definido, cai nesse valor abaixo.
+// - Bakugan: não usa esse limite — a regra de Bakugan é "1 por espécie",
+//   ver checagem em DeckBuilder.jsx (canAddBakugan).
+export const DEFAULT_COPY_LIMITS = {
   gate: 1,
   ability: 3,
 };

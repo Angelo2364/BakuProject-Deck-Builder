@@ -10,6 +10,7 @@
 //   power: 400,                     // valor de G's que a carta concede, se aplicável
 //   text: 'Descrição do efeito da carta.',
 //   image: '',                     // URL da arte, se tiver
+//   maxCopies: 1,                   // opcional - se não puser, usa o padrão (1)
 // }
 //
 // Exemplos (apague/edite quando entrar com os dados reais):

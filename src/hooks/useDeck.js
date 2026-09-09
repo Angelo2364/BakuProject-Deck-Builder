@@ -1,9 +1,13 @@
 import { useMemo, useState, useCallback } from 'react';
-import { DECK_LIMITS, CARD_COPY_LIMITS } from '../constants';
+import { DECK_LIMITS } from '../constants';
 
 // Estrutura do deck: { bakugan: {[id]: qty}, gate: {[id]: qty}, ability: {[id]: qty} }
 const EMPTY_DECK = { bakugan: {}, gate: {}, ability: {} };
 
+// `maxCopies` agora é passado por quem chama (DeckBuilder), não é mais um
+// número fixo por seção — isso permite, por exemplo, uma Habilidade ter
+// maxCopies: 1 e outra maxCopies: 3, olhando o campo da própria carta.
+// Se não passar nada, assume sem limite por carta (só o limite da seção vale).
 export function useDeck(initialDeck = EMPTY_DECK) {
   const [deck, setDeck] = useState(initialDeck);
 
@@ -19,14 +23,13 @@ export function useDeck(initialDeck = EMPTY_DECK) {
     ability: DECK_LIMITS.ability - totals.ability,
   }), [totals]);
 
-  const addCard = useCallback((section, id) => {
+  const addCard = useCallback((section, id, maxCopies = Infinity) => {
     setDeck((prev) => {
       const currentTotal = Object.values(prev[section]).reduce((a, b) => a + b, 0);
       if (currentTotal >= DECK_LIMITS[section]) return prev;
 
       const currentQty = prev[section][id] || 0;
-      const copyLimit = CARD_COPY_LIMITS[section]; // undefined = sem limite por carta
-      if (copyLimit && currentQty >= copyLimit) return prev;
+      if (currentQty >= maxCopies) return prev;
 
       return {
         ...prev,
@@ -37,14 +40,11 @@ export function useDeck(initialDeck = EMPTY_DECK) {
 
   // Quantas cópias dessa carta específica ainda podem ser adicionadas.
   const copiesLeft = useCallback(
-    (section, id) => {
-      const copyLimit = CARD_COPY_LIMITS[section];
-      if (!copyLimit) return Infinity;
-      const currentQty = deck[section][id] || 0;
-      return copyLimit - currentQty;
-    },
+    (section, id, maxCopies = Infinity) => maxCopies - (deck[section][id] || 0),
     [deck]
   );
+
+  const qtyOf = useCallback((section, id) => deck[section][id] || 0, [deck]);
 
   const removeCard = useCallback((section, id) => {
     setDeck((prev) => {
@@ -61,6 +61,14 @@ export function useDeck(initialDeck = EMPTY_DECK) {
     });
   }, []);
 
+  const removeAllOf = useCallback((section, id) => {
+    setDeck((prev) => {
+      const next = { ...prev[section] };
+      delete next[id];
+      return { ...prev, [section]: next };
+    });
+  }, []);
+
   const clearSection = useCallback((section) => {
     setDeck((prev) => ({ ...prev, [section]: {} }));
   }, []);
@@ -69,5 +77,17 @@ export function useDeck(initialDeck = EMPTY_DECK) {
 
   const isFull = useCallback((section) => totals[section] >= DECK_LIMITS[section], [totals]);
 
-  return { deck, totals, remaining, addCard, removeCard, clearSection, clearDeck, isFull, copiesLeft };
+  return {
+    deck,
+    totals,
+    remaining,
+    addCard,
+    removeCard,
+    removeAllOf,
+    clearSection,
+    clearDeck,
+    isFull,
+    copiesLeft,
+    qtyOf,
+  };
 }

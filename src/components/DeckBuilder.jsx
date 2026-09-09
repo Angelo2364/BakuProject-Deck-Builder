@@ -4,7 +4,7 @@ import { BAKUGANS } from '../data/bakugans';
 import { SPECIAL_ABILITY_CARDS } from '../data/specialAbilities';
 import { ATTRIBUTE_ABILITY_CARDS } from '../data/attributeAbilities';
 import { GATE_CARDS } from '../data/gateCards';
-import { ABILITY_CARD_CATEGORIES, GATE_CARD_CATEGORIES } from '../constants';
+import { ABILITY_CARD_CATEGORIES, GATE_CARD_CATEGORIES, DEFAULT_COPY_LIMITS, NEUTRAL_FILTER } from '../constants';
 import Tabs from './Tabs';
 import Filters from './Filters';
 import CardGrid from './CardGrid';
@@ -21,6 +21,7 @@ const ABILITY_POOL = [
     attribute: c.requiredAttribute, // pode ser null = funciona em qualquer atributo do bakugan
     bakuganRef: c.bakuganRef,
     category: 'especial',
+    maxCopies: c.maxCopies,
   })),
   ...ATTRIBUTE_ABILITY_CARDS.map((c) => ({
     id: c.id,
@@ -29,8 +30,19 @@ const ABILITY_POOL = [
     attribute: c.attribute,
     bakuganRef: null,
     category: 'atributo',
+    maxCopies: c.maxCopies,
   })),
 ];
+
+// Quantas cópias de UMA carta específica podem entrar no deck.
+// - Bakugan: sempre 1 por carta exata (mas dá pra ter a mesma espécie em
+//   atributos diferentes, ex: Preyas Aquos + Preyas Darkus — só não pode
+//   repetir a carta idêntica).
+// - Gate/Ability: usa o maxCopies da própria carta se existir, senão o padrão da seção
+function getMaxCopies(section, item) {
+  if (section === 'bakugan') return 1;
+  return item.maxCopies ?? DEFAULT_COPY_LIMITS[section];
+}
 
 export default function DeckBuilder() {
   const { deck, totals, addCard, removeCard, clearDeck, isFull, copiesLeft } = useDeck();
@@ -51,7 +63,9 @@ export default function DeckBuilder() {
   const filtered = useMemo(() => {
     return pool.filter((item) => {
       const matchesSearch = item.name.toLowerCase().includes(search.trim().toLowerCase());
-      const matchesAttribute = !activeAttribute || !item.attribute || item.attribute === activeAttribute;
+      const matchesAttribute =
+        !activeAttribute ||
+        (activeAttribute === NEUTRAL_FILTER ? !item.attribute : item.attribute === activeAttribute);
       const matchesCategory = !activeCategory || item.category === activeCategory;
       return matchesSearch && matchesAttribute && matchesCategory;
     });
@@ -60,7 +74,7 @@ export default function DeckBuilder() {
   const categoryOptions =
     activeTab === 'ability' ? ABILITY_CARD_CATEGORIES : activeTab === 'gate' ? GATE_CARD_CATEGORIES : null;
 
-  // Resolve as entries do deck (id -> objeto completo) pra passar ao DeckPanel.
+  // Resolve as entries do deck (id -> objeto completo) pra passar ao DeckSlots.
   const resolveEntries = (section, source) =>
     Object.entries(deck[section])
       .map(([id, qty]) => ({ item: source.find((c) => c.id === id), qty }))
@@ -69,6 +83,10 @@ export default function DeckBuilder() {
   const bakuganEntries = resolveEntries('bakugan', BAKUGANS);
   const gateEntries = resolveEntries('gate', GATE_CARDS);
   const abilityEntries = resolveEntries('ability', ABILITY_POOL);
+
+  function handleCardClick(item) {
+    addCard(activeTab, item.id, getMaxCopies(activeTab, item));
+  }
 
   return (
     <div className="deck-builder">
@@ -102,11 +120,15 @@ export default function DeckBuilder() {
           categoryOptions={categoryOptions}
           activeCategory={activeCategory}
           onCategoryChange={setActiveCategory}
+          showNeutral={activeTab !== 'bakugan'}
         />
 
         <CardGrid isEmpty={filtered.length === 0} emptyLabel="Nenhuma carta encontrada com esse filtro.">
           {filtered.map((item) => {
             const qty = deck[activeTab][item.id] || 0;
+            const maxCopies = getMaxCopies(activeTab, item);
+            const addDisabled = isFull(activeTab) || copiesLeft(activeTab, item.id, maxCopies) <= 0;
+
             return (
               <CardTile
                 key={item.id}
@@ -125,9 +147,9 @@ export default function DeckBuilder() {
                 meta={activeTab !== 'bakugan' ? item.bakuganRef : null}
                 description={item.text}
                 qty={qty}
-                onAdd={() => addCard(activeTab, item.id)}
-                onRemove={() => removeCard(activeTab, item.id)}
-                addDisabled={isFull(activeTab) || copiesLeft(activeTab, item.id) <= 0}
+                maxCopies={activeTab === 'bakugan' ? 1 : maxCopies}
+                onClick={() => handleCardClick(item)}
+                disabled={addDisabled}
               />
             );
           })}

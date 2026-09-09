@@ -1,7 +1,8 @@
 import { ATTRIBUTE_COLORS } from '../constants';
 
 // Tile genérico de carta: usado pra Bakugans, Cartas de Portão e Habilidades.
-// `attribute` controla a cor de destaque; passe null pra cartas neutras (função, etc).
+// Agora é 100% clicável — clicar adiciona 1 cópia ao deck (até o limite).
+// Pra remover, clica na carta dentro do painel do deck (DeckSlots.jsx).
 export default function CardTile({
   image,
   name,
@@ -10,14 +11,21 @@ export default function CardTile({
   description,
   meta,
   qty = 0,
-  onAdd,
-  onRemove,
-  addDisabled,
+  maxCopies,
+  onClick,
+  disabled,
 }) {
   const accent = attribute ? ATTRIBUTE_COLORS[attribute] : '#5a5a66';
+  const showCap = maxCopies && maxCopies !== Infinity && maxCopies > 1;
 
   return (
-    <div className="card-tile" style={{ '--accent': accent }}>
+    <button
+      type="button"
+      className={`card-tile ${qty > 0 ? 'is-in-deck' : ''} ${disabled && qty === 0 ? 'is-disabled' : ''}`}
+      style={{ '--accent': accent }}
+      onClick={onClick}
+      disabled={disabled}
+    >
       <div className="card-tile__art">
         {image ? (
           <img src={image} alt={name} loading="lazy" />
@@ -25,6 +33,12 @@ export default function CardTile({
           <div className="card-tile__art-placeholder">{name?.[0] ?? '?'}</div>
         )}
         {attribute && <span className="card-tile__attribute">{attribute}</span>}
+        {qty > 0 && (
+          <span className="card-tile__qty-badge">
+            {qty}
+            {showCap ? `/${maxCopies}` : ''}
+          </span>
+        )}
       </div>
 
       <div className="card-tile__body">
@@ -35,28 +49,6 @@ export default function CardTile({
         {meta && <p className="card-tile__meta">{meta}</p>}
         {description && <p className="card-tile__description">{description}</p>}
       </div>
-
-      <div className="card-tile__controls">
-        <button
-          type="button"
-          className="card-tile__btn card-tile__btn--remove"
-          onClick={onRemove}
-          disabled={qty === 0}
-          aria-label={`Remover ${name} do deck`}
-        >
-          −
-        </button>
-        <span className="card-tile__qty">{qty}</span>
-        <button
-          type="button"
-          className="card-tile__btn card-tile__btn--add"
-          onClick={onAdd}
-          disabled={addDisabled}
-          aria-label={`Adicionar ${name} ao deck`}
-        >
-          +
-        </button>
-      </div>
-    </div>
+    </button>
   );
 }

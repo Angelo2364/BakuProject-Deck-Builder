@@ -1,6 +1,13 @@
-import { ATTRIBUTES } from '../constants';
+import { ATTRIBUTES, NEUTRAL_FILTER } from '../constants';
+import { ATTRIBUTE_ICONS } from '../data/attributeIcons';
 
 // `categoryOptions` é opcional -> só aparece nas abas de Habilidade e Portão.
+// `showNeutral` liga o chip "Neutro", pra cartas sem atributo fixo (algumas
+// Habilidades Especiais e cartas de Função). Não faz sentido na aba Bakugan.
+//
+// Os chips de atributo mostram o SÍMBOLO do elemento (ver data/attributeIcons.js).
+// Enquanto o ícone daquele atributo não tiver sido preenchido, cai de volta
+// pro nome escrito, então o filtro funciona normalmente mesmo sem as artes.
 export default function Filters({
   search,
   onSearchChange,
@@ -9,6 +16,7 @@ export default function Filters({
   categoryOptions,
   activeCategory,
   onCategoryChange,
+  showNeutral,
 }) {
   return (
     <div className="filters">
@@ -28,16 +36,32 @@ export default function Filters({
         >
           Todos
         </button>
-        {ATTRIBUTES.map((attr) => (
+        {ATTRIBUTES.map((attr) => {
+          const icon = ATTRIBUTE_ICONS[attr];
+          return (
+            <button
+              key={attr}
+              type="button"
+              className={`filters__chip filters__chip--${attr} ${icon ? 'filters__chip--icon' : ''} ${
+                activeAttribute === attr ? 'is-active' : ''
+              }`}
+              onClick={() => onAttributeChange(attr)}
+              aria-label={attr}
+              title={attr}
+            >
+              {icon ? <img src={icon} alt={attr} /> : attr}
+            </button>
+          );
+        })}
+        {showNeutral && (
           <button
-            key={attr}
             type="button"
-            className={`filters__chip filters__chip--${attr} ${activeAttribute === attr ? 'is-active' : ''}`}
-            onClick={() => onAttributeChange(attr)}
+            className={`filters__chip filters__chip--neutral ${activeAttribute === NEUTRAL_FILTER ? 'is-active' : ''}`}
+            onClick={() => onAttributeChange(NEUTRAL_FILTER)}
           >
-            {attr}
+            Neutro
           </button>
-        ))}
+        )}
       </div>
 
       {categoryOptions && (
