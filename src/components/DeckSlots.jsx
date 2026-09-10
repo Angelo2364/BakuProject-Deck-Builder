@@ -13,12 +13,12 @@ export default function DeckSlots({ bakuganEntries, gateEntries, abilityEntries,
   return (
     <div className="deck-slots">
       <SlotPanel
-        title="Bakugan"
-        section="bakugan"
-        limit={DECK_LIMITS.bakugan}
-        entries={bakuganEntries}
+        title="Ability Cards"
+        section="ability"
+        limit={DECK_LIMITS.ability}
+        entries={abilityEntries}
         onRemove={onRemove}
-        variant="bakugan"
+        variant="card"
       />
       <SlotPanel
         title="Gate Cards"
@@ -29,12 +29,12 @@ export default function DeckSlots({ bakuganEntries, gateEntries, abilityEntries,
         variant="card"
       />
       <SlotPanel
-        title="Ability Cards"
-        section="ability"
-        limit={DECK_LIMITS.ability}
-        entries={abilityEntries}
+        title="Bakugan"
+        section="bakugan"
+        limit={DECK_LIMITS.bakugan}
+        entries={bakuganEntries}
         onRemove={onRemove}
-        variant="card"
+        variant="bakugan"
       />
     </div>
   );
@@ -70,13 +70,21 @@ function SlotPanel({ title, section, limit, entries, onRemove, variant }) {
               onClick={() => onRemove(section, item.id)}
               title={`Remover ${item.name}`}
             >
-              {item.image ? (
-                <img src={item.image} alt={item.name} loading="lazy" />
-              ) : (
-                <span className="deck-slot__placeholder">{item.name[0]}</span>
-              )}
-              <span className="deck-slot__name">{item.name}</span>
-              <span className="deck-slot__remove">×</span>
+  {item.image ? (
+  <img src={item.image} alt={item.name} loading="lazy" />
+) : (
+  <span className="deck-slot__placeholder">{item.name[0]}</span>
+)}
+
+<span className="deck-slot__name">{item.name}</span>
+
+{item.text && (
+  <span className="deck-slot__tooltip">
+    {item.text}
+  </span>
+)}
+
+<span className="deck-slot__remove">×</span>
             </button>
           ) : (
             <div key={`empty-${i}`} className={`deck-slot deck-slot--empty deck-slot--${variant}`} />

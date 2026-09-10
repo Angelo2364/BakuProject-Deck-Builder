@@ -77,8 +77,12 @@
 .slot-panel {
   background: linear-gradient(180deg, #23222a, #1c1b21);
   border: 1px solid var(--border);
-  border-radius: 14px;
-  padding: 16px 20px 20px;
+  border-radius: 16px;
+  padding: 16px 20px 30px;
+  width: 120%;
+  
+  box-sizing: border-box;
+  margin-left: -10%;
 }
 
 .slot-panel__title {
@@ -98,7 +102,7 @@
 
 .slot-panel__count {
   font-family: 'Inter', sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 600;
   color: var(--text-dim);
 }
@@ -109,8 +113,9 @@
 }
 
 .slot-panel__grid--card {
-  grid-template-columns: repeat(10, 1fr);
-  max-width: 1000px;
+  grid-template-columns: repeat(10, 100px);
+  gap: 25px;
+  width: max-content;
   margin: 0 auto;
 }
 
@@ -548,4 +553,60 @@
 /* some o "atributo" no canto pra não brigar de posição com a estrelinha */
 .card-tile--relevant .card-tile__attribute {
   display: none;
+}
+
+.deck-slot--filled {
+  position: relative;
+  overflow: visible;
+}
+
+.deck-slot__name {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 50%;
+  transform: translateX(-50%);
+
+  width: max-content;
+  max-width: 130px;
+
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text);
+  text-align: center;
+  line-height: 1.2;
+
+  white-space: normal;
+  pointer-events: none;
+}
+
+.deck-slot__tooltip {
+  position: absolute;
+  left: 50%;
+  bottom: calc(100% + 10px);
+  top: auto;
+  transform: translateX(-50%);
+
+  width: 220px;
+  padding: 9px 11px;
+
+  background: #17161b;
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+
+  color: var(--text);
+  font-size: 14px;
+  line-height: 1.4;
+  text-align: left;
+
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  z-index: 9999;
+
+  transition: opacity 0.12s ease;
+}
+
+.deck-slot--filled:hover .deck-slot__tooltip {
+  opacity: 1;
+  visibility: visible;
 }

@@ -29,14 +29,14 @@ export default function DeckPanel({
       </p>
 
       <DeckSection
-        title="Bakugans"
-        limit={DECK_LIMITS.bakugan}
-        count={totals.bakugan}
-        entries={bakuganEntries}
-        onRemove={(id) => onRemove('bakugan', id)}
+        title="Habilidades"
+        limit={DECK_LIMITS.ability}
+        count={totals.ability}
+        entries={abilityEntries}
+        onRemove={(id) => onRemove('ability', id)}
         renderLabel={(item) => item.name}
-        renderMeta={(item) => item.attribute}
-        colorFor={(item) => ATTRIBUTE_COLORS[item.attribute]}
+        renderMeta={(item) => item.attribute || item.bakuganRef}
+        colorFor={(item) => (item.attribute ? ATTRIBUTE_COLORS[item.attribute] : '#5a5a66')}
       />
 
       <DeckSection
@@ -51,14 +51,14 @@ export default function DeckPanel({
       />
 
       <DeckSection
-        title="Habilidades"
-        limit={DECK_LIMITS.ability}
-        count={totals.ability}
-        entries={abilityEntries}
-        onRemove={(id) => onRemove('ability', id)}
+        title="Bakugans"
+        limit={DECK_LIMITS.bakugan}
+        count={totals.bakugan}
+        entries={bakuganEntries}
+        onRemove={(id) => onRemove('bakugan', id)}
         renderLabel={(item) => item.name}
-        renderMeta={(item) => item.attribute || item.bakuganRef}
-        colorFor={(item) => (item.attribute ? ATTRIBUTE_COLORS[item.attribute] : '#5a5a66')}
+        renderMeta={(item) => item.attribute}
+        colorFor={(item) => ATTRIBUTE_COLORS[item.attribute]}
       />
     </aside>
   );
