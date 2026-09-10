@@ -8,7 +8,6 @@ const EMPTY_DECK = { bakugan: {}, gate: {}, ability: {} };
 // número fixo por seção — isso permite, por exemplo, uma Habilidade ter
 // maxCopies: 1 e outra maxCopies: 3, olhando o campo da própria carta.
 // Se não passar nada, assume sem limite por carta (só o limite da seção vale).
-
 export function useDeck(initialDeck = EMPTY_DECK) {
   const [deck, setDeck] = useState(initialDeck);
 

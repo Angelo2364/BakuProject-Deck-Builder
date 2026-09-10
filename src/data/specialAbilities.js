@@ -1,10 +1,44 @@
-// Auto-gerado a partir do catálogo de swooshbakugans.duckdns.org/store
-// Habilidades Especiais: ligadas a um Bakugan específico (bakuganRef).
-// requiredAttribute === null -> funciona em qualquer variante de atributo daquele bakugan.
-// requiredAttribute === "Pyrus" (etc) -> só funciona se o bakugan em campo for daquele atributo.
-// maxCopies: quantas cópias dessa carta podem entrar no deck (padrão 3).
-// Ajuste esse número card a card conforme a regra real do jogo (algumas são 1 ou 2).
-export const SPECIAL_ABILITY_CARDS = [
+// Habilidades Especiais do Bakuproject.
+// Fundido a partir de duas fontes: o catálogo de swooshbakugans.duckdns.org/store
+// (bakuganRef/requiredAttribute, mais confiável pra isso) + a planilha real do
+// jogo que o Moony recebeu (maxCopies/Card Limit certinho, e alguns nomes/textos
+// que vieram corrigidos — ex: 'Blaster Bind', que antes tava sem nome certo).
+//
+// requiredAttribute === null -> funciona em qualquer variante de atributo do bakugan.
+// maxCopies: 0 numa carta (Molten Rock) significa que a planilha marca ela como
+// ainda não liberada pra uso — deixei do jeito que veio, é só mudar se liberar.
+//
+// 27 cartas da planilha vieram sem descrição/efeito documentado ainda (várias
+// 'Snail', 'Aura Cannon', 'Eraser', etc) — não entraram aqui até terem texto.
+export const SPECIAL_ABILITY_CARDS = 
+[
+  {
+    "id": "special-2",
+    "name": "Shock Cannon",
+    "text": "Altair gains +400G's, and is defeated on your next turn.",
+    "bakuganRef": "Altair",
+    "requiredAttribute": null,
+    "category": "especial",
+    "maxCopies": 1
+  },
+  {
+    "id": "special-6",
+    "name": "Mega Shield",
+    "text": "Each of your Aquos Bakugan gains +50 G's at the start of each of your turns.",
+    "bakuganRef": "Altair",
+    "requiredAttribute": "Aquos",
+    "category": "especial",
+    "maxCopies": 2
+  },
+  {
+    "id": "special-133",
+    "name": "Blaster Bind",
+    "text": "An allied Bakugan is defeated, and an opponent's Bakugan loses G's equal to it's power level.",
+    "bakuganRef": "Altair",
+    "requiredAttribute": "Darkus",
+    "category": "especial",
+    "maxCopies": 2
+  },
   {
     "id": "special-1",
     "name": "Thunder booster",
@@ -15,49 +49,13 @@ export const SPECIAL_ABILITY_CARDS = [
     "maxCopies": 3
   },
   {
-    "id": "special-2",
-    "name": "Shock Cannon",
-    "text": "Altair gains +400G's, and is defeated on your next turn.",
-    "bakuganRef": "Altair",
-    "requiredAttribute": null,
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-3",
-    "name": "Darkus Scythe",
-    "text": "An allied Bakugan is defeated, and an opponent's Bakugan loses G's equal to it's power level.",
-    "bakuganRef": "Altair",
-    "requiredAttribute": "Darkus",
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-4",
-    "name": "Spinal Saucer",
-    "text": "Nullify an opponent's ability in battle, or that targets Altair, then Altair gains +50 G's for each normal Ventus card in your used pile.",
-    "bakuganRef": "Altair",
-    "requiredAttribute": "Ventus",
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
     "id": "special-5",
     "name": "Thunder Fire",
     "text": "An opponent's Bakugan in battle with Altair loses -200 G's.",
     "bakuganRef": "Altair",
     "requiredAttribute": "Pyrus",
     "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-6",
-    "name": "Mega Shield",
-    "text": "Each of your Aquos Bakugan gains +50 G's at the start of each of your turns.",
-    "bakuganRef": "Altair",
-    "requiredAttribute": "Aquos",
-    "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 1
   },
   {
     "id": "special-7",
@@ -66,7 +64,16 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Altair",
     "requiredAttribute": "Subterra",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
+  },
+  {
+    "id": "special-4",
+    "name": "Spinal Saucer",
+    "text": "Nullify an opponent's ability in battle, or that targets Altair, then Altair gains +50 G's for each normal Ventus card in your used pile.",
+    "bakuganRef": "Altair",
+    "requiredAttribute": "Ventus",
+    "category": "especial",
+    "maxCopies": 1
   },
   {
     "id": "special-8",
@@ -75,7 +82,7 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Baliton",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 1
   },
   {
     "id": "special-9",
@@ -84,7 +91,16 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Brontes",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
+  },
+  {
+    "id": "special-14",
+    "name": "Jeer Frontier",
+    "text": "Brontes gains +150 G's for the rest of the game. [Non-Stackable]",
+    "bakuganRef": "Brontes",
+    "requiredAttribute": "Aquos",
+    "category": "especial",
+    "maxCopies": 2
   },
   {
     "id": "special-10",
@@ -93,7 +109,7 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Brontes",
     "requiredAttribute": "Darkus",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 1
   },
   {
     "id": "special-11",
@@ -105,31 +121,13 @@ export const SPECIAL_ABILITY_CARDS = [
     "maxCopies": 3
   },
   {
-    "id": "special-12",
-    "name": "Wizard Proxy",
-    "text": "Return a Bakugan you control, then throw it onto any gate card.",
-    "bakuganRef": "Brontes",
-    "requiredAttribute": "Ventus",
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
     "id": "special-13",
     "name": "Aurora Dimension",
     "text": "If each player has an available Bakugan, choose an empty gate card, and have each player throw a Bakugan onto it.",
     "bakuganRef": "Brontes",
     "requiredAttribute": "Pyrus",
     "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-14",
-    "name": "Jeer Frontier",
-    "text": "Brontes gains +150 G's for the rest of the game. [Non-Stackable]",
-    "bakuganRef": "Brontes",
-    "requiredAttribute": "Aquos",
-    "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 1
   },
   {
     "id": "special-15",
@@ -139,6 +137,15 @@ export const SPECIAL_ABILITY_CARDS = [
     "requiredAttribute": "Subterra",
     "category": "especial",
     "maxCopies": 3
+  },
+  {
+    "id": "special-12",
+    "name": "Wizard Proxy",
+    "text": "Return a Bakugan you control, then throw it onto any gate card.",
+    "bakuganRef": "Brontes",
+    "requiredAttribute": "Ventus",
+    "category": "especial",
+    "maxCopies": 2
   },
   {
     "id": "special-16",
@@ -156,7 +163,7 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Cycloid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
     "id": "special-18",
@@ -174,7 +181,7 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Dragonoid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
     "id": "special-20",
@@ -192,7 +199,16 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Dual Hydranoid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 1
+  },
+  {
+    "id": "special-136",
+    "name": "Gravity Chamber",
+    "text": "All adjacent Bakugan are moved to Hydranoid's gate card, and any weaker ones are immediately defeated.",
+    "bakuganRef": "Dual Hydranoid",
+    "requiredAttribute": null,
+    "category": "especial",
+    "maxCopies": 1
   },
   {
     "id": "special-22",
@@ -201,7 +217,7 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Dual Hydranoid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 1
   },
   {
     "id": "special-23",
@@ -209,6 +225,24 @@ export const SPECIAL_ABILITY_CARDS = [
     "text": "Add a card from your deck to your hand.",
     "bakuganRef": "Dynamo",
     "requiredAttribute": null,
+    "category": "especial",
+    "maxCopies": 3
+  },
+  {
+    "id": "special-27",
+    "name": "Twin Back",
+    "text": "Nullify an ability that would lower Elfin's power level, and have Elfin gain an equal amount of G's instead.",
+    "bakuganRef": "Elfin",
+    "requiredAttribute": null,
+    "category": "especial",
+    "maxCopies": 2
+  },
+  {
+    "id": "special-28",
+    "name": "Blue Shield",
+    "text": "Elfin gains +50 G's, and you can view the top 3 ability cards in any player's deck.",
+    "bakuganRef": "Elfin",
+    "requiredAttribute": "Aquos",
     "category": "especial",
     "maxCopies": 3
   },
@@ -231,38 +265,20 @@ export const SPECIAL_ABILITY_CARDS = [
     "maxCopies": 3
   },
   {
-    "id": "special-26",
-    "name": "Subterra Reaction",
-    "text": "Elfin gains +50 G's, and the opponent's gate cards become hidden to them.",
-    "bakuganRef": "Elfin",
-    "requiredAttribute": "Subterra",
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-27",
-    "name": "Twin Back",
-    "text": "Nullify an ability that would lower Elfin's power level, and have Elfin gain an equal amount of G's instead.",
-    "bakuganRef": "Elfin",
-    "requiredAttribute": null,
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-28",
-    "name": "Blue Shield",
-    "text": "Elfin gains +50 G's, and you can view the top 3 ability cards in any player's deck.",
-    "bakuganRef": "Elfin",
-    "requiredAttribute": "Aquos",
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
     "id": "special-29",
     "name": "Jamming Out",
     "text": "Elfin gains +150 G's, and keeps +50 G's for the rest of the game. [Stackable]",
     "bakuganRef": "Elfin",
     "requiredAttribute": "Pyrus",
+    "category": "especial",
+    "maxCopies": 3
+  },
+  {
+    "id": "special-26",
+    "name": "Subterra Reaction",
+    "text": "Elfin gains +50 G's, and the opponent's gate cards become hidden to them.",
+    "bakuganRef": "Elfin",
+    "requiredAttribute": "Subterra",
     "category": "especial",
     "maxCopies": 3
   },
@@ -276,38 +292,20 @@ export const SPECIAL_ABILITY_CARDS = [
     "maxCopies": 3
   },
   {
-    "id": "special-31",
-    "name": "Flash Freeze",
-    "text": "Elico gains +80 G's, and you may swap an ability card in your hand with one in your used pile.",
-    "bakuganRef": "Elico",
-    "requiredAttribute": "Haos",
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-32",
-    "name": "Mythran Judge",
-    "text": "Elico swaps power levels with an opponent's Bakugan in battle.",
-    "bakuganRef": "Elico",
-    "requiredAttribute": "Pyrus",
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-33",
-    "name": "Screw Blow",
-    "text": "Swap the positions of two other Bakugan on the field.",
-    "bakuganRef": "Elico",
-    "requiredAttribute": "Ventus",
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
     "id": "special-34",
     "name": "Trick World",
     "text": "All Bakugan on the field randomly switch places.",
     "bakuganRef": "Elico",
     "requiredAttribute": null,
+    "category": "especial",
+    "maxCopies": 1
+  },
+  {
+    "id": "special-37",
+    "name": "Scramble Zwei",
+    "text": "Elico gains +50 G's and swaps attributes with another Bakugan.",
+    "bakuganRef": "Elico",
+    "requiredAttribute": "Aquos",
     "category": "especial",
     "maxCopies": 3
   },
@@ -321,6 +319,24 @@ export const SPECIAL_ABILITY_CARDS = [
     "maxCopies": 3
   },
   {
+    "id": "special-31",
+    "name": "Flash Freeze",
+    "text": "Elico gains +80 G's, and you may swap an ability card in your hand with one in your used pile.",
+    "bakuganRef": "Elico",
+    "requiredAttribute": "Haos",
+    "category": "especial",
+    "maxCopies": 2
+  },
+  {
+    "id": "special-32",
+    "name": "Mythran Judge",
+    "text": "Elico swaps power levels with an opponent's Bakugan in battle.",
+    "bakuganRef": "Elico",
+    "requiredAttribute": "Pyrus",
+    "category": "especial",
+    "maxCopies": 1
+  },
+  {
     "id": "special-36",
     "name": "Gaia Loose",
     "text": "Swap the positions of two gate cards on the field.",
@@ -330,13 +346,13 @@ export const SPECIAL_ABILITY_CARDS = [
     "maxCopies": 3
   },
   {
-    "id": "special-37",
-    "name": "Scramble Zwei",
-    "text": "Elico gains +50 G's and swaps attributes with another Bakugan.",
+    "id": "special-33",
+    "name": "Screw Blow",
+    "text": "Swap the positions of two other Bakugan on the field.",
     "bakuganRef": "Elico",
-    "requiredAttribute": "Aquos",
+    "requiredAttribute": "Ventus",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
     "id": "special-38",
@@ -381,7 +397,7 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Fourtress",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 1
   },
   {
     "id": "special-43",
@@ -390,7 +406,7 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Fourtress",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
     "id": "special-44",
@@ -411,13 +427,13 @@ export const SPECIAL_ABILITY_CARDS = [
     "maxCopies": 3
   },
   {
-    "id": "special-46",
-    "name": "Photon Tail",
-    "text": "An opponent's Bakugan in battle with Hades loses -150 G's.",
-    "bakuganRef": "Hades",
+    "id": "special-141",
+    "name": "Venomous Beast Torrent Attack",
+    "text": "Your Haos Griffon is defeated and replaced with another one of your currently defeated Haos Bakugan.",
+    "bakuganRef": "Griffon",
     "requiredAttribute": "Haos",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 1
   },
   {
     "id": "special-47",
@@ -426,25 +442,7 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Hades",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-48",
-    "name": "Chaos Leap Sting",
-    "text": "Hades attacks an opponent's Bakugan that isn' adjacent to it.",
-    "bakuganRef": "Hades",
-    "requiredAttribute": "Darkus",
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-49",
-    "name": "Saurer Cannon",
-    "text": "Each of your Pyrus Bakugan on the field gains +50 G's for the rest of the game.",
-    "bakuganRef": "Hades",
-    "requiredAttribute": "Pyrus",
-    "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 1
   },
   {
     "id": "special-50",
@@ -453,7 +451,34 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Hades",
     "requiredAttribute": "Aquos",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
+  },
+  {
+    "id": "special-48",
+    "name": "Chaos Leap Sting",
+    "text": "Hades attacks an opponent's Bakugan that isn' adjacent to it.",
+    "bakuganRef": "Hades",
+    "requiredAttribute": "Darkus",
+    "category": "especial",
+    "maxCopies": 1
+  },
+  {
+    "id": "special-46",
+    "name": "Photon Tail",
+    "text": "An opponent's Bakugan in battle with Hades loses -150 G's.",
+    "bakuganRef": "Hades",
+    "requiredAttribute": "Haos",
+    "category": "especial",
+    "maxCopies": 5
+  },
+  {
+    "id": "special-49",
+    "name": "Saurer Cannon",
+    "text": "Each of your Pyrus Bakugan on the field gains +50 G's for the rest of the game.",
+    "bakuganRef": "Hades",
+    "requiredAttribute": "Pyrus",
+    "category": "especial",
+    "maxCopies": 2
   },
   {
     "id": "special-51",
@@ -474,49 +499,13 @@ export const SPECIAL_ABILITY_CARDS = [
     "maxCopies": 3
   },
   {
-    "id": "special-53",
-    "name": "Burst Core",
-    "text": "Nullify an ability that would lower an allied Bakugan's power level, and have it gain +100 G's instead.",
-    "bakuganRef": "Helios",
-    "requiredAttribute": "Haos",
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
     "id": "special-54",
     "name": "General Quasar",
     "text": "Helios gains +50 G's and attacks an opponent's Bakugan.",
     "bakuganRef": "Helios",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-55",
-    "name": "Void Stream",
-    "text": "An opponent's Bakugan loses -125 G's for the rest of the game.",
-    "bakuganRef": "Helios",
-    "requiredAttribute": "Darkus",
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-56",
-    "name": "Nova Spiral",
-    "text": "Helios gains +80 G's for each Ventus Bakugan you control on the field.",
-    "bakuganRef": "Helios",
-    "requiredAttribute": "Ventus",
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-57",
-    "name": "Maximum Quasar",
-    "text": "Helios gains +150 G's for the rest of the game, and each of your other Bakugan loses -75 G's for the rest of the game.",
-    "bakuganRef": "Helios",
-    "requiredAttribute": "Pyrus",
-    "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 1
   },
   {
     "id": "special-58",
@@ -525,7 +514,34 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Helios",
     "requiredAttribute": "Aquos",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
+  },
+  {
+    "id": "special-55",
+    "name": "Void Stream",
+    "text": "An opponent's Bakugan loses -125 G's for the rest of the game.",
+    "bakuganRef": "Helios",
+    "requiredAttribute": "Darkus",
+    "category": "especial",
+    "maxCopies": 1
+  },
+  {
+    "id": "special-53",
+    "name": "Burst Core",
+    "text": "Nullify an ability that would lower an allied Bakugan's power level, and have it gain +100 G's instead.",
+    "bakuganRef": "Helios",
+    "requiredAttribute": "Haos",
+    "category": "especial",
+    "maxCopies": 2
+  },
+  {
+    "id": "special-57",
+    "name": "Maximum Quasar",
+    "text": "Helios gains +150 G's for the rest of the game, and each of your other Bakugan loses -75 G's for the rest of the game.",
+    "bakuganRef": "Helios",
+    "requiredAttribute": "Pyrus",
+    "category": "especial",
+    "maxCopies": 1
   },
   {
     "id": "special-59",
@@ -534,7 +550,16 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Helios",
     "requiredAttribute": "Subterra",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
+  },
+  {
+    "id": "special-56",
+    "name": "Nova Spiral",
+    "text": "Helios gains +80 G's for each Ventus Bakugan you control on the field.",
+    "bakuganRef": "Helios",
+    "requiredAttribute": "Ventus",
+    "category": "especial",
+    "maxCopies": 2
   },
   {
     "id": "special-60",
@@ -564,11 +589,11 @@ export const SPECIAL_ABILITY_CARDS = [
     "maxCopies": 3
   },
   {
-    "id": "special-63",
-    "name": "Thunderbolt Torrential Wave",
-    "text": "Ingram's clone gains +50 G's, and you or a teammate draws a card.",
+    "id": "special-67",
+    "name": "Armored Megadome",
+    "text": "Ingram's clone gains +80 G's, and you can change it's attribute.",
     "bakuganRef": "Ingram",
-    "requiredAttribute": "Haos",
+    "requiredAttribute": "Aquos",
     "category": "especial",
     "maxCopies": 3
   },
@@ -579,34 +604,25 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Ingram",
     "requiredAttribute": "Darkus",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
-    "id": "special-65",
-    "name": "Wind Power Soaring Strike Shot",
-    "text": "Each Ingram you control gains +50 G's.",
+    "id": "special-63",
+    "name": "Thunderbolt Torrential Wave",
+    "text": "Ingram's clone gains +50 G's, and you or a teammate draws a card.",
     "bakuganRef": "Ingram",
-    "requiredAttribute": "Ventus",
+    "requiredAttribute": "Haos",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
-    "id": "special-66",
-    "name": "Continuous Dance Pheonix Position",
+    "id": "special-134",
+    "name": "Continuous Dance Phoenix Position",
     "text": "Ingram's clone gains +150 G's.",
     "bakuganRef": "Ingram",
     "requiredAttribute": "Pyrus",
     "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-67",
-    "name": "Armored Megadome",
-    "text": "Ingram's clone gains +80 G's, and you can change it's attribute.",
-    "bakuganRef": "Ingram",
-    "requiredAttribute": "Aquos",
-    "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
     "id": "special-68",
@@ -615,7 +631,16 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Ingram",
     "requiredAttribute": "Subterra",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
+  },
+  {
+    "id": "special-65",
+    "name": "Wind Power Soaring Strike Shot",
+    "text": "Each Ingram you control gains +50 G's.",
+    "bakuganRef": "Ingram",
+    "requiredAttribute": "Ventus",
+    "category": "especial",
+    "maxCopies": 2
   },
   {
     "id": "special-69",
@@ -624,7 +649,7 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Juggernoid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
     "id": "special-70",
@@ -642,7 +667,7 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Laserman",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 1
   },
   {
     "id": "special-72",
@@ -663,22 +688,22 @@ export const SPECIAL_ABILITY_CARDS = [
     "maxCopies": 3
   },
   {
-    "id": "special-74",
-    "name": "Flow Skylight",
-    "text": "An allied Bakugan gains +100 G's for the rest of hte game. [Non-Stackable]",
-    "bakuganRef": "Nemus",
-    "requiredAttribute": "Haos",
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
     "id": "special-75",
     "name": "Shade Cacoon",
     "text": "Transfer half an opponent's Bakugan's G's to Nemus.",
     "bakuganRef": "Nemus",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 1
+  },
+  {
+    "id": "special-79",
+    "name": "Ancient Glow",
+    "text": "One of your Aquos Bakugan gains an extra +80 G's each time it's power level is raised by an ability card.",
+    "bakuganRef": "Nemus",
+    "requiredAttribute": "Aquos",
+    "category": "especial",
+    "maxCopies": 2
   },
   {
     "id": "special-76",
@@ -687,16 +712,16 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Nemus",
     "requiredAttribute": "Darkus",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 1
   },
   {
-    "id": "special-77",
-    "name": "Spark Roa",
-    "text": "One of your Ventus Bakugan gains +50 G's, and another +50 each time it's thrown for the rest of the game. [Non-Stackable]",
+    "id": "special-74",
+    "name": "Flow Skylight",
+    "text": "An allied Bakugan gains +100 G's for the rest of hte game. [Non-Stackable]",
     "bakuganRef": "Nemus",
-    "requiredAttribute": "Ventus",
+    "requiredAttribute": "Haos",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
     "id": "special-78",
@@ -708,31 +733,22 @@ export const SPECIAL_ABILITY_CARDS = [
     "maxCopies": 3
   },
   {
-    "id": "special-79",
-    "name": "Ancient Glow",
-    "text": "One of your Aquos Bakugan gains an extra +80 G's each time it's power level is raised by an ability card.",
-    "bakuganRef": "Nemus",
-    "requiredAttribute": "Aquos",
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
     "id": "special-80",
     "name": "Corona Hole",
     "text": "Target an empty gate card slot. If an opponent's gate card is thrown there, it becomes a +400 Subterra attribute card.",
     "bakuganRef": "Nemus",
     "requiredAttribute": "Subterra",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
-    "id": "special-81",
-    "name": "Maximum Dragon",
-    "text": "Both Neo Dragonoid and an allied adjacent Bakugan gain +100 G's.",
-    "bakuganRef": "Neo Dragonoid",
-    "requiredAttribute": "Haos",
+    "id": "special-77",
+    "name": "Spark Roa",
+    "text": "One of your Ventus Bakugan gains +50 G's, and another +50 each time it's thrown for the rest of the game. [Non-Stackable]",
+    "bakuganRef": "Nemus",
+    "requiredAttribute": "Ventus",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
     "id": "special-82",
@@ -741,34 +757,7 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Neo Dragonoid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-83",
-    "name": "Dragon Contender",
-    "text": "Defeat an allied Bakugan on the field and have Neo Dragonoid gain G's equal to it's power level.",
-    "bakuganRef": "Neo Dragonoid",
-    "requiredAttribute": "Darkus",
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-84",
-    "name": "Tornado Barrier",
-    "text": "Nullify an ability that would lower Neo Dragonoid's power level, and have an opponent's Bakugan lose the same amount of G's instead.",
-    "bakuganRef": "Neo Dragonoid",
-    "requiredAttribute": "Ventus",
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-85",
-    "name": "Burning Dragon",
-    "text": "Neo Dragonoid gains +200 G's, and keeps +100 G's for the rest of the game.",
-    "bakuganRef": "Neo Dragonoid",
-    "requiredAttribute": "Pyrus",
-    "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 1
   },
   {
     "id": "special-86",
@@ -777,7 +766,34 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Neo Dragonoid",
     "requiredAttribute": "Aquos",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
+  },
+  {
+    "id": "special-83",
+    "name": "Dragon Contender",
+    "text": "Defeat an allied Bakugan on the field and have Neo Dragonoid gain G's equal to it's power level.",
+    "bakuganRef": "Neo Dragonoid",
+    "requiredAttribute": "Darkus",
+    "category": "especial",
+    "maxCopies": 2
+  },
+  {
+    "id": "special-81",
+    "name": "Maximum Dragon",
+    "text": "Both Neo Dragonoid and an allied adjacent Bakugan gain +100 G's.",
+    "bakuganRef": "Neo Dragonoid",
+    "requiredAttribute": "Haos",
+    "category": "especial",
+    "maxCopies": 2
+  },
+  {
+    "id": "special-85",
+    "name": "Burning Dragon",
+    "text": "Neo Dragonoid gains +200 G's, and keeps +100 G's for the rest of the game.",
+    "bakuganRef": "Neo Dragonoid",
+    "requiredAttribute": "Pyrus",
+    "category": "especial",
+    "maxCopies": 1
   },
   {
     "id": "special-87",
@@ -786,16 +802,16 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Neo Dragonoid",
     "requiredAttribute": "Subterra",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 1
   },
   {
-    "id": "special-88",
-    "name": "Stray Thunder",
-    "text": "Percival attacks a random Bakugan on the field.",
-    "bakuganRef": "Percival",
-    "requiredAttribute": "Haos",
+    "id": "special-84",
+    "name": "Tornado Barrier",
+    "text": "Nullify an ability that would lower Neo Dragonoid's power level, and have an opponent's Bakugan lose the same amount of G's instead.",
+    "bakuganRef": "Neo Dragonoid",
+    "requiredAttribute": "Ventus",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
     "id": "special-89",
@@ -804,7 +820,16 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Percival",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 1
+  },
+  {
+    "id": "special-93",
+    "name": "Misty Shadow",
+    "text": "Percival gains +50 G's and it's power level cannot be lowered by your opponent's ability cards.",
+    "bakuganRef": "Percival",
+    "requiredAttribute": "Aquos",
+    "category": "especial",
+    "maxCopies": 2
   },
   {
     "id": "special-90",
@@ -816,13 +841,13 @@ export const SPECIAL_ABILITY_CARDS = [
     "maxCopies": 3
   },
   {
-    "id": "special-91",
-    "name": "Black Maiden",
-    "text": "All enemy gate cards adjacent to Percival are negated, and Percival gains +50 G's.",
+    "id": "special-88",
+    "name": "Stray Thunder",
+    "text": "Percival attacks a random Bakugan on the field.",
     "bakuganRef": "Percival",
-    "requiredAttribute": "Ventus",
+    "requiredAttribute": "Haos",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
     "id": "special-92",
@@ -831,16 +856,7 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Percival",
     "requiredAttribute": "Pyrus",
     "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-93",
-    "name": "Misty Shadow",
-    "text": "Percival gains +50 G's and it's power level cannot be lowered by your opponent's ability cards.",
-    "bakuganRef": "Percival",
-    "requiredAttribute": "Aquos",
-    "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
     "id": "special-94",
@@ -849,7 +865,16 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Percival",
     "requiredAttribute": "Subterra",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
+  },
+  {
+    "id": "special-91",
+    "name": "Black Maiden",
+    "text": "All enemy gate cards adjacent to Percival are negated, and Percival gains +50 G's.",
+    "bakuganRef": "Percival",
+    "requiredAttribute": "Ventus",
+    "category": "especial",
+    "maxCopies": 1
   },
   {
     "id": "special-95",
@@ -861,49 +886,13 @@ export const SPECIAL_ABILITY_CARDS = [
     "maxCopies": 3
   },
   {
-    "id": "special-96",
-    "name": "Hyper Impact",
-    "text": "An allied Bakugan gains +80 G's, and it's owner draws a card.",
-    "bakuganRef": "Premo Vulcan",
-    "requiredAttribute": "Haos",
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
     "id": "special-97",
     "name": "Titan Knuckle",
     "text": "An opponent's Bakugan loses -150 G's.",
     "bakuganRef": "Premo Vulcan",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-98",
-    "name": "Screw Impact",
-    "text": "An opponent's Bakugan loses -80 G's, and if their hand contains a card that specifically targets that Bakugan it is discarded.",
-    "bakuganRef": "Premo Vulcan",
-    "requiredAttribute": "Darkus",
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-99",
-    "name": "Viblow",
-    "text": "Transfer 80 G's from each opponent's Bakugan in battle to Premo Vulcan.",
-    "bakuganRef": "Premo Vulcan",
-    "requiredAttribute": "Ventus",
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-100",
-    "name": "Pyrus Durance",
-    "text": "Nullify an opponent's ability in battle, or that targets Premo Vulcan. Premo Vulcan also gains +80 G's.",
-    "bakuganRef": "Premo Vulcan",
-    "requiredAttribute": "Pyrus",
-    "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
     "id": "special-101",
@@ -912,7 +901,34 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Premo Vulcan",
     "requiredAttribute": "Aquos",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
+  },
+  {
+    "id": "special-98",
+    "name": "Screw Impact",
+    "text": "An opponent's Bakugan loses -80 G's, and if their hand contains a card that specifically targets that Bakugan it is discarded.",
+    "bakuganRef": "Premo Vulcan",
+    "requiredAttribute": "Darkus",
+    "category": "especial",
+    "maxCopies": 1
+  },
+  {
+    "id": "special-96",
+    "name": "Hyper Impact",
+    "text": "An allied Bakugan gains +80 G's, and it's owner draws a card.",
+    "bakuganRef": "Premo Vulcan",
+    "requiredAttribute": "Haos",
+    "category": "especial",
+    "maxCopies": 1
+  },
+  {
+    "id": "special-100",
+    "name": "Pyrus Durance",
+    "text": "Nullify an opponent's ability in battle, or that targets Premo Vulcan. Premo Vulcan also gains +80 G's.",
+    "bakuganRef": "Premo Vulcan",
+    "requiredAttribute": "Pyrus",
+    "category": "especial",
+    "maxCopies": 1
   },
   {
     "id": "special-102",
@@ -921,7 +937,16 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Premo Vulcan",
     "requiredAttribute": "Subterra",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 1
+  },
+  {
+    "id": "special-99",
+    "name": "Viblow",
+    "text": "Transfer 80 G's from each opponent's Bakugan in battle to Premo Vulcan.",
+    "bakuganRef": "Premo Vulcan",
+    "requiredAttribute": "Ventus",
+    "category": "especial",
+    "maxCopies": 2
   },
   {
     "id": "special-103",
@@ -939,7 +964,7 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Ravenoid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
     "id": "special-105",
@@ -975,7 +1000,7 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Reaper",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 1
   },
   {
     "id": "special-109",
@@ -1005,20 +1030,29 @@ export const SPECIAL_ABILITY_CARDS = [
     "maxCopies": 3
   },
   {
-    "id": "special-112",
-    "name": "Fire Sword",
-    "text": "Pyrus Siege gains +100 G's.",
-    "bakuganRef": "Siege",
-    "requiredAttribute": "Pyrus",
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
     "id": "special-113",
     "name": "Aqua Javelin",
     "text": "Swap the gate card Aquos Siege is currently on with another adjacent card.",
     "bakuganRef": "Siege",
     "requiredAttribute": "Aquos",
+    "category": "especial",
+    "maxCopies": 3
+  },
+  {
+    "id": "special-140",
+    "name": "Tsunami Wave",
+    "text": "If you control Aquos Siege and two other Aquos Bakugan, all Bakugan on the field besides Aquos Siege are defeated.",
+    "bakuganRef": "Siege",
+    "requiredAttribute": "Aquos",
+    "category": "especial",
+    "maxCopies": 1
+  },
+  {
+    "id": "special-112",
+    "name": "Fire Sword",
+    "text": "Pyrus Siege gains +100 G's.",
+    "bakuganRef": "Siege",
+    "requiredAttribute": "Pyrus",
     "category": "especial",
     "maxCopies": 3
   },
@@ -1029,7 +1063,7 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Sirenoid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
     "id": "special-115",
@@ -1041,8 +1075,8 @@ export const SPECIAL_ABILITY_CARDS = [
     "maxCopies": 3
   },
   {
-    "id": "special-116",
-    "name": "Green Nobility - Violent Winds",
+    "id": "special-137",
+    "name": "Green Nobility - Violent Wind",
     "text": "Skyress gains +100 G's.",
     "bakuganRef": "Skyress",
     "requiredAttribute": null,
@@ -1056,7 +1090,7 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Tentaclear",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 1
   },
   {
     "id": "special-118",
@@ -1065,7 +1099,25 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Tentaclear",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
+  },
+  {
+    "id": "special-135",
+    "name": "Flare Blinder",
+    "text": "If you control a Haos Tentaclear in battle, the opponent cannot activate any ability or gate cards while the battle is ongoing.",
+    "bakuganRef": "Tentaclear",
+    "requiredAttribute": "Haos",
+    "category": "especial",
+    "maxCopies": 1
+  },
+  {
+    "id": "special-138",
+    "name": "Mega Flare Blinder",
+    "text": "Haos Tentaclear gains +100 G's, and if it's in battle the opponent cannot activate any ability or gate cards while the battle in ongoing.",
+    "bakuganRef": "Tentaclear",
+    "requiredAttribute": "Haos",
+    "category": "especial",
+    "maxCopies": 1
   },
   {
     "id": "special-119",
@@ -1083,7 +1135,7 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Tigrerra",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
     "id": "special-121",
@@ -1092,7 +1144,7 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Tigrerra",
     "requiredAttribute": "Haos",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 1
   },
   {
     "id": "special-122",
@@ -1110,7 +1162,7 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Tripod Theta",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
     "id": "special-124",
@@ -1119,25 +1171,7 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "Vladitor",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-125",
-    "name": "Gun Lock",
-    "text": "Destroy any gate card on the field, and return any Bakugan on it.",
-    "bakuganRef": "Wilda",
-    "requiredAttribute": null,
-    "category": "especial",
-    "maxCopies": 3
-  },
-  {
-    "id": "special-126",
-    "name": "Iron Plate",
-    "text": "Wilda gains +80 G's, and you draw a gate card.",
-    "bakuganRef": "Wilda",
-    "requiredAttribute": "Haos",
-    "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
     "id": "special-127",
@@ -1146,25 +1180,25 @@ export const SPECIAL_ABILITY_CARDS = [
     "bakuganRef": "WIlda",
     "requiredAttribute": "Darkus",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
-    "id": "special-128",
-    "name": "Power Winder",
-    "text": "Wilda gains +25 G's for each empty gate card slot on the field.",
+    "id": "special-125",
+    "name": "Gun Lock",
+    "text": "Destroy any gate card on the field, and return any Bakugan on it.",
     "bakuganRef": "Wilda",
-    "requiredAttribute": "Ventus",
+    "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 2
   },
   {
-    "id": "special-129",
-    "name": "Volcano Hammer",
-    "text": "Wilda gains +100 G's, and the gate card it's standing on is nullified.",
+    "id": "special-139",
+    "name": "Molten Rock",
+    "text": "Your opponent's last ability is nullified, and Wilda gains +200 G's.",
     "bakuganRef": "Wilda",
-    "requiredAttribute": "Pyrus",
+    "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 0
   },
   {
     "id": "special-130",
@@ -1176,11 +1210,38 @@ export const SPECIAL_ABILITY_CARDS = [
     "maxCopies": 3
   },
   {
+    "id": "special-126",
+    "name": "Iron Plate",
+    "text": "Wilda gains +80 G's, and you draw a gate card.",
+    "bakuganRef": "Wilda",
+    "requiredAttribute": "Haos",
+    "category": "especial",
+    "maxCopies": 2
+  },
+  {
+    "id": "special-129",
+    "name": "Volcano Hammer",
+    "text": "Wilda gains +100 G's, and the gate card it's standing on is nullified.",
+    "bakuganRef": "Wilda",
+    "requiredAttribute": "Pyrus",
+    "category": "especial",
+    "maxCopies": 2
+  },
+  {
     "id": "special-131",
     "name": "Quicksand Hole",
     "text": "No Bakugan currently on the field can move from their current gate card.",
     "bakuganRef": "Wilda",
     "requiredAttribute": "Subterra",
+    "category": "especial",
+    "maxCopies": 1
+  },
+  {
+    "id": "special-128",
+    "name": "Power Winder",
+    "text": "Wilda gains +25 G's for each empty gate card slot on the field.",
+    "bakuganRef": "Wilda",
+    "requiredAttribute": "Ventus",
     "category": "especial",
     "maxCopies": 3
   },
@@ -1193,4 +1254,5 @@ export const SPECIAL_ABILITY_CARDS = [
     "category": "especial",
     "maxCopies": 3
   }
-];
+]
+;

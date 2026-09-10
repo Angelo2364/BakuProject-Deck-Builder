@@ -63,7 +63,7 @@ no projeto Vite do usuário. Só importa `<DeckBuilder />` de
 }
 ```
 
-### Habilidade Especial (`data/specialAbilities.js`, array `SPECIAL_ABILITY_CARDS`)
+### Habilidade Especial (`data/specialAbilities.js`, array `SPECIAL_ABILITY_CARDS`) — 138 cartas, PRONTO
 ```js
 {
   id: 'special-42',
@@ -72,25 +72,32 @@ no projeto Vite do usuário. Só importa `<DeckBuilder />` de
   bakuganRef: 'Dragonoid',          // a qual bakugan essa habilidade pertence
   requiredAttribute: 'Pyrus' | null, // null = serve pra qualquer variante de atributo do bakugan
   category: 'especial',
-  maxCopies: 3                       // AJUSTAR manualmente pra 1 ou 2 onde o jogo pedir
+  maxCopies: 3                       // agora vem da planilha real, não é mais chute
 }
 ```
+Fundido de duas fontes: o site de vendas (dava `bakuganRef`/`requiredAttribute`
+confiáveis) + a planilha real do jogo (deu o `maxCopies` certo e corrigiu 3
+nomes que tinham vindo errados/incompletos do site, ex: uma habilidade da
+Darkus Altair que não tinha nome nenhum agora é "Blaster Bind").
 
-### Habilidade de Atributo (`data/attributeAbilities.js`, array `ATTRIBUTE_ABILITY_CARDS`)
-**Vazio, precisa ser preenchido.** Formato esperado:
+### Habilidade de Atributo (`data/attributeAbilities.js`, array `ATTRIBUTE_ABILITY_CARDS`) — 82 cartas, PRONTO
 ```js
 {
   id: 'attr-ability-001',
   name: 'Nome da carta',
-  attribute: 'Pyrus',
+  attribute: 'Pyrus' | null,          // null quando a carta usa `attributes` (abaixo) em vez disso
+  attributes: ['Aquos', 'Subterra'],  // opcional — só nas 5 cartas que afetam 2-3 atributos ao mesmo tempo (Diagonal Link / Triple Node)
   text: 'Descrição do efeito',
   image: '',
   maxCopies: 3
 }
 ```
+Cartas com `attributes` aparecem em CADA um dos filtros de atributo listados
+(ex: Diagonal Link Aquos & Subterra aparece tanto no filtro Aquos quanto no
+Subterra), não só no filtro Neutro. Isso é resolvido pela função
+`cardAttributes(item)` em `DeckBuilder.jsx`.
 
-### Carta de Portão (`data/gateCards.js`, array `GATE_CARDS`)
-**Vazio, precisa ser preenchido.** Formato esperado:
+### Carta de Portão (`data/gateCards.js`, array `GATE_CARDS`) — 99 cartas, PRONTO
 ```js
 {
   id: 'gate-001',
@@ -104,6 +111,12 @@ no projeto Vite do usuário. Só importa `<DeckBuilder />` de
   maxCopies: 1                       // opcional, padrão já é 1
 }
 ```
+Vieram de uma planilha real do jogo que o Moony recebeu de outro jogador
+(setembro/2026), cruzada com o que ele já tinha digitado à mão. 3 cartas
+que a planilha catalogava como "Command Card" (Gorem, Monarus, Reaper) na
+real dobram o poder de um bakugan específico — foram reclassificadas pra
+`especifica` porque é isso que elas fazem, mesmo a planilha rotulando
+diferente.
 
 ## Regras de negócio implementadas (e onde mexer)
 
@@ -128,25 +141,29 @@ Tudo isso vive em **`DeckBuilder.jsx`** + **`hooks/useDeck.js`** +
 5. **Filtro "Neutro"**: `constants.js` → `NEUTRAL_FILTER`. Mostra cartas com
    `attribute: null`. Fica escondido na aba Bakugan (prop `showNeutral` em
    `Filters.jsx`, controlado em `DeckBuilder.jsx`).
-6. **Símbolos de atributo no filtro**: `data/attributeIcons.js` — mapa
-   atributo → caminho/URL do ícone. Enquanto estiver vazio (`''`), o chip
-   mostra o nome do atributo em texto (fallback em `Filters.jsx`). Preencha
-   esse arquivo assim que tiver os símbolos.
+6. **Símbolos de atributo no filtro**: `data/attributeIcons.js` já aponta
+   pra `/icons/pyrus.svg`, `/icons/darkus.svg` etc. Pra funcionar, cria a
+   pasta `public/icons/` na raiz do projeto (fora do `src/`) e solta os 6
+   SVGs lá com esses nomes exatos. Se o arquivo ainda não existir,
+   `Filters.jsx` cai pro nome escrito sozinho (`onError` no `<img>`) — então
+   dá pra ir adicionando os ícones aos poucos sem quebrar nada.
 
 ## O que falta preencher (prioridade pra continuar o projeto)
 
-1. **`data/gateCards.js`** — as 10 cartas de portão reais do jogo.
-2. **`data/attributeAbilities.js`** — as Habilidades de Atributo (as
-   Especiais já estão prontas, extraídas do site).
-3. Revisar **`maxCopies`** em `specialAbilities.js` — todas vieram com `3`
-   por padrão, mas nem toda habilidade permite 3 cópias no jogo real. Tem
-   que passar carta por carta.
-4. **`data/attributeIcons.js`** — os símbolos dos 6 elementos, usados nos
+1. Revisar `image` das Cartas de Portão específicas/de função e das
+   Habilidades de Atributo — vieram sem imagem (`''`); as de atributo já
+   usam `/gatecards/NormallGateCards.png`.
+2. **27 Habilidades Especiais** e **4 Cartas de Portão** da planilha vieram
+   sem descrição documentada ainda (várias "Snail", "Aura Cannon",
+   "Anastasis" etc) — ficaram de fora dos arquivos até terem texto. Lista
+   completa de quais foram no histórico da conversa onde os dados foram
+   importados.
+3. **`data/attributeIcons.js`** — os símbolos dos 6 elementos, usados nos
    chips de filtro em vez do nome escrito.
-5. Imagens: bakugans e habilidades especiais usam URLs de
-   `swooshbakugans.duckdns.org` (site de vendas de um jogador da
-   comunidade, só usado como fonte de dados/arte). Se quiser trocar por
-   imagens próprias, o campo é `image` em cada objeto.
+4. A Habilidade Especial `Venomous Beast Torrent Attack` é ligada a um
+   bakugan chamado "Griffon" que não existe de verdade no jogo (confirmado
+   com o Moony) — ela fica no arquivo mas nunca vai ficar destacada, já que
+   nenhum bakugan real bate com esse `bakuganRef`. Sem ação necessária.
 
 ## Stack e como rodar
 

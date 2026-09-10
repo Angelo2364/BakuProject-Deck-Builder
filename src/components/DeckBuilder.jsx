@@ -28,11 +28,22 @@ const ABILITY_POOL = [
     name: c.name,
     text: c.text,
     attribute: c.attribute,
+    attributes: c.attributes, // só nas cartas que afetam 2-3 atributos ao mesmo tempo (Diagonal Link, Triple Node)
     bakuganRef: null,
     category: 'atributo',
     maxCopies: c.maxCopies,
   })),
 ];
+
+// Lista de atributos de uma carta — normalmente é só `[item.attribute]`,
+// mas algumas cartas (Diagonal Link, Triple Node) afetam 2-3 atributos ao
+// mesmo tempo e usam o campo `attributes` (array) em vez de `attribute`.
+// Carta sem atributo nenhum (neutra de verdade) retorna [].
+function cardAttributes(item) {
+  if (item.attributes) return item.attributes;
+  if (item.attribute) return [item.attribute];
+  return [];
+}
 
 // Quantas cópias de UMA carta específica podem entrar no deck.
 // - Bakugan: sempre 1 por carta exata (mas dá pra ter a mesma espécie em
@@ -63,9 +74,10 @@ export default function DeckBuilder() {
   const filtered = useMemo(() => {
     return pool.filter((item) => {
       const matchesSearch = item.name.toLowerCase().includes(search.trim().toLowerCase());
+      const attrs = cardAttributes(item);
       const matchesAttribute =
         !activeAttribute ||
-        (activeAttribute === NEUTRAL_FILTER ? !item.attribute : item.attribute === activeAttribute);
+        (activeAttribute === NEUTRAL_FILTER ? attrs.length === 0 : attrs.includes(activeAttribute));
       const matchesCategory = !activeCategory || item.category === activeCategory;
       return matchesSearch && matchesAttribute && matchesCategory;
     });
@@ -83,6 +95,28 @@ export default function DeckBuilder() {
   const bakuganEntries = resolveEntries('bakugan', BAKUGANS);
   const gateEntries = resolveEntries('gate', GATE_CARDS);
   const abilityEntries = resolveEntries('ability', ABILITY_POOL);
+
+  // Uma carta de Habilidade/Portão é "relevante pro time" quando ela é
+  // ligada (bakuganRef) a um bakugan que está no deck, E o atributo dela
+  // bate com o atributo daquele bakugan em campo (ou ela não tem atributo
+  // travado, aí serve pra qualquer variante).
+  // Ex: só tem Pyrus Harpus no time -> aparece "Harpus" sem atributo e
+  // "Pyrus Harpus", mas NUNCA "Darkus Harpus" (atributo não bate).
+  function isRelevantToDeck(item) {
+    if (activeTab === 'bakugan' || !item.bakuganRef) return false;
+    const attrs = cardAttributes(item);
+    return bakuganEntries.some(({ item: b }) => b.name === item.bakuganRef && (attrs.length === 0 || attrs.includes(b.attribute)));
+  }
+
+  // Cartas relevantes pro time sobem pro topo, mantendo a ordem original
+  // dentro de cada grupo (ordenação estável, sem embaralhar o resto).
+  const sorted = useMemo(() => {
+    if (activeTab === 'bakugan' || bakuganEntries.length === 0) return filtered;
+    const relevant = filtered.filter(isRelevantToDeck);
+    const rest = filtered.filter((item) => !isRelevantToDeck(item));
+    return [...relevant, ...rest];
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [filtered, activeTab, bakuganEntries]);
 
   function handleCardClick(item) {
     addCard(activeTab, item.id, getMaxCopies(activeTab, item));
@@ -123,8 +157,8 @@ export default function DeckBuilder() {
           showNeutral={activeTab !== 'bakugan'}
         />
 
-        <CardGrid isEmpty={filtered.length === 0} emptyLabel="Nenhuma carta encontrada com esse filtro.">
-          {filtered.map((item) => {
+        <CardGrid isEmpty={sorted.length === 0} emptyLabel="Nenhuma carta encontrada com esse filtro.">
+          {sorted.map((item) => {
             const qty = deck[activeTab][item.id] || 0;
             const maxCopies = getMaxCopies(activeTab, item);
             const addDisabled = isFull(activeTab) || copiesLeft(activeTab, item.id, maxCopies) <= 0;
@@ -141,15 +175,20 @@ export default function DeckBuilder() {
                       ? 'Especial'
                       : 'Atributo'
                     : activeTab === 'gate'
-                    ? GATE_CARD_CATEGORIES.find((c) => c.value === item.category)?.label
+                      ? GATE_CARD_CATEGORIES.find((c) => c.value === item.category)?.label
+                      : null
+                }
+                meta={
+                  activeTab === 'ability' && item.bakuganRef
+                    ? `${item.attribute ? `${item.attribute} ` : ''}${item.bakuganRef}`
                     : null
                 }
-                meta={activeTab !== 'bakugan' ? item.bakuganRef : null}
                 description={item.text}
                 qty={qty}
                 maxCopies={activeTab === 'bakugan' ? 1 : maxCopies}
                 onClick={() => handleCardClick(item)}
                 disabled={addDisabled}
+                highlighted={isRelevantToDeck(item)}
               />
             );
           })}

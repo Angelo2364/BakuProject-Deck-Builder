@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import { ATTRIBUTES, NEUTRAL_FILTER } from '../constants';
 import { ATTRIBUTE_ICONS } from '../data/attributeIcons';
 
@@ -5,9 +6,10 @@ import { ATTRIBUTE_ICONS } from '../data/attributeIcons';
 // `showNeutral` liga o chip "Neutro", pra cartas sem atributo fixo (algumas
 // Habilidades Especiais e cartas de Função). Não faz sentido na aba Bakugan.
 //
-// Os chips de atributo mostram o SÍMBOLO do elemento (ver data/attributeIcons.js).
-// Enquanto o ícone daquele atributo não tiver sido preenchido, cai de volta
-// pro nome escrito, então o filtro funciona normalmente mesmo sem as artes.
+// Os chips de atributo mostram o SÍMBOLO do elemento (data/attributeIcons.js).
+// Se o arquivo daquele ícone ainda não existir em public/icons/ (ou o campo
+// estiver vazio), o chip cai pro nome escrito sozinho — então o filtro
+// funciona normalmente mesmo enquanto você for adicionando os SVGs aos poucos.
 export default function Filters({
   search,
   onSearchChange,
@@ -18,6 +20,8 @@ export default function Filters({
   onCategoryChange,
   showNeutral,
 }) {
+  const [brokenIcons, setBrokenIcons] = useState({});
+
   return (
     <div className="filters">
       <input
@@ -37,19 +41,28 @@ export default function Filters({
           Todos
         </button>
         {ATTRIBUTES.map((attr) => {
-          const icon = ATTRIBUTE_ICONS[attr];
+          const iconPath = ATTRIBUTE_ICONS[attr];
+          const showIcon = Boolean(iconPath) && !brokenIcons[attr];
           return (
             <button
               key={attr}
               type="button"
-              className={`filters__chip filters__chip--${attr} ${icon ? 'filters__chip--icon' : ''} ${
+              className={`filters__chip filters__chip--${attr} ${showIcon ? 'filters__chip--icon' : ''} ${
                 activeAttribute === attr ? 'is-active' : ''
               }`}
               onClick={() => onAttributeChange(attr)}
               aria-label={attr}
               title={attr}
             >
-              {icon ? <img src={icon} alt={attr} /> : attr}
+              {showIcon ? (
+                <img
+                  src={iconPath}
+                  alt={attr}
+                  onError={() => setBrokenIcons((prev) => ({ ...prev, [attr]: true }))}
+                />
+              ) : (
+                attr
+              )}
             </button>
           );
         })}

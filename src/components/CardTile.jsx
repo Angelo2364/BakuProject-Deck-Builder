@@ -14,6 +14,7 @@ export default function CardTile({
   maxCopies,
   onClick,
   disabled,
+  highlighted,
 }) {
   const accent = attribute ? ATTRIBUTE_COLORS[attribute] : '#5a5a66';
   const showCap = maxCopies && maxCopies !== Infinity && maxCopies > 1;
@@ -21,7 +22,9 @@ export default function CardTile({
   return (
     <button
       type="button"
-      className={`card-tile ${qty > 0 ? 'is-in-deck' : ''} ${disabled && qty === 0 ? 'is-disabled' : ''}`}
+      className={`card-tile ${qty > 0 ? 'is-in-deck' : ''} ${disabled && qty === 0 ? 'is-disabled' : ''} ${
+        highlighted ? 'card-tile--relevant' : ''
+      }`}
       style={{ '--accent': accent }}
       onClick={onClick}
       disabled={disabled}
@@ -42,13 +45,19 @@ export default function CardTile({
       </div>
 
       <div className="card-tile__body">
-        <div className="card-tile__heading">
-          <h3>{name}</h3>
-          {tag && <span className="card-tile__tag">{tag}</span>}
-        </div>
-        {meta && <p className="card-tile__meta">{meta}</p>}
-        {description && <p className="card-tile__description">{description}</p>}
-      </div>
+  <div className="card-tile__heading">
+    <h3>{name}</h3>
+    {tag && <span className="card-tile__tag">{tag}</span>}
+  </div>
+
+  {meta && <p className="card-tile__meta">{meta}</p>}
+
+  {description && (
+    <div className="card-tile__tooltip">
+      {description}
+    </div>
+  )}
+</div>
     </button>
   );
 }
