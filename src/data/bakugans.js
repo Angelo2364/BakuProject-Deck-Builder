@@ -7,7 +7,7 @@ export const BAKUGANS = [
     "id": "haos-altair",
     "name": "Altair",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosAltair.PNG",
+    "image": "/bakugans/haos/altair.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -31,7 +31,7 @@ export const BAKUGANS = [
     "id": "darkus-altair",
     "name": "Altair",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusAltair.PNG",
+    "image": "/bakugans/darkus/altair.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -55,7 +55,7 @@ export const BAKUGANS = [
     "id": "ventus-altair",
     "name": "Altair",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusAltair.PNG",
+    "image": "/bakugans/ventus/altair.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -79,7 +79,7 @@ export const BAKUGANS = [
     "id": "pyrus-altair",
     "name": "Altair",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusAltair.PNG",
+    "image": "/bakugans/pyrus/altair.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -103,7 +103,7 @@ export const BAKUGANS = [
     "id": "aquos-altair",
     "name": "Altair",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosAltair.PNG",
+    "image": "/bakugans/aquos/altair.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -127,7 +127,7 @@ export const BAKUGANS = [
     "id": "subterra-altair",
     "name": "Altair",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraAltair.PNG",
+    "image": "/bakugans/subterra/altair.png",
     "attributeChanger": [],
     "bugs": [
       "Giga Armor doesn't make the gate Altair is standing on un-nullifiable."
@@ -153,7 +153,7 @@ export const BAKUGANS = [
     "id": "haos-baliton",
     "name": "Baliton",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosBaliton.PNG",
+    "image": "/bakugans/haos/baliton.png",
     "attributeChanger": [],
     "bugs": [
       "Baliton doesn't attack on movement."
@@ -172,7 +172,7 @@ export const BAKUGANS = [
     "id": "darkus-baliton",
     "name": "Baliton",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusBaliton.PNG",
+    "image": "/bakugans/darkus/baliton.png",
     "attributeChanger": [],
     "bugs": [
       "Baliton doesn't attack on movement."
@@ -191,7 +191,7 @@ export const BAKUGANS = [
     "id": "ventus-baliton",
     "name": "Baliton",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusBaliton.PNG",
+    "image": "/bakugans/ventus/baliton.png",
     "attributeChanger": [],
     "bugs": [
       "Baliton doesn't attack on movement."
@@ -210,7 +210,7 @@ export const BAKUGANS = [
     "id": "pyrus-baliton",
     "name": "Baliton",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusBaliton.PNG",
+    "image": "/bakugans/pyrus/baliton.png",
     "attributeChanger": [],
     "bugs": [
       "Baliton doesn't attack on movement."
@@ -229,7 +229,7 @@ export const BAKUGANS = [
     "id": "aquos-baliton",
     "name": "Baliton",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosBaliton.PNG",
+    "image": "/bakugans/aquos/baliton.png",
     "attributeChanger": [],
     "bugs": [
       "Baliton doesn't attack on movement."
@@ -248,7 +248,7 @@ export const BAKUGANS = [
     "id": "subterra-baliton",
     "name": "Baliton",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraBaliton.PNG",
+    "image": "/bakugans/subterra/baliton.png",
     "attributeChanger": [],
     "bugs": [
       "Baliton doesn't attack on movement."
@@ -267,7 +267,7 @@ export const BAKUGANS = [
     "id": "haos-bee-striker",
     "name": "Bee Striker",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosBee.PNG",
+    "image": "/bakugans/haos/bee-striker.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -276,7 +276,7 @@ export const BAKUGANS = [
     "id": "darkus-bee-striker",
     "name": "Bee Striker",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusBee.PNG",
+    "image": "/bakugans/darkus/bee-striker.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -285,7 +285,7 @@ export const BAKUGANS = [
     "id": "ventus-bee-striker",
     "name": "Bee Striker",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusBee.PNG",
+    "image": "/bakugans/ventus/bee-striker.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -294,7 +294,7 @@ export const BAKUGANS = [
     "id": "pyrus-bee-striker",
     "name": "Bee Striker",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusBee.PNG",
+    "image": "/bakugans/pyrus/bee-striker.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -303,7 +303,7 @@ export const BAKUGANS = [
     "id": "aquos-bee-striker",
     "name": "Bee Striker",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosBee.PNG",
+    "image": "/bakugans/aquos/bee-striker.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -312,7 +312,7 @@ export const BAKUGANS = [
     "id": "subterra-bee-striker",
     "name": "Bee Striker",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraBee.PNG",
+    "image": "/bakugans/subterra/bee-striker.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -321,7 +321,7 @@ export const BAKUGANS = [
     "id": "darkus-brontes",
     "name": "Brontes",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusBrontes.PNG",
+    "image": "/bakugans/darkus/brontes.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -345,7 +345,7 @@ export const BAKUGANS = [
     "id": "haos-brontes",
     "name": "Brontes",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosBrontes.PNG",
+    "image": "/bakugans/haos/brontes.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -369,7 +369,7 @@ export const BAKUGANS = [
     "id": "ventus-brontes",
     "name": "Brontes",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusBrontes.PNG",
+    "image": "/bakugans/ventus/brontes.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -393,7 +393,7 @@ export const BAKUGANS = [
     "id": "pyrus-brontes",
     "name": "Brontes",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusBrontes.PNG",
+    "image": "/bakugans/pyrus/brontes.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -417,7 +417,7 @@ export const BAKUGANS = [
     "id": "aquos-brontes",
     "name": "Brontes",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosBrontes.PNG",
+    "image": "/bakugans/aquos/brontes.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -441,7 +441,7 @@ export const BAKUGANS = [
     "id": "subterra-brontes",
     "name": "Brontes",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraBrontes.PNG",
+    "image": "/bakugans/subterra/brontes.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -465,7 +465,7 @@ export const BAKUGANS = [
     "id": "haos-cycloid",
     "name": "Cycloid",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosCycloid.PNG",
+    "image": "/bakugans/haos/cycloid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -496,7 +496,7 @@ export const BAKUGANS = [
     "id": "darkus-cycloid",
     "name": "Cycloid",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusCycloid.PNG",
+    "image": "/bakugans/darkus/cycloid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -527,7 +527,7 @@ export const BAKUGANS = [
     "id": "ventus-cycloid",
     "name": "Cycloid",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusCycloid.PNG",
+    "image": "/bakugans/ventus/cycloid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -558,7 +558,7 @@ export const BAKUGANS = [
     "id": "pyrus-cycloid",
     "name": "Cycloid",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusCycloid.PNG",
+    "image": "/bakugans/pyrus/cycloid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -589,7 +589,7 @@ export const BAKUGANS = [
     "id": "aquos-cycloid",
     "name": "Cycloid",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosCycloid.PNG",
+    "image": "/bakugans/aquos/cycloid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -620,7 +620,7 @@ export const BAKUGANS = [
     "id": "subterra-cycloid",
     "name": "Cycloid",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraCycloid.PNG",
+    "image": "/bakugans/subterra/cycloid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -651,7 +651,7 @@ export const BAKUGANS = [
     "id": "haos-dragonoid",
     "name": "Dragonoid",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosDrago.PNG",
+    "image": "/bakugans/haos/dragonoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -675,7 +675,7 @@ export const BAKUGANS = [
     "id": "darkus-dragonoid",
     "name": "Dragonoid",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusDragonoid.PNG",
+    "image": "/bakugans/darkus/dragonoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -699,7 +699,7 @@ export const BAKUGANS = [
     "id": "ventus-dragonoid",
     "name": "Dragonoid",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusDrago.PNG",
+    "image": "/bakugans/ventus/dragonoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -723,7 +723,7 @@ export const BAKUGANS = [
     "id": "pyrus-dragonoid",
     "name": "Dragonoid",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusDrago.PNG",
+    "image": "/bakugans/pyrus/dragonoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -747,7 +747,7 @@ export const BAKUGANS = [
     "id": "aquos-dragonoid",
     "name": "Dragonoid",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosDrago.PNG",
+    "image": "/bakugans/aquos/dragonoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -771,7 +771,7 @@ export const BAKUGANS = [
     "id": "subterra-dragonoid",
     "name": "Dragonoid",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraDrago.PNG",
+    "image": "/bakugans/subterra/dragonoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -795,7 +795,7 @@ export const BAKUGANS = [
     "id": "haos-dual-hydranoid",
     "name": "Dual Hydranoid",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosDual.PNG",
+    "image": "/bakugans/haos/dual-hydranoid.png",
     "attributeChanger": [],
     "bugs": [
       "Dual Gazer will crash the game if it is negated or any of the Bakugans involved leave the field."
@@ -821,7 +821,7 @@ export const BAKUGANS = [
     "id": "darkus-dual-hydranoid",
     "name": "Dual Hydranoid",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusDual.PNG",
+    "image": "/bakugans/darkus/dual-hydranoid.png",
     "attributeChanger": [],
     "bugs": [
       "Dual Gazer will crash the game if it is negated or any of the Bakugans involved leave the field."
@@ -847,7 +847,7 @@ export const BAKUGANS = [
     "id": "ventus-dual-hydranoid",
     "name": "Dual Hydranoid",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusDual.PNG",
+    "image": "/bakugans/ventus/dual-hydranoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -871,7 +871,7 @@ export const BAKUGANS = [
     "id": "pyrus-dual-hydranoid",
     "name": "Dual Hydranoid",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusDual.PNG",
+    "image": "/bakugans/pyrus/dual-hydranoid.png",
     "attributeChanger": [],
     "bugs": [
       "Dual Gazer will crash the game if it is negated or any of the Bakugans involved leave the field."
@@ -897,7 +897,7 @@ export const BAKUGANS = [
     "id": "aquos-dual-hydranoid",
     "name": "Dual Hydranoid",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosDual.PNG",
+    "image": "/bakugans/aquos/dual-hydranoid.png",
     "attributeChanger": [],
     "bugs": [
       "Dual Gazer will crash the game if it is negated or any of the Bakugans involved leave the field."
@@ -923,7 +923,7 @@ export const BAKUGANS = [
     "id": "subterra-dual-hydranoid",
     "name": "Dual Hydranoid",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraDual.PNG",
+    "image": "/bakugans/subterra/dual-hydranoid.png",
     "attributeChanger": [],
     "bugs": [
       "Dual Gazer will crash the game if it is negated or any of the Bakugans involved leave the field."
@@ -949,7 +949,7 @@ export const BAKUGANS = [
     "id": "haos-dynamo",
     "name": "Dynamo",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosDynamo.PNG",
+    "image": "/bakugans/haos/dynamo.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -966,7 +966,7 @@ export const BAKUGANS = [
     "id": "darkus-dynamo",
     "name": "Dynamo",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusDynamo.PNG",
+    "image": "/bakugans/darkus/dynamo.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -983,7 +983,7 @@ export const BAKUGANS = [
     "id": "ventus-dynamo",
     "name": "Dynamo",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusDynamo.PNG",
+    "image": "/bakugans/ventus/dynamo.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -1000,7 +1000,7 @@ export const BAKUGANS = [
     "id": "pyrus-dynamo",
     "name": "Dynamo",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusDynamo.PNG",
+    "image": "/bakugans/pyrus/dynamo.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -1017,7 +1017,7 @@ export const BAKUGANS = [
     "id": "aquos-dynamo",
     "name": "Dynamo",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosDynamo.PNG",
+    "image": "/bakugans/aquos/dynamo.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -1034,7 +1034,7 @@ export const BAKUGANS = [
     "id": "subterra-dynamo",
     "name": "Dynamo",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraDynamo.PNG",
+    "image": "/bakugans/subterra/dynamo.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -1051,7 +1051,7 @@ export const BAKUGANS = [
     "id": "haos-elfin",
     "name": "Elfin",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosElfin.PNG",
+    "image": "/bakugans/haos/elfin.png",
     "attributeChanger": [
       "Haos",
       "Darkus",
@@ -1093,7 +1093,7 @@ export const BAKUGANS = [
     "id": "darkus-elfin",
     "name": "Elfin",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusElfin.PNG",
+    "image": "/bakugans/darkus/elfin.png",
     "attributeChanger": [
       "Darkus",
       "Aquos",
@@ -1135,7 +1135,7 @@ export const BAKUGANS = [
     "id": "ventus-elfin",
     "name": "Elfin",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusElfin.PNG",
+    "image": "/bakugans/ventus/elfin.png",
     "attributeChanger": [
       "Ventus",
       "Aquos",
@@ -1179,7 +1179,7 @@ export const BAKUGANS = [
     "id": "pyrus-elfin",
     "name": "Elfin",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusElfin.PNG",
+    "image": "/bakugans/pyrus/elfin.png",
     "attributeChanger": [
       "Pyrus",
       "Subterra",
@@ -1223,7 +1223,7 @@ export const BAKUGANS = [
     "id": "aquos-elfin",
     "name": "Elfin",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosElfin.PNG",
+    "image": "/bakugans/aquos/elfin.png",
     "attributeChanger": [
       "Aquos",
       "Darkus",
@@ -1267,7 +1267,7 @@ export const BAKUGANS = [
     "id": "subterra-elfin",
     "name": "Elfin",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraElfin.PNG",
+    "image": "/bakugans/subterra/elfin.png",
     "attributeChanger": [
       "Subterra",
       "Haos",
@@ -1309,7 +1309,7 @@ export const BAKUGANS = [
     "id": "haos-elico",
     "name": "Elico",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosElico.PNG",
+    "image": "/bakugans/haos/elico.png",
     "attributeChanger": [
       "Haos",
       "Pyrus",
@@ -1353,7 +1353,7 @@ export const BAKUGANS = [
     "id": "darkus-elico",
     "name": "Elico",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusElico.PNG",
+    "image": "/bakugans/darkus/elico.png",
     "attributeChanger": [
       "Darkus",
       "Pyrus",
@@ -1395,7 +1395,7 @@ export const BAKUGANS = [
     "id": "ventus-elico",
     "name": "Elico",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusElico.PNG",
+    "image": "/bakugans/ventus/elico.png",
     "attributeChanger": [
       "Ventus",
       "Darkus",
@@ -1439,7 +1439,7 @@ export const BAKUGANS = [
     "id": "pyrus-elico",
     "name": "Elico",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusElico.PNG",
+    "image": "/bakugans/pyrus/elico.png",
     "attributeChanger": [
       "Pyrus",
       "Aquos",
@@ -1481,7 +1481,7 @@ export const BAKUGANS = [
     "id": "aquos-elico",
     "name": "Elico",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosElico.PNG",
+    "image": "/bakugans/aquos/elico.png",
     "attributeChanger": [
       "Aquos",
       "Haos",
@@ -1523,7 +1523,7 @@ export const BAKUGANS = [
     "id": "subterra-elico",
     "name": "Elico",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraElico.PNG",
+    "image": "/bakugans/subterra/elico.png",
     "attributeChanger": [
       "Subterra",
       "Aquos",
@@ -1567,7 +1567,7 @@ export const BAKUGANS = [
     "id": "haos-falcon-fly",
     "name": "Falcon Fly",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosFly.PNG",
+    "image": "/bakugans/haos/falcon-fly.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -1584,7 +1584,7 @@ export const BAKUGANS = [
     "id": "darkus-falcon-fly",
     "name": "Falcon Fly",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusFly.PNG",
+    "image": "/bakugans/darkus/falcon-fly.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -1601,7 +1601,7 @@ export const BAKUGANS = [
     "id": "ventus-falcon-fly",
     "name": "Falcon Fly",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusFly.PNG",
+    "image": "/bakugans/ventus/falcon-fly.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -1618,7 +1618,7 @@ export const BAKUGANS = [
     "id": "pyrus-falcon-fly",
     "name": "Falcon Fly",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusFly.PNG",
+    "image": "/bakugans/pyrus/falcon-fly.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -1635,7 +1635,7 @@ export const BAKUGANS = [
     "id": "aquos-falcon-fly",
     "name": "Falcon Fly",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosFly.PNG",
+    "image": "/bakugans/aquos/falcon-fly.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -1652,7 +1652,7 @@ export const BAKUGANS = [
     "id": "subterra-falcon-fly",
     "name": "Falcon Fly",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraFly.PNG",
+    "image": "/bakugans/subterra/falcon-fly.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -1669,7 +1669,7 @@ export const BAKUGANS = [
     "id": "haos-falconeer",
     "name": "Falconeer",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosFalconeer.PNG",
+    "image": "/bakugans/haos/falconeer.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -1678,7 +1678,7 @@ export const BAKUGANS = [
     "id": "darkus-falconeer",
     "name": "Falconeer",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusFalconeer.PNG",
+    "image": "/bakugans/darkus/falconeer.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -1687,7 +1687,7 @@ export const BAKUGANS = [
     "id": "ventus-falconeer",
     "name": "Falconeer",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusFalconeer.PNG",
+    "image": "/bakugans/ventus/falconeer.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -1696,7 +1696,7 @@ export const BAKUGANS = [
     "id": "pyrus-falconeer",
     "name": "Falconeer",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusFalconeer.PNG",
+    "image": "/bakugans/pyrus/falconeer.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -1713,7 +1713,7 @@ export const BAKUGANS = [
     "id": "aquos-falconeer",
     "name": "Falconeer",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosFalconeer.PNG",
+    "image": "/bakugans/aquos/falconeer.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -1722,7 +1722,7 @@ export const BAKUGANS = [
     "id": "subterra-falconeer",
     "name": "Falconeer",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraFalconeer.PNG",
+    "image": "/bakugans/subterra/falconeer.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -1731,7 +1731,7 @@ export const BAKUGANS = [
     "id": "haos-fear-ripper",
     "name": "Fear Ripper",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosFear.PNG",
+    "image": "/bakugans/haos/fear-ripper.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -1748,7 +1748,7 @@ export const BAKUGANS = [
     "id": "darkus-fear-ripper",
     "name": "Fear Ripper",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusFear.PNG",
+    "image": "/bakugans/darkus/fear-ripper.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -1765,7 +1765,7 @@ export const BAKUGANS = [
     "id": "ventus-fear-ripper",
     "name": "Fear Ripper",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusFear.PNG",
+    "image": "/bakugans/ventus/fear-ripper.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -1782,7 +1782,7 @@ export const BAKUGANS = [
     "id": "pyrus-fear-ripper",
     "name": "Fear Ripper",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusFear.PNG",
+    "image": "/bakugans/pyrus/fear-ripper.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -1799,7 +1799,7 @@ export const BAKUGANS = [
     "id": "aquos-fear-ripper",
     "name": "Fear Ripper",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosFear.PNG",
+    "image": "/bakugans/aquos/fear-ripper.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -1816,7 +1816,7 @@ export const BAKUGANS = [
     "id": "subterra-fear-ripper",
     "name": "Fear Ripper",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraFear.PNG",
+    "image": "/bakugans/subterra/fear-ripper.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -1833,7 +1833,7 @@ export const BAKUGANS = [
     "id": "haos-fortress",
     "name": "Fortress",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosFortress.PNG",
+    "image": "/bakugans/haos/fortress.png",
     "attributeChanger": [],
     "bugs": [
       "Crossfire doesn't work."
@@ -1852,7 +1852,7 @@ export const BAKUGANS = [
     "id": "darkus-fortress",
     "name": "Fortress",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusFortress.PNG",
+    "image": "/bakugans/darkus/fortress.png",
     "attributeChanger": [],
     "bugs": [
       "Crossfire doesn't work."
@@ -1871,7 +1871,7 @@ export const BAKUGANS = [
     "id": "ventus-fortress",
     "name": "Fortress",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusFortress.PNG",
+    "image": "/bakugans/ventus/fortress.png",
     "attributeChanger": [],
     "bugs": [
       "Crossfire doesn't work."
@@ -1890,7 +1890,7 @@ export const BAKUGANS = [
     "id": "pyrus-fortress",
     "name": "Fortress",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusFortress.PNG",
+    "image": "/bakugans/pyrus/fortress.png",
     "attributeChanger": [],
     "bugs": [
       "Crossfire doesn't work."
@@ -1909,7 +1909,7 @@ export const BAKUGANS = [
     "id": "aquos-fortress",
     "name": "Fortress",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosFortress.PNG",
+    "image": "/bakugans/aquos/fortress.png",
     "attributeChanger": [],
     "bugs": [
       "Crossfire doesn't work."
@@ -1928,7 +1928,7 @@ export const BAKUGANS = [
     "id": "subterra-fortress",
     "name": "Fortress",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraFortress.PNG",
+    "image": "/bakugans/subterra/fortress.png",
     "attributeChanger": [],
     "bugs": [
       "Crossfire doesn't work."
@@ -1947,7 +1947,7 @@ export const BAKUGANS = [
     "id": "haos-fourtress",
     "name": "Fourtress",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosFourtress.PNG",
+    "image": "/bakugans/haos/fourtress.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -1978,7 +1978,7 @@ export const BAKUGANS = [
     "id": "darkus-fourtress",
     "name": "Fourtress",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusFourtress.PNG",
+    "image": "/bakugans/darkus/fourtress.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2009,7 +2009,7 @@ export const BAKUGANS = [
     "id": "ventus-fourtress",
     "name": "Fourtress",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusFourtress.PNG",
+    "image": "/bakugans/ventus/fourtress.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2040,7 +2040,7 @@ export const BAKUGANS = [
     "id": "pyrus-fourtress",
     "name": "Fourtress",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusFourtress.PNG",
+    "image": "/bakugans/pyrus/fourtress.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2071,7 +2071,7 @@ export const BAKUGANS = [
     "id": "aquos-fourtress",
     "name": "Fourtress",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosFourtress.PNG",
+    "image": "/bakugans/aquos/fourtress.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2102,7 +2102,7 @@ export const BAKUGANS = [
     "id": "subterra-fourtress",
     "name": "Fourtress",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraFourtress.PNG",
+    "image": "/bakugans/subterra/fourtress.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2133,7 +2133,7 @@ export const BAKUGANS = [
     "id": "haos-gargonoid",
     "name": "Gargonoid",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosGargonoid.PNG",
+    "image": "/bakugans/haos/gargonoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -2142,7 +2142,7 @@ export const BAKUGANS = [
     "id": "darkus-gargonoid",
     "name": "Gargonoid",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusGargonoid.PNG",
+    "image": "/bakugans/darkus/gargonoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -2151,7 +2151,7 @@ export const BAKUGANS = [
     "id": "ventus-gargonoid",
     "name": "Gargonoid",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusGargonoid.PNG",
+    "image": "/bakugans/ventus/gargonoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -2160,7 +2160,7 @@ export const BAKUGANS = [
     "id": "pyrus-gargonoid",
     "name": "Gargonoid",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusGargonoid.PNG",
+    "image": "/bakugans/pyrus/gargonoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -2169,7 +2169,7 @@ export const BAKUGANS = [
     "id": "aquos-gargonoid",
     "name": "Gargonoid",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosGargonoid.PNG",
+    "image": "/bakugans/aquos/gargonoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -2178,7 +2178,7 @@ export const BAKUGANS = [
     "id": "subterra-gargonoid",
     "name": "Gargonoid",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraGargonoid.PNG",
+    "image": "/bakugans/subterra/gargonoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -2187,7 +2187,7 @@ export const BAKUGANS = [
     "id": "haos-gorem",
     "name": "Gorem",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosGorem.PNG",
+    "image": "/bakugans/haos/gorem.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2204,7 +2204,7 @@ export const BAKUGANS = [
     "id": "darkus-gorem",
     "name": "Gorem",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusGorem.PNG",
+    "image": "/bakugans/darkus/gorem.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2221,7 +2221,7 @@ export const BAKUGANS = [
     "id": "ventus-gorem",
     "name": "Gorem",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusGorem.PNG",
+    "image": "/bakugans/ventus/gorem.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2238,7 +2238,7 @@ export const BAKUGANS = [
     "id": "pyrus-gorem",
     "name": "Gorem",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusGorem.PNG",
+    "image": "/bakugans/pyrus/gorem.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2255,7 +2255,7 @@ export const BAKUGANS = [
     "id": "aquos-gorem",
     "name": "Gorem",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosGorem.PNG",
+    "image": "/bakugans/aquos/gorem.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2272,7 +2272,7 @@ export const BAKUGANS = [
     "id": "subterra-gorem",
     "name": "Gorem",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraGorem.PNG",
+    "image": "/bakugans/subterra/gorem.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2289,7 +2289,7 @@ export const BAKUGANS = [
     "id": "haos-hades",
     "name": "Hades",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosHades.PNG",
+    "image": "/bakugans/haos/hades.png",
     "attributeChanger": [],
     "bugs": [
       "Photon Tail will kill your profile. Do not buy this ability or choose Haos Hades as a starter."
@@ -2315,7 +2315,7 @@ export const BAKUGANS = [
     "id": "darkus-hades",
     "name": "Hades",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusHades.PNG",
+    "image": "/bakugans/darkus/hades.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2339,7 +2339,7 @@ export const BAKUGANS = [
     "id": "ventus-hades",
     "name": "Hades",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusHades.PNG",
+    "image": "/bakugans/ventus/hades.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2356,7 +2356,7 @@ export const BAKUGANS = [
     "id": "pyrus-hades",
     "name": "Hades",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusHades.PNG",
+    "image": "/bakugans/pyrus/hades.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2380,7 +2380,7 @@ export const BAKUGANS = [
     "id": "aquos-hades",
     "name": "Hades",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosHades.PNG",
+    "image": "/bakugans/aquos/hades.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2404,7 +2404,7 @@ export const BAKUGANS = [
     "id": "subterra-hades",
     "name": "Hades",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraHades.PNG",
+    "image": "/bakugans/subterra/hades.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2421,7 +2421,7 @@ export const BAKUGANS = [
     "id": "haos-harpus",
     "name": "Harpus",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosHarpus.PNG",
+    "image": "/bakugans/haos/harpus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2445,7 +2445,7 @@ export const BAKUGANS = [
     "id": "darkus-harpus",
     "name": "Harpus",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusHarpus.PNG",
+    "image": "/bakugans/darkus/harpus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2469,7 +2469,7 @@ export const BAKUGANS = [
     "id": "ventus-harpus",
     "name": "Harpus",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusHarpus.PNG",
+    "image": "/bakugans/ventus/harpus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2493,7 +2493,7 @@ export const BAKUGANS = [
     "id": "pyrus-harpus",
     "name": "Harpus",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusHarpus.PNG",
+    "image": "/bakugans/pyrus/harpus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2517,7 +2517,7 @@ export const BAKUGANS = [
     "id": "aquos-harpus",
     "name": "Harpus",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosHarpus.PNG",
+    "image": "/bakugans/aquos/harpus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2541,7 +2541,7 @@ export const BAKUGANS = [
     "id": "subterra-harpus",
     "name": "Harpus",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraHarpus.PNG",
+    "image": "/bakugans/subterra/harpus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2565,7 +2565,7 @@ export const BAKUGANS = [
     "id": "haos-helios",
     "name": "Helios",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosHelios.PNG",
+    "image": "/bakugans/haos/helios.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2589,7 +2589,7 @@ export const BAKUGANS = [
     "id": "darkus-helios",
     "name": "Helios",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusHelios.PNG",
+    "image": "/bakugans/darkus/helios.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2613,7 +2613,7 @@ export const BAKUGANS = [
     "id": "ventus-helios",
     "name": "Helios",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusHelios.PNG",
+    "image": "/bakugans/ventus/helios.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2637,7 +2637,7 @@ export const BAKUGANS = [
     "id": "pyrus-helios",
     "name": "Helios",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusHelios.PNG",
+    "image": "/bakugans/pyrus/helios.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2661,7 +2661,7 @@ export const BAKUGANS = [
     "id": "aquos-helios",
     "name": "Helios",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosHelios.PNG",
+    "image": "/bakugans/aquos/helios.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2685,7 +2685,7 @@ export const BAKUGANS = [
     "id": "subterra-helios",
     "name": "Helios",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraHelios.PNG",
+    "image": "/bakugans/subterra/helios.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2709,7 +2709,7 @@ export const BAKUGANS = [
     "id": "haos-hexados",
     "name": "Hexados",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosHexados.PNG",
+    "image": "/bakugans/haos/hexados.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2726,7 +2726,7 @@ export const BAKUGANS = [
     "id": "darkus-hexados",
     "name": "Hexados",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusHexados.PNG",
+    "image": "/bakugans/darkus/hexados.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2743,7 +2743,7 @@ export const BAKUGANS = [
     "id": "ventus-hexados",
     "name": "Hexados",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusHexados.PNG",
+    "image": "/bakugans/ventus/hexados.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2760,7 +2760,7 @@ export const BAKUGANS = [
     "id": "pyrus-hexados",
     "name": "Hexados",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusHexados.PNG",
+    "image": "/bakugans/pyrus/hexados.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2777,7 +2777,7 @@ export const BAKUGANS = [
     "id": "aquos-hexados",
     "name": "Hexados",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosHexados.PNG",
+    "image": "/bakugans/aquos/hexados.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2794,7 +2794,7 @@ export const BAKUGANS = [
     "id": "subterra-hexados",
     "name": "Hexados",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraHexados.PNG",
+    "image": "/bakugans/subterra/hexados.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2811,7 +2811,7 @@ export const BAKUGANS = [
     "id": "haos-hylash",
     "name": "Hylash",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosHylash.PNG",
+    "image": "/bakugans/haos/hylash.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2828,7 +2828,7 @@ export const BAKUGANS = [
     "id": "darkus-hylash",
     "name": "Hylash",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusHylash.PNG",
+    "image": "/bakugans/darkus/hylash.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2845,7 +2845,7 @@ export const BAKUGANS = [
     "id": "ventus-hylash",
     "name": "Hylash",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusHylash.PNG",
+    "image": "/bakugans/ventus/hylash.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2862,7 +2862,7 @@ export const BAKUGANS = [
     "id": "pyrus-hylash",
     "name": "Hylash",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusHylash.PNG",
+    "image": "/bakugans/pyrus/hylash.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2879,7 +2879,7 @@ export const BAKUGANS = [
     "id": "aquos-hylash",
     "name": "Hylash",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosHylash.PNG",
+    "image": "/bakugans/aquos/hylash.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2896,7 +2896,7 @@ export const BAKUGANS = [
     "id": "subterra-hylash",
     "name": "Hylash",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraHylash.PNG",
+    "image": "/bakugans/subterra/hylash.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2913,7 +2913,7 @@ export const BAKUGANS = [
     "id": "haos-ingram",
     "name": "Ingram",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosIngram.PNG",
+    "image": "/bakugans/haos/ingram.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2937,7 +2937,7 @@ export const BAKUGANS = [
     "id": "darkus-ingram",
     "name": "Ingram",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusIngram.PNG",
+    "image": "/bakugans/darkus/ingram.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2961,7 +2961,7 @@ export const BAKUGANS = [
     "id": "ventus-ingram",
     "name": "Ingram",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusIngram.PNG",
+    "image": "/bakugans/ventus/ingram.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -2985,7 +2985,7 @@ export const BAKUGANS = [
     "id": "pyrus-ingram",
     "name": "Ingram",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusIngram.PNG",
+    "image": "/bakugans/pyrus/ingram.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3009,7 +3009,7 @@ export const BAKUGANS = [
     "id": "aquos-ingram",
     "name": "Ingram",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosIngram.PNG",
+    "image": "/bakugans/aquos/ingram.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3033,7 +3033,7 @@ export const BAKUGANS = [
     "id": "subterra-ingram",
     "name": "Ingram",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraIngram.PNG",
+    "image": "/bakugans/subterra/ingram.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3057,7 +3057,7 @@ export const BAKUGANS = [
     "id": "haos-juggernoid",
     "name": "Juggernoid",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosJuggernoid.PNG",
+    "image": "/bakugans/haos/juggernoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3081,7 +3081,7 @@ export const BAKUGANS = [
     "id": "darkus-juggernoid",
     "name": "Juggernoid",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusJuggernoid.PNG",
+    "image": "/bakugans/darkus/juggernoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3105,7 +3105,7 @@ export const BAKUGANS = [
     "id": "ventus-juggernoid",
     "name": "Juggernoid",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusJuggernoid.PNG",
+    "image": "/bakugans/ventus/juggernoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3129,7 +3129,7 @@ export const BAKUGANS = [
     "id": "pyrus-juggernoid",
     "name": "Juggernoid",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusJuggernoid.PNG",
+    "image": "/bakugans/pyrus/juggernoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3153,7 +3153,7 @@ export const BAKUGANS = [
     "id": "aquos-juggernoid",
     "name": "Juggernoid",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosJuggernoid.PNG",
+    "image": "/bakugans/aquos/juggernoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3177,7 +3177,7 @@ export const BAKUGANS = [
     "id": "subterra-juggernoid",
     "name": "Juggernoid",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraJuggernoid.PNG",
+    "image": "/bakugans/subterra/juggernoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3201,7 +3201,7 @@ export const BAKUGANS = [
     "id": "haos-laserman",
     "name": "Laserman",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosLaserman.PNG",
+    "image": "/bakugans/haos/laserman.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3218,7 +3218,7 @@ export const BAKUGANS = [
     "id": "darkus-laserman",
     "name": "Laserman",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusLaserman.PNG",
+    "image": "/bakugans/darkus/laserman.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3235,7 +3235,7 @@ export const BAKUGANS = [
     "id": "ventus-laserman",
     "name": "Laserman",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusLaserman.PNG",
+    "image": "/bakugans/ventus/laserman.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3252,7 +3252,7 @@ export const BAKUGANS = [
     "id": "pyrus-laserman",
     "name": "Laserman",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusLaserman.PNG",
+    "image": "/bakugans/pyrus/laserman.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3269,7 +3269,7 @@ export const BAKUGANS = [
     "id": "aquos-laserman",
     "name": "Laserman",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosLaserman.PNG",
+    "image": "/bakugans/aquos/laserman.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3286,7 +3286,7 @@ export const BAKUGANS = [
     "id": "subterra-laserman",
     "name": "Laserman",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraLaserman.PNG",
+    "image": "/bakugans/subterra/laserman.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3303,7 +3303,7 @@ export const BAKUGANS = [
     "id": "haos-leonidas",
     "name": "Leonidas",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosLeonidas.PNG",
+    "image": "/bakugans/haos/leonidas.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3320,7 +3320,7 @@ export const BAKUGANS = [
     "id": "darkus-leonidas",
     "name": "Leonidas",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusLeonidas.PNG",
+    "image": "/bakugans/darkus/leonidas.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3337,7 +3337,7 @@ export const BAKUGANS = [
     "id": "ventus-leonidas",
     "name": "Leonidas",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusLeonidas.PNG",
+    "image": "/bakugans/ventus/leonidas.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3354,7 +3354,7 @@ export const BAKUGANS = [
     "id": "pyrus-leonidas",
     "name": "Leonidas",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusLeonidas.PNG",
+    "image": "/bakugans/pyrus/leonidas.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3371,7 +3371,7 @@ export const BAKUGANS = [
     "id": "aquos-leonidas",
     "name": "Leonidas",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosLeonidas.PNG",
+    "image": "/bakugans/aquos/leonidas.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3388,7 +3388,7 @@ export const BAKUGANS = [
     "id": "subterra-leonidas",
     "name": "Leonidas",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraLeonidas.PNG",
+    "image": "/bakugans/subterra/leonidas.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3405,7 +3405,7 @@ export const BAKUGANS = [
     "id": "haos-metalfencer",
     "name": "Metalfencer",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosMetalfencer.PNG",
+    "image": "/bakugans/haos/metalfencer.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3422,7 +3422,7 @@ export const BAKUGANS = [
     "id": "darkus-metalfencer",
     "name": "Metalfencer",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusMetalfencer.PNG",
+    "image": "/bakugans/darkus/metalfencer.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3439,7 +3439,7 @@ export const BAKUGANS = [
     "id": "ventus-metalfencer",
     "name": "Metalfencer",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusMetalfencer.PNG",
+    "image": "/bakugans/ventus/metalfencer.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3456,7 +3456,7 @@ export const BAKUGANS = [
     "id": "pyrus-metalfencer",
     "name": "Metalfencer",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusMetalfencer.PNG",
+    "image": "/bakugans/pyrus/metalfencer.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3473,7 +3473,7 @@ export const BAKUGANS = [
     "id": "aquos-metalfencer",
     "name": "Metalfencer",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosMetalfencer.PNG",
+    "image": "/bakugans/aquos/metalfencer.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3490,7 +3490,7 @@ export const BAKUGANS = [
     "id": "subterra-metalfencer",
     "name": "Metalfencer",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraMetalfencer.PNG",
+    "image": "/bakugans/subterra/metalfencer.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3507,7 +3507,7 @@ export const BAKUGANS = [
     "id": "haos-monarus",
     "name": "Monarus",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosMonarus.PNG",
+    "image": "/bakugans/haos/monarus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -3516,7 +3516,7 @@ export const BAKUGANS = [
     "id": "darkus-monarus",
     "name": "Monarus",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusMonarus.PNG",
+    "image": "/bakugans/darkus/monarus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -3525,7 +3525,7 @@ export const BAKUGANS = [
     "id": "ventus-monarus",
     "name": "Monarus",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusMonarus.PNG",
+    "image": "/bakugans/ventus/monarus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -3534,7 +3534,7 @@ export const BAKUGANS = [
     "id": "pyrus-monarus",
     "name": "Monarus",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusMonarus.PNG",
+    "image": "/bakugans/pyrus/monarus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -3543,7 +3543,7 @@ export const BAKUGANS = [
     "id": "aquos-monarus",
     "name": "Monarus",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosMonarus.PNG",
+    "image": "/bakugans/aquos/monarus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -3552,7 +3552,7 @@ export const BAKUGANS = [
     "id": "subterra-monarus",
     "name": "Monarus",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraMonarus.PNG",
+    "image": "/bakugans/subterra/monarus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -3561,7 +3561,7 @@ export const BAKUGANS = [
     "id": "haos-nemus",
     "name": "Nemus",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosNemus.PNG",
+    "image": "/bakugans/haos/nemus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3585,7 +3585,7 @@ export const BAKUGANS = [
     "id": "darkus-nemus",
     "name": "Nemus",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusNemus.PNG",
+    "image": "/bakugans/darkus/nemus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3609,7 +3609,7 @@ export const BAKUGANS = [
     "id": "ventus-nemus",
     "name": "Nemus",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusNemus.PNG",
+    "image": "/bakugans/ventus/nemus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3633,7 +3633,7 @@ export const BAKUGANS = [
     "id": "pyrus-nemus",
     "name": "Nemus",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusNemus.PNG",
+    "image": "/bakugans/pyrus/nemus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3657,7 +3657,7 @@ export const BAKUGANS = [
     "id": "aquos-nemus",
     "name": "Nemus",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosNemus.PNG",
+    "image": "/bakugans/aquos/nemus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3681,7 +3681,7 @@ export const BAKUGANS = [
     "id": "subterra-nemus",
     "name": "Nemus",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraNemus.PNG",
+    "image": "/bakugans/subterra/nemus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3705,7 +3705,7 @@ export const BAKUGANS = [
     "id": "haos-neo-dragonoid",
     "name": "Neo Dragonoid",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosNeo.PNG",
+    "image": "/bakugans/haos/neo-dragonoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3729,7 +3729,7 @@ export const BAKUGANS = [
     "id": "darkus-neo-dragonoid",
     "name": "Neo Dragonoid",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusNeo.PNG",
+    "image": "/bakugans/darkus/neo-dragonoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3753,7 +3753,7 @@ export const BAKUGANS = [
     "id": "ventus-neo-dragonoid",
     "name": "Neo Dragonoid",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusNeo.PNG",
+    "image": "/bakugans/ventus/neo-dragonoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3777,7 +3777,7 @@ export const BAKUGANS = [
     "id": "pyrus-neo-dragonoid",
     "name": "Neo Dragonoid",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusNeo.PNG",
+    "image": "/bakugans/pyrus/neo-dragonoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3801,7 +3801,7 @@ export const BAKUGANS = [
     "id": "aquos-neo-dragonoid",
     "name": "Neo Dragonoid",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosNeo.PNG",
+    "image": "/bakugans/aquos/neo-dragonoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3825,7 +3825,7 @@ export const BAKUGANS = [
     "id": "subterra-neo-dragonoid",
     "name": "Neo Dragonoid",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraNeo.PNG",
+    "image": "/bakugans/subterra/neo-dragonoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3849,7 +3849,7 @@ export const BAKUGANS = [
     "id": "haos-percival",
     "name": "Percival",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosPercival.PNG",
+    "image": "/bakugans/haos/percival.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3873,7 +3873,7 @@ export const BAKUGANS = [
     "id": "darkus-percival",
     "name": "Percival",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusPercival.PNG",
+    "image": "/bakugans/darkus/percival.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3897,7 +3897,7 @@ export const BAKUGANS = [
     "id": "ventus-percival",
     "name": "Percival",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusPercival.PNG",
+    "image": "/bakugans/ventus/percival.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3921,7 +3921,7 @@ export const BAKUGANS = [
     "id": "pyrus-percival",
     "name": "Percival",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusPercival.PNG",
+    "image": "/bakugans/pyrus/percival.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3945,7 +3945,7 @@ export const BAKUGANS = [
     "id": "aquos-percival",
     "name": "Percival",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosPercival.PNG",
+    "image": "/bakugans/aquos/percival.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3969,7 +3969,7 @@ export const BAKUGANS = [
     "id": "subterra-percival",
     "name": "Percival",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraPercival.PNG",
+    "image": "/bakugans/subterra/percival.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -3993,7 +3993,7 @@ export const BAKUGANS = [
     "id": "haos-piercian",
     "name": "Piercian",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosPiercian.PNG",
+    "image": "/bakugans/haos/piercian.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4010,7 +4010,7 @@ export const BAKUGANS = [
     "id": "darkus-piercian",
     "name": "Piercian",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusPiercian.PNG",
+    "image": "/bakugans/darkus/piercian.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4027,7 +4027,7 @@ export const BAKUGANS = [
     "id": "ventus-piercian",
     "name": "Piercian",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusPiercian.PNG",
+    "image": "/bakugans/ventus/piercian.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4044,7 +4044,7 @@ export const BAKUGANS = [
     "id": "pyrus-piercian",
     "name": "Piercian",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusPiercian.PNG",
+    "image": "/bakugans/pyrus/piercian.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4061,7 +4061,7 @@ export const BAKUGANS = [
     "id": "aquos-piercian",
     "name": "Piercian",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosPiercian.PNG",
+    "image": "/bakugans/aquos/piercian.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4078,7 +4078,7 @@ export const BAKUGANS = [
     "id": "subterra-piercian",
     "name": "Piercian",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraPiercian.PNG",
+    "image": "/bakugans/subterra/piercian.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4095,7 +4095,7 @@ export const BAKUGANS = [
     "id": "haos-premo-vulcan",
     "name": "Premo Vulcan",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosPremo.PNG",
+    "image": "/bakugans/haos/premo-vulcan.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4119,7 +4119,7 @@ export const BAKUGANS = [
     "id": "darkus-premo-vulcan",
     "name": "Premo Vulcan",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusPremo.PNG",
+    "image": "/bakugans/darkus/premo-vulcan.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4143,7 +4143,7 @@ export const BAKUGANS = [
     "id": "ventus-premo-vulcan",
     "name": "Premo Vulcan",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusPremo.PNG",
+    "image": "/bakugans/ventus/premo-vulcan.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4167,7 +4167,7 @@ export const BAKUGANS = [
     "id": "pyrus-premo-vulcan",
     "name": "Premo Vulcan",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusPremo.PNG",
+    "image": "/bakugans/pyrus/premo-vulcan.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4191,7 +4191,7 @@ export const BAKUGANS = [
     "id": "aquos-premo-vulcan",
     "name": "Premo Vulcan",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosPremo.PNG",
+    "image": "/bakugans/aquos/premo-vulcan.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4215,7 +4215,7 @@ export const BAKUGANS = [
     "id": "subterra-premo-vulcan",
     "name": "Premo Vulcan",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraPremo.PNG",
+    "image": "/bakugans/subterra/premo-vulcan.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4239,7 +4239,7 @@ export const BAKUGANS = [
     "id": "haos-preyas",
     "name": "Preyas",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosPreyas.PNG",
+    "image": "/bakugans/haos/preyas.png",
     "attributeChanger": [
       "Haos",
       "Subterra",
@@ -4260,7 +4260,7 @@ export const BAKUGANS = [
     "id": "darkus-preyas",
     "name": "Preyas",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusPreyas.PNG",
+    "image": "/bakugans/darkus/preyas.png",
     "attributeChanger": [
       "Darkus",
       "Haos",
@@ -4281,7 +4281,7 @@ export const BAKUGANS = [
     "id": "ventus-preyas",
     "name": "Preyas",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusPreyas.PNG",
+    "image": "/bakugans/ventus/preyas.png",
     "attributeChanger": [
       "Ventus",
       "Aquos",
@@ -4302,7 +4302,7 @@ export const BAKUGANS = [
     "id": "pyrus-preyas",
     "name": "Preyas",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusPreyas.PNG",
+    "image": "/bakugans/pyrus/preyas.png",
     "attributeChanger": [
       "Pyrus",
       "Darkus",
@@ -4323,7 +4323,7 @@ export const BAKUGANS = [
     "id": "aquos-preyas",
     "name": "Preyas",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosPreyas.PNG",
+    "image": "/bakugans/aquos/preyas.png",
     "attributeChanger": [
       "Aquos",
       "Darkus",
@@ -4344,7 +4344,7 @@ export const BAKUGANS = [
     "id": "subterra-preyas",
     "name": "Preyas",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraPreyas.PNG",
+    "image": "/bakugans/subterra/preyas.png",
     "attributeChanger": [
       "Subterra",
       "Aquos",
@@ -4365,7 +4365,7 @@ export const BAKUGANS = [
     "id": "haos-ravenoid",
     "name": "Ravenoid",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosRavenoid.PNG",
+    "image": "/bakugans/haos/ravenoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4389,7 +4389,7 @@ export const BAKUGANS = [
     "id": "darkus-ravenoid",
     "name": "Ravenoid",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusRavenoid.PNG",
+    "image": "/bakugans/darkus/ravenoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4406,7 +4406,7 @@ export const BAKUGANS = [
     "id": "ventus-ravenoid",
     "name": "Ravenoid",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusRavenoid.PNG",
+    "image": "/bakugans/ventus/ravenoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4430,7 +4430,7 @@ export const BAKUGANS = [
     "id": "pyrus-ravenoid",
     "name": "Ravenoid",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusRavenoid.PNG",
+    "image": "/bakugans/pyrus/ravenoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4447,7 +4447,7 @@ export const BAKUGANS = [
     "id": "aquos-ravenoid",
     "name": "Ravenoid",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosRavenoid.PNG",
+    "image": "/bakugans/aquos/ravenoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4464,7 +4464,7 @@ export const BAKUGANS = [
     "id": "subterra-ravenoid",
     "name": "Ravenoid",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraRavenoid.PNG",
+    "image": "/bakugans/subterra/ravenoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4481,7 +4481,7 @@ export const BAKUGANS = [
     "id": "haos-reaper",
     "name": "Reaper",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosReaper.PNG",
+    "image": "/bakugans/haos/reaper.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4505,7 +4505,7 @@ export const BAKUGANS = [
     "id": "darkus-reaper",
     "name": "Reaper",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusReaper.PNG",
+    "image": "/bakugans/darkus/reaper.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4529,7 +4529,7 @@ export const BAKUGANS = [
     "id": "ventus-reaper",
     "name": "Reaper",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusReaper.PNG",
+    "image": "/bakugans/ventus/reaper.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4553,7 +4553,7 @@ export const BAKUGANS = [
     "id": "pyrus-reaper",
     "name": "Reaper",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusReaper.PNG",
+    "image": "/bakugans/pyrus/reaper.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4577,7 +4577,7 @@ export const BAKUGANS = [
     "id": "aquos-reaper",
     "name": "Reaper",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosReaper.PNG",
+    "image": "/bakugans/aquos/reaper.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4601,7 +4601,7 @@ export const BAKUGANS = [
     "id": "subterra-reaper",
     "name": "Reaper",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraReaper.PNG",
+    "image": "/bakugans/subterra/reaper.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4625,7 +4625,7 @@ export const BAKUGANS = [
     "id": "haos-robotallion",
     "name": "Robotallion",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosRobotallion.PNG",
+    "image": "/bakugans/haos/robotallion.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4642,7 +4642,7 @@ export const BAKUGANS = [
     "id": "darkus-robotallion",
     "name": "Robotallion",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusRobotallion.PNG",
+    "image": "/bakugans/darkus/robotallion.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4659,7 +4659,7 @@ export const BAKUGANS = [
     "id": "ventus-robotallion",
     "name": "Robotallion",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusRobotallion.PNG",
+    "image": "/bakugans/ventus/robotallion.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4676,7 +4676,7 @@ export const BAKUGANS = [
     "id": "pyrus-robotallion",
     "name": "Robotallion",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusRobotallion.PNG",
+    "image": "/bakugans/pyrus/robotallion.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4693,7 +4693,7 @@ export const BAKUGANS = [
     "id": "aquos-robotallion",
     "name": "Robotallion",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosRobotallion.PNG",
+    "image": "/bakugans/aquos/robotallion.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4710,7 +4710,7 @@ export const BAKUGANS = [
     "id": "subterra-robotallion",
     "name": "Robotallion",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraRobotallion.PNG",
+    "image": "/bakugans/subterra/robotallion.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4727,7 +4727,7 @@ export const BAKUGANS = [
     "id": "haos-saurus",
     "name": "Saurus",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosSaurus.PNG",
+    "image": "/bakugans/haos/saurus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4744,7 +4744,7 @@ export const BAKUGANS = [
     "id": "darkus-saurus",
     "name": "Saurus",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusSaurus.PNG",
+    "image": "/bakugans/darkus/saurus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4761,7 +4761,7 @@ export const BAKUGANS = [
     "id": "ventus-saurus",
     "name": "Saurus",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusSaurus.PNG",
+    "image": "/bakugans/ventus/saurus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4778,7 +4778,7 @@ export const BAKUGANS = [
     "id": "pyrus-saurus",
     "name": "Saurus",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusSaurus.PNG",
+    "image": "/bakugans/pyrus/saurus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4795,7 +4795,7 @@ export const BAKUGANS = [
     "id": "unknown-saurus",
     "name": "Saurus",
     "attribute": "Unknown",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/Saurus.PNG",
+    "image": "/bakugans/unknown/saurus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4812,7 +4812,7 @@ export const BAKUGANS = [
     "id": "subterra-saurus",
     "name": "Saurus",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraSaurus.PNG",
+    "image": "/bakugans/subterra/saurus.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4829,7 +4829,7 @@ export const BAKUGANS = [
     "id": "haos-scorpion",
     "name": "Scorpion",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosScorpion.PNG",
+    "image": "/bakugans/haos/scorpion.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4846,7 +4846,7 @@ export const BAKUGANS = [
     "id": "darkus-scorpion",
     "name": "Scorpion",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusScorpion.PNG",
+    "image": "/bakugans/darkus/scorpion.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4863,7 +4863,7 @@ export const BAKUGANS = [
     "id": "ventus-scorpion",
     "name": "Scorpion",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusScorpion.PNG",
+    "image": "/bakugans/ventus/scorpion.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4880,7 +4880,7 @@ export const BAKUGANS = [
     "id": "pyrus-scorpion",
     "name": "Scorpion",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusScorpion.PNG",
+    "image": "/bakugans/pyrus/scorpion.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4897,7 +4897,7 @@ export const BAKUGANS = [
     "id": "aquos-scorpion",
     "name": "Scorpion",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosScorpion.PNG",
+    "image": "/bakugans/aquos/scorpion.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4914,7 +4914,7 @@ export const BAKUGANS = [
     "id": "subterra-scorpion",
     "name": "Scorpion",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraScorpion.PNG",
+    "image": "/bakugans/subterra/scorpion.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -4931,7 +4931,7 @@ export const BAKUGANS = [
     "id": "haos-serpenoid",
     "name": "Serpenoid",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosSerpenoid.PNG",
+    "image": "/bakugans/haos/serpenoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -4940,7 +4940,7 @@ export const BAKUGANS = [
     "id": "darkus-serpenoid",
     "name": "Serpenoid",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusSerpenoid.PNG",
+    "image": "/bakugans/darkus/serpenoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -4949,7 +4949,7 @@ export const BAKUGANS = [
     "id": "ventus-serpenoid",
     "name": "Serpenoid",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusSerpenoid.PNG",
+    "image": "/bakugans/ventus/serpenoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -4958,7 +4958,7 @@ export const BAKUGANS = [
     "id": "pyrus-serpenoid",
     "name": "Serpenoid",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusSerpenoid.PNG",
+    "image": "/bakugans/pyrus/serpenoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -4967,7 +4967,7 @@ export const BAKUGANS = [
     "id": "aquos-serpenoid",
     "name": "Serpenoid",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosSerpenoid.PNG",
+    "image": "/bakugans/aquos/serpenoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -4976,7 +4976,7 @@ export const BAKUGANS = [
     "id": "subterra-serpenoid",
     "name": "Serpenoid",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraSerpenoid.PNG",
+    "image": "/bakugans/subterra/serpenoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -4985,7 +4985,7 @@ export const BAKUGANS = [
     "id": "haos-siege",
     "name": "Siege",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosSiege.PNG",
+    "image": "/bakugans/haos/siege.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -4994,7 +4994,7 @@ export const BAKUGANS = [
     "id": "darkus-siege",
     "name": "Siege",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusSiege.PNG",
+    "image": "/bakugans/darkus/siege.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -5003,7 +5003,7 @@ export const BAKUGANS = [
     "id": "ventus-siege",
     "name": "Siege",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusSiege.PNG",
+    "image": "/bakugans/ventus/siege.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -5012,7 +5012,7 @@ export const BAKUGANS = [
     "id": "pyrus-siege",
     "name": "Siege",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusSiege.PNG",
+    "image": "/bakugans/pyrus/siege.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5029,7 +5029,7 @@ export const BAKUGANS = [
     "id": "aquos-siege",
     "name": "Siege",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosSiege.PNG",
+    "image": "/bakugans/aquos/siege.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5046,7 +5046,7 @@ export const BAKUGANS = [
     "id": "subterra-siege",
     "name": "Siege",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraSiege.PNG",
+    "image": "/bakugans/subterra/siege.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -5055,7 +5055,7 @@ export const BAKUGANS = [
     "id": "haos-sirenoid",
     "name": "Sirenoid",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosSirenoid.PNG",
+    "image": "/bakugans/haos/sirenoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5079,7 +5079,7 @@ export const BAKUGANS = [
     "id": "darkus-sirenoid",
     "name": "Sirenoid",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusSirenoid.PNG",
+    "image": "/bakugans/darkus/sirenoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5103,7 +5103,7 @@ export const BAKUGANS = [
     "id": "ventus-sirenoid",
     "name": "Sirenoid",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusSirenoid.PNG",
+    "image": "/bakugans/ventus/sirenoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5127,7 +5127,7 @@ export const BAKUGANS = [
     "id": "pyrus-sirenoid",
     "name": "Sirenoid",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusSirenoid.PNG",
+    "image": "/bakugans/pyrus/sirenoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5151,7 +5151,7 @@ export const BAKUGANS = [
     "id": "aquos-sirenoid",
     "name": "Sirenoid",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosSirenoid.PNG",
+    "image": "/bakugans/aquos/sirenoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5175,7 +5175,7 @@ export const BAKUGANS = [
     "id": "subterra-sirenoid",
     "name": "Sirenoid",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraSirenoid.PNG",
+    "image": "/bakugans/subterra/sirenoid.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5199,7 +5199,7 @@ export const BAKUGANS = [
     "id": "haos-skyress",
     "name": "Skyress",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosSkyress.PNG",
+    "image": "/bakugans/haos/skyress.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5216,7 +5216,7 @@ export const BAKUGANS = [
     "id": "darkus-skyress",
     "name": "Skyress",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusSkyress.PNG",
+    "image": "/bakugans/darkus/skyress.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5233,7 +5233,7 @@ export const BAKUGANS = [
     "id": "ventus-skyress",
     "name": "Skyress",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusSkyress.PNG",
+    "image": "/bakugans/ventus/skyress.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5250,7 +5250,7 @@ export const BAKUGANS = [
     "id": "pyrus-skyress",
     "name": "Skyress",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusSkyress.PNG",
+    "image": "/bakugans/pyrus/skyress.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5267,7 +5267,7 @@ export const BAKUGANS = [
     "id": "aquos-skyress",
     "name": "Skyress",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosSkyress.PNG",
+    "image": "/bakugans/aquos/skyress.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5284,7 +5284,7 @@ export const BAKUGANS = [
     "id": "subterra-skyress",
     "name": "Skyress",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraSkyress.PNG",
+    "image": "/bakugans/subterra/skyress.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5301,7 +5301,7 @@ export const BAKUGANS = [
     "id": "haos-tentaclear",
     "name": "Tentaclear",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosTentaclear.PNG",
+    "image": "/bakugans/haos/tentaclear.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5325,7 +5325,7 @@ export const BAKUGANS = [
     "id": "darkus-tentaclear",
     "name": "Tentaclear",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusTentaclear.PNG",
+    "image": "/bakugans/darkus/tentaclear.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5349,7 +5349,7 @@ export const BAKUGANS = [
     "id": "ventus-tentaclear",
     "name": "Tentaclear",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusTentaclear.PNG",
+    "image": "/bakugans/ventus/tentaclear.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5373,7 +5373,7 @@ export const BAKUGANS = [
     "id": "pyrus-tentaclear",
     "name": "Tentaclear",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusTentaclear.PNG",
+    "image": "/bakugans/pyrus/tentaclear.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5397,7 +5397,7 @@ export const BAKUGANS = [
     "id": "aquos-tentaclear",
     "name": "Tentaclear",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosTentaclear.PNG",
+    "image": "/bakugans/aquos/tentaclear.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5421,7 +5421,7 @@ export const BAKUGANS = [
     "id": "subterra-tentaclear",
     "name": "Tentaclear",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraTentaclear.PNG",
+    "image": "/bakugans/subterra/tentaclear.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5445,7 +5445,7 @@ export const BAKUGANS = [
     "id": "haos-tigrerra",
     "name": "Tigrerra",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosTigrerra.PNG",
+    "image": "/bakugans/haos/tigrerra.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5476,7 +5476,7 @@ export const BAKUGANS = [
     "id": "darkus-tigrerra",
     "name": "Tigrerra",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusTigrerra.PNG",
+    "image": "/bakugans/darkus/tigrerra.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5500,7 +5500,7 @@ export const BAKUGANS = [
     "id": "ventus-tigrerra",
     "name": "Tigrerra",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusTigrerra.PNG",
+    "image": "/bakugans/ventus/tigrerra.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5524,7 +5524,7 @@ export const BAKUGANS = [
     "id": "pyrus-tigrerra",
     "name": "Tigrerra",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusTigrerra.PNG",
+    "image": "/bakugans/pyrus/tigrerra.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5548,7 +5548,7 @@ export const BAKUGANS = [
     "id": "aquos-tigrerra",
     "name": "Tigrerra",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosTigrerra.PNG",
+    "image": "/bakugans/aquos/tigrerra.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5572,7 +5572,7 @@ export const BAKUGANS = [
     "id": "subterra-tigrerra",
     "name": "Tigrerra",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraTigrerra.PNG",
+    "image": "/bakugans/subterra/tigrerra.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5596,7 +5596,7 @@ export const BAKUGANS = [
     "id": "haos-tripod-epsilon",
     "name": "Tripod Epsilon",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosEpsilon.PNG",
+    "image": "/bakugans/haos/tripod-epsilon.png",
     "attributeChanger": [
       "Haos",
       "Pyrus",
@@ -5617,7 +5617,7 @@ export const BAKUGANS = [
     "id": "darkus-tripod-epsilon",
     "name": "Tripod Epsilon",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusEpsilon.PNG",
+    "image": "/bakugans/darkus/tripod-epsilon.png",
     "attributeChanger": [
       "Darkus",
       "Pyrus",
@@ -5638,7 +5638,7 @@ export const BAKUGANS = [
     "id": "ventus-tripod-epsilon",
     "name": "Tripod Epsilon",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusEpsilon.PNG",
+    "image": "/bakugans/ventus/tripod-epsilon.png",
     "attributeChanger": [
       "Ventus",
       "Darkus",
@@ -5659,7 +5659,7 @@ export const BAKUGANS = [
     "id": "pyrus-tripod-epsilon",
     "name": "Tripod Epsilon",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusEpsilon.PNG",
+    "image": "/bakugans/pyrus/tripod-epsilon.png",
     "attributeChanger": [
       "Pyrus",
       "Aquos",
@@ -5680,7 +5680,7 @@ export const BAKUGANS = [
     "id": "aquos-tripod-epsilon",
     "name": "Tripod Epsilon",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosEpsilon.PNG",
+    "image": "/bakugans/aquos/tripod-epsilon.png",
     "attributeChanger": [
       "Aquos",
       "Haos",
@@ -5701,7 +5701,7 @@ export const BAKUGANS = [
     "id": "subterra-tripod-epsilon",
     "name": "Tripod Epsilon",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraEpsilon.PNG",
+    "image": "/bakugans/subterra/tripod-epsilon.png",
     "attributeChanger": [
       "Subterra",
       "Aquos",
@@ -5722,7 +5722,7 @@ export const BAKUGANS = [
     "id": "haos-tripod-theta",
     "name": "Tripod Theta",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosTheta.PNG",
+    "image": "/bakugans/haos/tripod-theta.png",
     "attributeChanger": [
       "Haos",
       "Darkus",
@@ -5743,7 +5743,7 @@ export const BAKUGANS = [
     "id": "darkus-tripod-theta",
     "name": "Tripod Theta",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusTheta.PNG",
+    "image": "/bakugans/darkus/tripod-theta.png",
     "attributeChanger": [
       "Darkus",
       "Aquos",
@@ -5764,7 +5764,7 @@ export const BAKUGANS = [
     "id": "ventus-tripod-theta",
     "name": "Tripod Theta",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusTheta.PNG",
+    "image": "/bakugans/ventus/tripod-theta.png",
     "attributeChanger": [
       "Ventus",
       "Aquos",
@@ -5785,7 +5785,7 @@ export const BAKUGANS = [
     "id": "pyrus-tripod-theta",
     "name": "Tripod Theta",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusTheta.PNG",
+    "image": "/bakugans/pyrus/tripod-theta.png",
     "attributeChanger": [
       "Pyrus",
       "Subterra",
@@ -5806,7 +5806,7 @@ export const BAKUGANS = [
     "id": "aquos-tripod-theta",
     "name": "Tripod Theta",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosTheta.PNG",
+    "image": "/bakugans/aquos/tripod-theta.png",
     "attributeChanger": [
       "Aquos",
       "Darkus",
@@ -5827,7 +5827,7 @@ export const BAKUGANS = [
     "id": "subterra-tripod-theta",
     "name": "Tripod Theta",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraTheta.PNG",
+    "image": "/bakugans/subterra/tripod-theta.png",
     "attributeChanger": [
       "Subterra",
       "Haos",
@@ -5848,7 +5848,7 @@ export const BAKUGANS = [
     "id": "haos-vladitor",
     "name": "Vladitor",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosVladitor.PNG",
+    "image": "/bakugans/haos/vladitor.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5865,7 +5865,7 @@ export const BAKUGANS = [
     "id": "darkus-vladitor",
     "name": "Vladitor",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusVladitor.PNG",
+    "image": "/bakugans/darkus/vladitor.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5882,7 +5882,7 @@ export const BAKUGANS = [
     "id": "ventus-vladitor",
     "name": "Vladitor",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusVladitor.PNG",
+    "image": "/bakugans/ventus/vladitor.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5899,7 +5899,7 @@ export const BAKUGANS = [
     "id": "pyrus-vladitor",
     "name": "Vladitor",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusVladitor.PNG",
+    "image": "/bakugans/pyrus/vladitor.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5916,7 +5916,7 @@ export const BAKUGANS = [
     "id": "aquos-vladitor",
     "name": "Vladitor",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosVladitor.PNG",
+    "image": "/bakugans/aquos/vladitor.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5933,7 +5933,7 @@ export const BAKUGANS = [
     "id": "subterra-vladitor",
     "name": "Vladitor",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraVladitor.PNG",
+    "image": "/bakugans/subterra/vladitor.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -5950,7 +5950,7 @@ export const BAKUGANS = [
     "id": "haos-warius",
     "name": "Warius",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosWarius.PNG",
+    "image": "/bakugans/haos/warius.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -5959,7 +5959,7 @@ export const BAKUGANS = [
     "id": "darkus-warius",
     "name": "Warius",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusWarius.PNG",
+    "image": "/bakugans/darkus/warius.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -5968,7 +5968,7 @@ export const BAKUGANS = [
     "id": "ventus-warius",
     "name": "Warius",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusWarius.PNG",
+    "image": "/bakugans/ventus/warius.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -5977,7 +5977,7 @@ export const BAKUGANS = [
     "id": "pyrus-warius",
     "name": "Warius",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusWarius.PNG",
+    "image": "/bakugans/pyrus/warius.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -5986,7 +5986,7 @@ export const BAKUGANS = [
     "id": "aquos-warius",
     "name": "Warius",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosWarius.PNG",
+    "image": "/bakugans/aquos/warius.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -5995,7 +5995,7 @@ export const BAKUGANS = [
     "id": "subterra-warius",
     "name": "Warius",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraWarius.PNG",
+    "image": "/bakugans/subterra/warius.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": []
@@ -6004,7 +6004,7 @@ export const BAKUGANS = [
     "id": "haos-wilda",
     "name": "Wilda",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosWilda.PNG",
+    "image": "/bakugans/haos/wilda.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -6028,7 +6028,7 @@ export const BAKUGANS = [
     "id": "darkus-wilda",
     "name": "Wilda",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusWilda.PNG",
+    "image": "/bakugans/darkus/wilda.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -6052,7 +6052,7 @@ export const BAKUGANS = [
     "id": "ventus-wilda",
     "name": "Wilda",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusWilda.PNG",
+    "image": "/bakugans/ventus/wilda.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -6076,7 +6076,7 @@ export const BAKUGANS = [
     "id": "pyrus-wilda",
     "name": "Wilda",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusWilda.PNG",
+    "image": "/bakugans/pyrus/wilda.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -6100,7 +6100,7 @@ export const BAKUGANS = [
     "id": "aquos-wilda",
     "name": "Wilda",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosWilda.PNG",
+    "image": "/bakugans/aquos/wilda.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -6124,7 +6124,7 @@ export const BAKUGANS = [
     "id": "subterra-wilda",
     "name": "Wilda",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraWilda.PNG",
+    "image": "/bakugans/subterra/wilda.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -6148,7 +6148,7 @@ export const BAKUGANS = [
     "id": "haos-wired",
     "name": "Wired",
     "attribute": "Haos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/HaosWired.PNG",
+    "image": "/bakugans/haos/wired.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -6165,7 +6165,7 @@ export const BAKUGANS = [
     "id": "darkus-wired",
     "name": "Wired",
     "attribute": "Darkus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/DarkusWired.PNG",
+    "image": "/bakugans/darkus/wired.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -6182,7 +6182,7 @@ export const BAKUGANS = [
     "id": "ventus-wired",
     "name": "Wired",
     "attribute": "Ventus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/VentusWired.PNG",
+    "image": "/bakugans/ventus/wired.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -6199,7 +6199,7 @@ export const BAKUGANS = [
     "id": "pyrus-wired",
     "name": "Wired",
     "attribute": "Pyrus",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/PyrusWired.PNG",
+    "image": "/bakugans/pyrus/wired.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -6216,7 +6216,7 @@ export const BAKUGANS = [
     "id": "aquos-wired",
     "name": "Wired",
     "attribute": "Aquos",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/AquosWired.PNG",
+    "image": "/bakugans/aquos/wired.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
@@ -6233,7 +6233,7 @@ export const BAKUGANS = [
     "id": "subterra-wired",
     "name": "Wired",
     "attribute": "Subterra",
-    "image": "http://swooshbakugans.duckdns.org/uploads/products/SubterraWilda_0Jghlmn.PNG",
+    "image": "/bakugans/subterra/wired.png",
     "attributeChanger": [],
     "bugs": [],
     "abilities": [
