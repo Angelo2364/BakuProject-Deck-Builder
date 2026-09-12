@@ -1,0 +1,2952 @@
+Relatório de matching de imagens — 2026-09-12T07:40:43.152Z
+============================================================
+Imagens na pasta: 2923
+Cartas de Habilidade no total: 220
+Casadas com sucesso: 202
+
+--- CASADAS ---
+[1.00] Ability Counter Card Art.png  ->  Ability Counter
+[0.40] Action - Wave Icon.png  ->  Forcing Wave
+[1.00] Air Battle Card Art.png  ->  Air Battle
+[1.00] Alpha Blaster Card Art.png  ->  Alpha Blaster
+[1.00] Ancient Glow Card Art.png  ->  Ancient Glow
+[1.00] Anthemusa Card Art.png  ->  Anthemusa
+[1.00] Apollon Head Card Art.png  ->  Apollon Head
+[1.00] Aqua Javelin Art.png  ->  Aqua Javelin
+[1.00] Aquos Cyclone Card Art.png  ->  Aquos Cyclone
+[0.50] Aquos.png  ->  Correlation - Aquos & Ventus
+[1.00] Arculus Card Art.png  ->  Arculus
+[1.00] Armored Megadome Card Art.png  ->  Armored Megadome
+[1.00] Armored Victory Card Art.png  ->  Armored Victory
+[1.00] Aurora Dimension Card Art.png  ->  Aurora Dimension
+[1.00] Backfire Card Art.png  ->  Backfire
+[1.00] Battle Marionette Card Art.png  ->  Battle Marionette
+[1.00] Black Is Darkness Card Art.png  ->  Black is Darkness
+[1.00] Black Maiden Card Art.png  ->  Black Maiden
+[1.00] Blaster Bind Card Art.png  ->  Blaster Bind
+[1.00] Blow Away Card Art.png  ->  Blow Away
+[1.00] Blower Plexus Card Art.png  ->  Blower Plexus
+[1.00] Blue Shield Card Art.png  ->  Blue Shield
+[1.00] Blue Sky Card Art.png  ->  Blue Sky
+[1.00] Blue Stealth Card Art.png  ->  Blue Stealth
+[1.00] Boosted Dragon Art.png  ->  Boosted Dragon
+[1.00] Burning Dragon Card Art.png  ->  Burning Dragon
+[1.00] Burst Core Card Art.png  ->  Burst Core
+[1.00] Burst Shield Card Art.png  ->  Burst Shield
+[1.00] Call Of The Void Card Art.png  ->  Call Of The Void
+[1.00] Chaos Leap Sting.png  ->  Chaos Leap Sting
+[1.00] Claw Thunder Position - Kagenui Card Art.png  ->  Claw Thunder Position Kagenui
+[1.00] Continuous Dance - Phoenix Position Card Art.png  ->  Continuous Dance Phoenix Position
+[1.00] Copycat Card Art.png  ->  Copycat
+[1.00] Corona Hole Card Art.png  ->  Corona Hole
+[1.00] Correlation Darkus Aquos Card Art.png  ->  Correlation - Darkus & Aquos
+[1.00] Correlation Ventus Pyrus Card Art.png  ->  Correlation - Ventus & Pyrus
+[1.00] Crossfire Card Art.png  ->  Crossfire
+[1.00] Crystal Fang Card Art.png  ->  Crystal Fang
+[1.00] Cut In Saber Card Art.png  ->  Cut In Saber
+[1.00] Cut In Slayer Card Art.png  ->  Cut In Slayer
+[1.00] Dark Eye Superior Card Art.png  ->  Dark Eye Superior
+[1.00] Dark Sphere Impact Card Art.png  ->  Dark Sphere Impact
+[1.00] Darkus Driver Card Art.png  ->  Darkus Driver
+[1.00] Darkus Gravity Card Art.png  ->  Darkus Gravity
+[1.00] Darkus Scythe Card Art.png  ->  Darkus Scythe
+[0.50] Darkus.png  ->  Correlation - Haos & Darkus
+[1.00] Depth Tornado Card Art.png  ->  Depth Tornado
+[1.00] Desert Hole Card Art.png  ->  Desert Hole
+[1.00] Desert Python Card Art.png  ->  Desert Python
+[1.00] Destroy Force Down Card Art.png  ->  Destroy Force Down
+[0.86] Diagonal Pyrus Darkus Art.png  ->  Diagonal Link - Pyrus & Darkus
+[0.86] Diagonal Subterra Aquos Art.png  ->  Diagonal Link - Aquos & Subterra
+[0.86] Diagonal Ventus Haos Art.png  ->  Diagonal Link - Ventus & Haos
+[1.00] Diamond Snail Card Art.png  ->  Diamond Snail
+[1.00] Dimension Four Card Art.png  ->  Dimension Four
+[1.00] Dive Mirage Art.png  ->  Dive Mirage
+[1.00] Divine Blessing Card Art.png  ->  Divine Blessing
+[1.00] Doom Companion Art.png  ->  Doom Companion
+[1.00] Double Dimension Card Art.png  ->  Double Dimension
+[1.00] Double Down Card Art.png  ->  Double Down
+[1.00] Dragon Clash Card Art.png  ->  Dragon Clash
+[1.00] Dragon Contender Card Art.png  ->  Dragon Contender
+[1.00] Dual Gazer Art.png  ->  Dual Gazer
+[1.00] Earth Power Card Art.png  ->  Earth Power
+[1.00] Enhancement Card Art.png  ->  Enhancement
+[1.00] Eye For An Eye Card Art.png  ->  Eye For An Eye
+[0.50] face and neck.png  ->  Face Of Grief
+[1.00] Face Of Joy Card Art.png  ->  Face Of Joy
+[1.00] Face Of Rage Card Art.png  ->  Face of Rage
+[1.00] Feather Storm Card Art.png  ->  Feather Storm
+[0.80] Feather_Edge_Card_Art_upscaled.png  ->  Feather Edge
+[1.00] Fire Judge Card Art.png  ->  Fire Judge
+[1.00] Fire Sword Art.png  ->  Fire Sword
+[1.00] Fire Tornado Card Art.png  ->  Fire Tornado
+[1.00] Fire Wall Card Art.png  ->  Fire Wall
+[0.40] fire_soft_blank.png  ->  Frame Fire
+[0.50] Flare_FatDot.png  ->  Flare Blinder
+[1.00] Flash Freeze Card Art.png  ->  Flash Freeze
+[1.00] Floodgate Card Art.png  ->  Floodgate
+[1.00] Flow Skylight Card Art.png  ->  Flow Skylight
+[1.00] Fly Enemy Art.png  ->  Fly Enemy
+[1.00] Freezing Waves Card Art.png  ->  Freezing Wave
+[1.00] Full Burst Card Art.png  ->  Full Burst
+[1.00] Gaia Loose Card Art.png  ->  Gaia Loose
+[1.00] Gale Force Card Art.png  ->  Gale Force
+[1.00] Gate Building Art.png  ->  Gate Building
+[1.00] Gatekeeper Card Art.png  ->  Gatekeeper
+[1.00] General Quasar Card Art.png  ->  General Quasar
+[1.00] Ghost Cell Card Art.png  ->  Ghost Cell
+[1.00] Giga Armor Card Art.png  ->  Giga Armor
+[1.00] Gilian Cords Card Art.png  ->  Gilian Cords
+[1.00] Grand Down Card Art.png  ->  Grand Down
+[1.00] Grand Slide Card Art.png  ->  Grand Slide
+[1.00] Gravity Chamber Card Art.png  ->  Gravity Chamber
+[1.00] Green Nobility Violent Wind Card Art.png  ->  Green Nobility - Violent Wind
+[1.00] Guiding Light Card Art.png  ->  Guiding Light
+[1.00] Gun Lock Card Art.png  ->  Gun Lock
+[1.00] Haos Freeze Card Art.png  ->  Haos Freeze
+[1.00] Haos Surge Card Art.png  ->  Haos Surge
+[1.00] Haos Triple Chain - Haos Stasis Card Art.png  ->  Haos Triple Chain - Haos Stasis
+[0.50] Haos.png  ->  Correlation - Subterra & Haos
+[0.67] Heat.png  ->  Heat Wave
+[0.50] Heavy Assail Card Art.png  ->  Heavy Aegis
+[1.00] Helping Hands Card Art.png  ->  Helping Hand
+[1.00] Holograph Divide Card Art.png  ->  Holograph Divide
+[1.00] Hybrid Cannon Card Art.png  ->  Hybrid Cannon
+[1.00] Jamming Out Card Art.png  ->  Jamming Out
+[1.00] Jeer Frontier Card Art.png  ->  Jeer Frontier
+[1.00] Jump Over Card Art.png  ->  Jump Over
+[1.00] Leap Sting Card Art.png  ->  Leap Sting
+[1.00] Left Giganti Card Art.png  ->  Left Giganti
+[0.40] life_drop 1.png  ->  Life Ripple
+[1.00] Lightning Shield Card Art.png  ->  Lightning Shield
+[1.00] Lightning Tornado Card Art.png  ->  Lightning Tornado
+[1.00] Maelstrom Card Art.png  ->  Maelstrom
+[0.50] Magma Providence Card Art.png  ->  Magma Prominence
+[1.00] Maniactus Magical Card Art.png  ->  Maniactus Magical
+[1.00] Maximum Dragon Card Art.png  ->  Maximum Dragon
+[1.00] Maximum Quasar Card Art.png  ->  Maximum Quasar
+[1.00] Mega Flare Blinder Art.png  ->  Mega Flare Blinder
+[1.00] Mega Shield Card Art.png  ->  Mega Shield
+[1.00] Melt Flare Card Art.png  ->  Melt Flare
+[1.00] Melt Stream Card Art.png  ->  Melt Stream
+[1.00] Merge Shield Card Art.png  ->  Merge Shield
+[1.00] Misty Shadow Card Art.png  ->  Misty Shadow
+[1.00] Moon Rainbow Card Art.png  ->  Moon Rainbow
+[1.00] Mythran Judge Card Art.png  ->  Mythran Judge
+[1.00] Nova Defenser Card Art.png  ->  Nova Defenser
+[1.00] Nova Spiral Card Art.png  ->  Nova Spiral
+[1.00] Oregano Revenge Card Art.png  ->  Oregano Revenge
+[1.00] Phaser Trident Card Art.png  ->  Phaser Trident
+[1.00] Photon Tail Card Art.png  ->  Photon Tail
+[1.00] Positivity Down Card Art.png  ->  Positivity Down
+[1.00] Power Charge Card Art.png  ->  Power Charge
+[1.00] Pure Light Card Art.png  ->  Pure Light
+[1.00] Pyra Might Skid Roa - Card Art.png  ->  Pyra Might Skid Roa
+[1.00] Pyrus Burst Card Art.png  ->  Pyrus Burst
+[0.67] Pyrus.png  ->  Pyrus Durance
+[1.00] Raging Inferno Card Art.png  ->  Raging Inferno
+[1.00] Rapid Fire Card Art.png  ->  Rapid Fire
+[1.00] Rapid Haos Card Art.png  ->  Rapid Haos
+[1.00] Raven Lore Card Art.png  ->  Raven Lore
+[1.00] Ray Drill Card Art.png  ->  Ray Drill
+[1.00] Recovery Card Art.png  ->  Recovery
+[1.00] Reflection Boost Card Art.png  ->  Reflection Boost
+[1.00] Right Giganti Card Art.png  ->  Right Giganti
+[1.00] Ring Of Flames Card Art.png  ->  Ring Of Flames
+[0.67] Robotallion Card Art.png  ->  Robotallion Enforcement
+[0.67] Rock.png  ->  Molten Rock
+[1.00] Sand Trap Card Art.png  ->  Sand Trap
+[1.00] Saturn Balloon Card Art.png  ->  Saturn Balloon
+[1.00] Saurer Cannon Card Art.png  ->  Saurer Cannon
+[1.00] Saurus Glow Card Art.png  ->  Saurus Glow
+[1.00] Scarlet Twister Card Art.png  ->  Scarlet Twister
+[1.00] Scramble Zwei Card Art.png  ->  Scramble Zwei
+[1.00] Screw Blow Card Art.png  ->  Screw Blow
+[1.00] Second Wind Card Art.png  ->  Second Wind
+[1.00] Shade Ability Card Art.png  ->  Shade Ability
+[0.50] Shade Cocoon Card Art.png  ->  Shade Cacoon
+[1.00] Shadow Aggressor Card Art.png  ->  Shadow Aggressor
+[0.80] Shadow Echo Card Art 1.png  ->  Shadow Echo
+[1.00] Shadow Scratch Card Art.png  ->  Shadow Scratch
+[1.00] Shadow Split Card Art.png  ->  Shadow Split
+[1.00] Shock Cannon Card Art.png  ->  Shock Cannon
+[1.00] Shooting Stardust Card Art.png  ->  Shooting Stardust
+[1.00] Slash Zero Card Art.png  ->  Slash Zero
+[1.00] Solar Ray Card Art.png  ->  Solar Ray
+[1.00] Spark Out Card Art.png  ->  Spark Out
+[1.00] Spark Roa Card Art.png  ->  Spark Roa
+[1.00] Spiced Assault.png  ->  Spiced Assault
+[1.00] Spinal Saucer Card Art.png  ->  Spinal Saucer
+[1.00] Spirit Canyon Card Art.png  ->  Spirit Canyon
+[1.00] Stare Down Card Art.png  ->  Stare Down
+[1.00] Storm Breaker Card Art.png  ->  Storm Breaker
+[1.00] Stray Thunder Card Art.png  ->  Stray Thunder
+[1.00] Strike Dragon Card Art.png  ->  Strike Dragon
+[1.00] Subterra Reaction Card Art.png  ->  Subterra Reaction
+[0.50] Subterra.png  ->  Correlation - Pyrus & Subterra
+[1.00] Super Shard Card Art.png  ->  Super Shard
+[1.00] Tank Bunker Card Art.png  ->  Tank Bunker
+[1.00] Terra Crunch Card Art.png  ->  Terra Crunch
+[1.00] Thunder Booster Card Art.png  ->  Thunder booster
+[1.00] Thunder Fire Card Art.png  ->  Thunder Fire
+[1.00] Thunderbolt - Torrential Wave Card Art.png  ->  Thunderbolt Torrential Wave
+[1.00] Tides Of Fate Card Art.png  ->  Tides Of Fate
+[1.00] Titan Knuckle Card Art.png  ->  Titan Knuckle
+[1.00] Tornado Barrier Card Art.png  ->  Tornado Barrier
+[1.00] Tornado Pandemonium Card Art.png  ->  Tornado Pandemonium
+[1.00] Tri Gunner Card Art.png  ->  Tri Gunner
+[1.00] Trick World Card Art.png  ->  Trick World
+[1.00] Tsunami Wave Art.png  ->  Tsunami Wave
+[1.00] Twin Back Card Art.png  ->  Twin Back
+[1.00] Updraft Card Art.png  ->  Updraft
+[1.00] Venomous Beast Torrent Attack Card Art.png  ->  Venomous Beast Torrent Attack
+[0.75] Ventus Triple Chain Card Art.png  ->  Ventus Triple Chain - Winds Of Fury
+[1.00] Vermillion Card Art.png  ->  Vermillion
+[1.00] Void Stream Card Art.png  ->  Void Stream
+[1.00] Water Refrain Card Art.png  ->  Water Refrain
+[1.00] Water Slap Card Art.png  ->  Water Slap
+[1.00] Wind Power - Soaring Strike Shot Card Art.png  ->  Wind Power Soaring Strike Shot
+[1.00] Wing Mercury Card Art.png  ->  Wing Mercury
+[0.80] Wizard Proxy Card Art 1.png  ->  Wizard Proxy
+
+--- IMAGENS SEM PAR CONFIANTE (2721) ---
+0000010C91AA6270(1)_upscaled.png  -- nenhuma carta parecida encontrada
+0000010C91AA6270_upscaled(2).png  -- nenhuma carta parecida encontrada
+0000019A101AF270-transformed(1)(1).png  -- nenhuma carta parecida encontrada
+0000019A101AF270-transformed(1).png  -- nenhuma carta parecida encontrada
+0000019DA98A04B0(1).png  -- nenhuma carta parecida encontrada
+0000019DA98A30B0.png  -- nenhuma carta parecida encontrada
+0000019DB3AEA630.png  -- nenhuma carta parecida encontrada
+0000019DB3AED530.png  -- nenhuma carta parecida encontrada
+0000019F949C0230_upscaled(1).png  -- nenhuma carta parecida encontrada
+000001AB88676A70.png  -- nenhuma carta parecida encontrada
+000001AB886781F0.png  -- nenhuma carta parecida encontrada
+000001ABA9E884F0.png  -- nenhuma carta parecida encontrada
+000001BB1535DDF0.png  -- nenhuma carta parecida encontrada
+000001DB183D14F0.png  -- nenhuma carta parecida encontrada
+000001DE4463AF30.png  -- nenhuma carta parecida encontrada
+000001DE4463B4F0.png  -- nenhuma carta parecida encontrada
+000001DE4463BDB0.png  -- nenhuma carta parecida encontrada
+000001DE4463D270.png  -- nenhuma carta parecida encontrada
+000001DE4463D830.png  -- nenhuma carta parecida encontrada
+000001DE4463E3F0.png  -- nenhuma carta parecida encontrada
+000001DE44640730.png  -- nenhuma carta parecida encontrada
+000001DE5D957670(2).png  -- nenhuma carta parecida encontrada
+000001DE5D957670.png  -- nenhuma carta parecida encontrada
+000001DEA90678F0_upscaled(2).png  -- nenhuma carta parecida encontrada
+000001DEA90678F0_upscaled(3).png  -- nenhuma carta parecida encontrada
+000001DEA90681B0_upscaled.png  -- nenhuma carta parecida encontrada
+000001FB07D22D30.png  -- nenhuma carta parecida encontrada
+000001FB07D241B0.png  -- nenhuma carta parecida encontrada
+000001FB07D264F0.png  -- nenhuma carta parecida encontrada
+000001FB07D267F0.png  -- nenhuma carta parecida encontrada
+000001FB07D26DB0.png  -- nenhuma carta parecida encontrada
+000001FB07D270B0.png  -- nenhuma carta parecida encontrada
+000001FB07D273B0.png  -- nenhuma carta parecida encontrada
+000001FB07D27970.png  -- nenhuma carta parecida encontrada
+000001FB07D293F0.png  -- nenhuma carta parecida encontrada
+000001FB14D4A1B0.png  -- nenhuma carta parecida encontrada
+000001FB14D4C230.png  -- nenhuma carta parecida encontrada
+000001FB14D4EB30.png  -- nenhuma carta parecida encontrada
+000001FB14D4F3F0.png  -- nenhuma carta parecida encontrada
+000001FB14D4F6F0.png  -- nenhuma carta parecida encontrada
+000001FB14D4FFB0.png  -- nenhuma carta parecida encontrada
+000001FB15DA0730.png  -- nenhuma carta parecida encontrada
+000002161D465430.png  -- nenhuma carta parecida encontrada
+000002161D465730.png  -- nenhuma carta parecida encontrada
+000002161D465A30.png  -- nenhuma carta parecida encontrada
+000002161D465D30.png  -- nenhuma carta parecida encontrada
+000002161D46A0B0.png  -- nenhuma carta parecida encontrada
+000002161D46A3B0.png  -- nenhuma carta parecida encontrada
+000002161D46A970.png  -- nenhuma carta parecida encontrada
+000002161D46AC70.png  -- nenhuma carta parecida encontrada
+0000022245337B70.png  -- nenhuma carta parecida encontrada
+0000023CD5E365F0.png  -- nenhuma carta parecida encontrada
+0000023CD5E3DE70.png  -- nenhuma carta parecida encontrada
+0000023CD5E3E430.png  -- nenhuma carta parecida encontrada
+0000023CD5E3EA30.png  -- nenhuma carta parecida encontrada
+0000023CD5E3ECF0.png  -- nenhuma carta parecida encontrada
+0000023CD5E3F2F0.png  -- nenhuma carta parecida encontrada
+0000023CD5E3F5F0.png  -- nenhuma carta parecida encontrada
+0000023CD5E401B0.png  -- nenhuma carta parecida encontrada
+000002A5A623A070.png  -- nenhuma carta parecida encontrada
+000002A5AAF7F930.png  -- nenhuma carta parecida encontrada
+000002A5AAF82270.png  -- nenhuma carta parecida encontrada
+000002A5AAF842B0.png  -- nenhuma carta parecida encontrada
+000002A5AAF85730.png  -- nenhuma carta parecida encontrada
+000002A5AAF85A30.png  -- nenhuma carta parecida encontrada
+000002A5AAF868F0.png  -- nenhuma carta parecida encontrada
+000002A5AAF88070.png  -- nenhuma carta parecida encontrada
+000002A5AAF88330.png  -- nenhuma carta parecida encontrada
+000002A5AAF88EF0_upscaled(1).png  -- nenhuma carta parecida encontrada
+000002A5AAF89AB0.png  -- nenhuma carta parecida encontrada
+000002A5AAF8A670.png  -- nenhuma carta parecida encontrada
+000002A5AAF8B830.png  -- nenhuma carta parecida encontrada
+000002A5AAF8BB30.png  -- nenhuma carta parecida encontrada
+000002D40E3F11F0(2).png  -- nenhuma carta parecida encontrada
+04_summon_skeleton_army_nobg.png  -- nenhuma carta parecida encontrada
+1 #3205.png  -- nenhuma carta parecida encontrada
+1 #4125.png  -- nenhuma carta parecida encontrada
+1.png  -- nenhuma carta parecida encontrada
+10.png  -- nenhuma carta parecida encontrada
+11.png  -- nenhuma carta parecida encontrada
+11_bull_nobg.png  -- nenhuma carta parecida encontrada
+1200x675-removebg-preview(1).png  -- nenhuma carta parecida encontrada
+13 #4418.png  -- nenhuma carta parecida encontrada
+13 1.png  -- nenhuma carta parecida encontrada
+13.png  -- nenhuma carta parecida encontrada
+2 #4357.png  -- nenhuma carta parecida encontrada
+2.png  -- nenhuma carta parecida encontrada
+3 #4397.png  -- nenhuma carta parecida encontrada
+3.png  -- nenhuma carta parecida encontrada
+31.png  -- nenhuma carta parecida encontrada
+33.png  -- nenhuma carta parecida encontrada
+34.png  -- nenhuma carta parecida encontrada
+38.png  -- nenhuma carta parecida encontrada
+4 #3416.png  -- nenhuma carta parecida encontrada
+4.png  -- nenhuma carta parecida encontrada
+40.png  -- nenhuma carta parecida encontrada
+42.png  -- nenhuma carta parecida encontrada
+48 #4002.png  -- nenhuma carta parecida encontrada
+48.png  -- nenhuma carta parecida encontrada
+5.png  -- nenhuma carta parecida encontrada
+6 #2987.png  -- nenhuma carta parecida encontrada
+6 #4410.png  -- nenhuma carta parecida encontrada
+6.png  -- nenhuma carta parecida encontrada
+7.png  -- nenhuma carta parecida encontrada
+71_spirit_wolves_nobg.png  -- nenhuma carta parecida encontrada
+8 #3719.png  -- nenhuma carta parecida encontrada
+8.png  -- nenhuma carta parecida encontrada
+81bf774N16L.png  -- nenhuma carta parecida encontrada
+9 #2275.png  -- nenhuma carta parecida encontrada
+9.png  -- nenhuma carta parecida encontrada
+Ability Card 1 Slider Left Texture.png  -- nenhuma carta parecida encontrada
+Ability Card 1 Slider Right Texture.png  -- nenhuma carta parecida encontrada
+Ability Card 1 Texture No Art.png  -- nenhuma carta parecida encontrada
+Ability Card 1 Texture(2)(3).png  -- nenhuma carta parecida encontrada
+Ability Card 1 Texture.png  -- nenhuma carta parecida encontrada
+Ability Card 2 Texture.png  -- nenhuma carta parecida encontrada
+Ace Icon.png  -- nenhuma carta parecida encontrada
+Action - Bow Icon.png  -- nenhuma carta parecida encontrada
+Action - Clap Icon.png  -- nenhuma carta parecida encontrada
+Action - Dab Icon.png  -- nenhuma carta parecida encontrada
+Action - Face Palm Icon.png  -- nenhuma carta parecida encontrada
+Action - Flex Icon.png  -- nenhuma carta parecida encontrada
+Action - Guitar Icon.png  -- nenhuma carta parecida encontrada
+Action - Laugh Icon.png  -- nenhuma carta parecida encontrada
+Action - Sitting Icon.png  -- nenhuma carta parecida encontrada
+Action - Think Icon.png  -- nenhuma carta parecida encontrada
+Action - Throw Money Icon.png  -- nenhuma carta parecida encontrada
+Action - Wag Finger Icon.png  -- nenhuma carta parecida encontrada
+Akira Head Icon.png  -- sugestões: Apollon Head (0.40)
+Alice Boots.png  -- nenhuma carta parecida encontrada
+Alice Hair.png  -- nenhuma carta parecida encontrada
+Alice Shirt.png  -- nenhuma carta parecida encontrada
+Alice Shorts.png  -- nenhuma carta parecida encontrada
+All For One Card Art.png  -- sugestões: All For One (1.00) | One For All (1.00) | Eye For An Eye (0.40)
+AllSky_FantasySky_Mid.png  -- nenhuma carta parecida encontrada
+Altair Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Altair Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Altair Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Altair Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Altair Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Altair Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Altair Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Altair Texture 1 - Aquos(1).png  -- nenhuma carta parecida encontrada
+Altair Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Altair Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Altair Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Altair Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Altair Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Amulet.png  -- nenhuma carta parecida encontrada
+Anime Day_Cam_0_Front+Z.png  -- nenhuma carta parecida encontrada
+AnimeStrechyShape.png  -- nenhuma carta parecida encontrada
+AN_Aut_Ground_1_Normal.png  -- nenhuma carta parecida encontrada
+AN_Aut_Ground_2_Normal.png  -- nenhuma carta parecida encontrada
+AN_Sum_Ground_2_Normal.png  -- nenhuma carta parecida encontrada
+Aquos Frogs Icon.png  -- sugestões: Aquos Cyclone (0.40)
+Aquos Shrink Texture.png  -- sugestões: Aquos Cyclone (0.40)
+Aquos Symbol 2.png  -- sugestões: Aquos Cyclone (0.40)
+Aquos Symbol 3.png  -- sugestões: Aquos Cyclone (0.40)
+arcane_glow 1.png  -- sugestões: Ancient Glow (0.40) | Saurus Glow (0.40)
+arcane_sphere.png  -- sugestões: Dark Sphere Impact (0.40)
+Archerskill_46.png  -- nenhuma carta parecida encontrada
+AreaTex.png  -- nenhuma carta parecida encontrada
+Arrow32.png  -- nenhuma carta parecida encontrada
+ArrowHeadDown.png  -- nenhuma carta parecida encontrada
+ArrowHeadLeft.png  -- nenhuma carta parecida encontrada
+ArrowHeadRight.png  -- nenhuma carta parecida encontrada
+Art Ability Card 2 Texture Left Slider.png  -- nenhuma carta parecida encontrada
+Art Ability Card 2 Texture Right Slider.png  -- nenhuma carta parecida encontrada
+Art Ability Card 2 Texture(1).png  -- nenhuma carta parecida encontrada
+Asphalt_A_AlbedoTransparency.png  -- nenhuma carta parecida encontrada
+Asphalt_A_MetallicSmoothness.png  -- nenhuma carta parecida encontrada
+Asphalt_A_Normal.png  -- nenhuma carta parecida encontrada
+Asphalt_A_Occlusion.png  -- nenhuma carta parecida encontrada
+Assassinskill_10_nobg.png  -- nenhuma carta parecida encontrada
+Attribute Card Texture New.png  -- nenhuma carta parecida encontrada
+Attribute Card Texture.png  -- nenhuma carta parecida encontrada
+Aura Cannon Card Art.png  -- sugestões: Shock Cannon (0.50) | Saurer Cannon (0.50) | Hybrid Cannon (0.50)
+aura04.png  -- nenhuma carta parecida encontrada
+Aura1.png  -- nenhuma carta parecida encontrada
+Aura3.png  -- nenhuma carta parecida encontrada
+Aura4_upscaled.png  -- nenhuma carta parecida encontrada
+Aura8d_upscaled.png  -- nenhuma carta parecida encontrada
+aura_damage04.png  -- nenhuma carta parecida encontrada
+aura_damage05.png  -- nenhuma carta parecida encontrada
+AvatarBg2.png  -- nenhuma carta parecida encontrada
+A_MetalBase0026_M__Sx_2_GA_2_2_Tex.png  -- nenhuma carta parecida encontrada
+back of the card(1).png  -- sugestões: Twin Back (0.50)
+Background - Blue.png  -- sugestões: Blue Shield (0.50) | Blue Stealth (0.50) | Blue Sky (0.50)
+Background - Gray (Light).png  -- sugestões: Guiding Light (0.40) | Pure Light (0.40)
+Background - Gray Blue (Dark).png  -- nenhuma carta parecida encontrada
+Background - Purple (Light).png  -- sugestões: Guiding Light (0.40) | Pure Light (0.40)
+Background Gradient.png  -- nenhuma carta parecida encontrada
+Background.png  -- nenhuma carta parecida encontrada
+back_of_the_card(1)_upscaled.png  -- sugestões: Twin Back (0.40)
+Bakugan Selector Render Texture S1(1).png  -- nenhuma carta parecida encontrada
+bakugan_attribute_circle_by_himdolion_ddg46uj-pre.png  -- nenhuma carta parecida encontrada
+Baliton Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Baliton Texture 1 - Aquos #3885.png  -- nenhuma carta parecida encontrada
+Baliton Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Baliton Texture 1 - Darkus #3976.png  -- nenhuma carta parecida encontrada
+Baliton Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Baliton Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Baliton Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Baliton Texture 1 - Subterra #3841.png  -- nenhuma carta parecida encontrada
+Baliton Texture 1 - Subterra #4276.png  -- nenhuma carta parecida encontrada
+Baliton Texture 1 - Subterra(1)(1).png  -- nenhuma carta parecida encontrada
+Baliton Texture 1 - Subterra(1).png  -- nenhuma carta parecida encontrada
+Baliton Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Baliton Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+BasicPanel01White_2.png  -- nenhuma carta parecida encontrada
+BasicPanel01_s.png  -- nenhuma carta parecida encontrada
+Battle Spiral Texture.png  -- sugestões: Nova Spiral (0.40) | Battle Marionette (0.40) | Air Battle (0.40)
+Bee Striker Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Bee Striker Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Bee Striker Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Bee Striker Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Bee Striker Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Bee Striker Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Bee Striker Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Bee Striker Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Bee Striker Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Bee Striker Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Bee Striker Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Bee Striker Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Bee Striker Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Bee striker.png  -- nenhuma carta parecida encontrada
+billboard_airline.png  -- nenhuma carta parecida encontrada
+billboard_arcadecenter.png  -- nenhuma carta parecida encontrada
+billboard_baristacoffee.png  -- nenhuma carta parecida encontrada
+billboard_beer_01.png  -- nenhuma carta parecida encontrada
+billboard_beer_02.png  -- nenhuma carta parecida encontrada
+billboard_cosmetics_01.png  -- nenhuma carta parecida encontrada
+billboard_girl_03.png  -- nenhuma carta parecida encontrada
+billboard_girl_04.png  -- nenhuma carta parecida encontrada
+billboard_hostclub_01.png  -- nenhuma carta parecida encontrada
+billboard_inforcenter.png  -- nenhuma carta parecida encontrada
+billboard_izakaya.png  -- nenhuma carta parecida encontrada
+billboard_kimane.png  -- nenhuma carta parecida encontrada
+billboard_man_01.png  -- nenhuma carta parecida encontrada
+billboard_monja.png  -- nenhuma carta parecida encontrada
+billboard_realestate_01.png  -- nenhuma carta parecida encontrada
+billboard_realestate_02.png  -- nenhuma carta parecida encontrada
+billboard_sushi.png  -- nenhuma carta parecida encontrada
+billboard_videogamecenter.png  -- nenhuma carta parecida encontrada
+billboard_videogamecenter02.png  -- nenhuma carta parecida encontrada
+billboard_water.png  -- sugestões: Water Refrain (0.50) | Water Slap (0.50)
+billboard_wifi.png  -- nenhuma carta parecida encontrada
+Black Snail Card Art.png  -- sugestões: Black Maiden (0.50) | Diamond Snail (0.50) | Black is Darkness (0.40)
+Blank Ability Card 1 Texture.png  -- nenhuma carta parecida encontrada
+Blow Away Card Art(1).png  -- sugestões: Blow Away (0.80) | Screw Blow (0.40)
+BlueNoiseVF128.png  -- nenhuma carta parecida encontrada
+box.png  -- nenhuma carta parecida encontrada
+Brontes Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Brontes Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Brontes Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Brontes Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Brontes Texture 1 - Darkus #3000.png  -- nenhuma carta parecida encontrada
+Brontes Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Brontes Texture 1 - Haos #3573.png  -- nenhuma carta parecida encontrada
+Brontes Texture 1 - Haos(7).png  -- nenhuma carta parecida encontrada
+Brontes Texture 1 - Haos(9).png  -- nenhuma carta parecida encontrada
+Brontes Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Brontes Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Brontes Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Btn01Blue_n.png  -- nenhuma carta parecida encontrada
+Btn01Blue_p.png  -- nenhuma carta parecida encontrada
+Btn01Cyan_n.png  -- nenhuma carta parecida encontrada
+Btn01Cyan_p.png  -- nenhuma carta parecida encontrada
+Btn01Green_n.png  -- nenhuma carta parecida encontrada
+Btn01Green_p.png  -- nenhuma carta parecida encontrada
+Btn01Red_n.png  -- nenhuma carta parecida encontrada
+Btn01Red_p.png  -- nenhuma carta parecida encontrada
+Btn01White_1.png  -- nenhuma carta parecida encontrada
+Btn01White_2.png  -- nenhuma carta parecida encontrada
+Btn02Blue_n.png  -- nenhuma carta parecida encontrada
+Btn03Cyan_p.png  -- nenhuma carta parecida encontrada
+Btn03White_1.png  -- nenhuma carta parecida encontrada
+Btn03White_2.png  -- nenhuma carta parecida encontrada
+Btn04White_1.png  -- nenhuma carta parecida encontrada
+Btn04White_2.png  -- nenhuma carta parecida encontrada
+Btn06Blue_n.png  -- nenhuma carta parecida encontrada
+Btn06Blue_p.png  -- nenhuma carta parecida encontrada
+Btn06Cyan_n.png  -- nenhuma carta parecida encontrada
+Btn06Cyan_p.png  -- nenhuma carta parecida encontrada
+Btn06Green_n.png  -- nenhuma carta parecida encontrada
+Btn06Green_p.png  -- nenhuma carta parecida encontrada
+Btn06Orange_n.png  -- nenhuma carta parecida encontrada
+Btn06Orange_p.png  -- nenhuma carta parecida encontrada
+Btn06Red_n.png  -- nenhuma carta parecida encontrada
+Btn06Red_p.png  -- nenhuma carta parecida encontrada
+Btn06White_1.png  -- nenhuma carta parecida encontrada
+Btn06White_2.png  -- nenhuma carta parecida encontrada
+Btn_CloseWindow02_n.png  -- nenhuma carta parecida encontrada
+Btn_CloseWindow02_p.png  -- nenhuma carta parecida encontrada
+Btn_CloseWindow03Cyan_n.png  -- nenhuma carta parecida encontrada
+Btn_CloseWindow03Cyan_p.png  -- nenhuma carta parecida encontrada
+Btn_CloseWindow03_n.png  -- nenhuma carta parecida encontrada
+Btn_CloseWindow03_p.png  -- nenhuma carta parecida encontrada
+Btn_CloseWindow04Cyan_h.png  -- nenhuma carta parecida encontrada
+Btn_CloseWindow04_p.png  -- nenhuma carta parecida encontrada
+Btn_CloseWindow05Cyan_n.png  -- nenhuma carta parecida encontrada
+Btn_CloseWindow05Cyan_p.png  -- nenhuma carta parecida encontrada
+Btn_Next01_n.png  -- nenhuma carta parecida encontrada
+Btn_Next01_p.png  -- nenhuma carta parecida encontrada
+Btn_Next1_p.png  -- nenhuma carta parecida encontrada
+Btn_NextBlue_n.png  -- nenhuma carta parecida encontrada
+Btn_PauseQuit_n.png  -- nenhuma carta parecida encontrada
+Btn_PauseQuit_p.png  -- nenhuma carta parecida encontrada
+Btn_PauseYellow_p.png  -- nenhuma carta parecida encontrada
+Btn_RandomName_n.png  -- nenhuma carta parecida encontrada
+Btn_Rectangle01Blue_n.png  -- nenhuma carta parecida encontrada
+Btn_Rectangle01Cyan_n.png  -- nenhuma carta parecida encontrada
+Btn_Rectangle01Cyan_p.png  -- nenhuma carta parecida encontrada
+Btn_Rectangle01Green_n.png  -- nenhuma carta parecida encontrada
+Btn_Rectangle01Green_p.png  -- nenhuma carta parecida encontrada
+Btn_Rectangle01Orange_n.png  -- nenhuma carta parecida encontrada
+Btn_Rectangle01Purple_n.png  -- nenhuma carta parecida encontrada
+Btn_Rectangle01Purple_p.png  -- nenhuma carta parecida encontrada
+Btn_Rectangle01Red_n.png  -- nenhuma carta parecida encontrada
+Btn_Rectangle01Red_p.png  -- nenhuma carta parecida encontrada
+Btn_Rectangle01Yellow_n.png  -- nenhuma carta parecida encontrada
+Btn_Rectangle01Yellow_p.png  -- nenhuma carta parecida encontrada
+Btn_WeaponSelect01Blue_n.png  -- nenhuma carta parecida encontrada
+Btn_WeaponSelect01Gray 1.png  -- nenhuma carta parecida encontrada
+Btn_WeaponSelect01Gray.png  -- nenhuma carta parecida encontrada
+BubblesWater.png  -- nenhuma carta parecida encontrada
+bubble_half_thick.png  -- nenhuma carta parecida encontrada
+bubble_round3.png  -- nenhuma carta parecida encontrada
+button active.png  -- nenhuma carta parecida encontrada
+button hover.png  -- nenhuma carta parecida encontrada
+button on hover.png  -- nenhuma carta parecida encontrada
+button on.png  -- nenhuma carta parecida encontrada
+Button-Square-Clean.png  -- nenhuma carta parecida encontrada
+button.png  -- nenhuma carta parecida encontrada
+Canyon Snail Card Art.png  -- sugestões: Diamond Snail (0.50) | Spirit Canyon (0.50)
+Cards #3753.png  -- nenhuma carta parecida encontrada
+Cards.png  -- nenhuma carta parecida encontrada
+Carta_de_la_Perdicion_upscaled.png  -- nenhuma carta parecida encontrada
+CartoonCloud1.png  -- nenhuma carta parecida encontrada
+Chain1b.png  -- nenhuma carta parecida encontrada
+Chan Lee Head Icon.png  -- nenhuma carta parecida encontrada
+Character Creation Attribute Circle Outer.png  -- nenhuma carta parecida encontrada
+Character_Body1.png  -- nenhuma carta parecida encontrada
+Character_Face1.png  -- nenhuma carta parecida encontrada
+Chat_Background.png  -- nenhuma carta parecida encontrada
+Chat_Border_Vertical.png  -- nenhuma carta parecida encontrada
+Chat_Border_Vertical_Arrow.png  -- nenhuma carta parecida encontrada
+Chat_Border_Vertical_Arrow_Fill.png  -- nenhuma carta parecida encontrada
+Chat_Submit(1).png  -- nenhuma carta parecida encontrada
+Chat_Tab_Active_Arrow.png  -- nenhuma carta parecida encontrada
+Chat_Tab_Active_Overlay.png  -- nenhuma carta parecida encontrada
+Chat_Tab_Background.png  -- nenhuma carta parecida encontrada
+Checked.png  -- nenhuma carta parecida encontrada
+Checkmark - Rounded (Bold).png  -- nenhuma carta parecida encontrada
+Checkmark - Semi Round.png  -- nenhuma carta parecida encontrada
+CHOTHES 1.png  -- nenhuma carta parecida encontrada
+CHV.png  -- nenhuma carta parecida encontrada
+Circle #2990.png  -- nenhuma carta parecida encontrada
+Circle - 1024.png  -- nenhuma carta parecida encontrada
+Circle - 256.png  -- nenhuma carta parecida encontrada
+Circle - 512.png  -- nenhuma carta parecida encontrada
+Circle - 513.png  -- nenhuma carta parecida encontrada
+Circle - Stroke 10px.png  -- nenhuma carta parecida encontrada
+Circle Stroke - 20px.png  -- nenhuma carta parecida encontrada
+circle.png  -- nenhuma carta parecida encontrada
+Circle102.png  -- nenhuma carta parecida encontrada
+Circle114 1.png  -- nenhuma carta parecida encontrada
+Circle116.png  -- nenhuma carta parecida encontrada
+Circle132.png  -- nenhuma carta parecida encontrada
+Circle17 #3601.png  -- nenhuma carta parecida encontrada
+Circle17.png  -- nenhuma carta parecida encontrada
+Circle38.png  -- nenhuma carta parecida encontrada
+Circle41.png  -- nenhuma carta parecida encontrada
+Circle79.png  -- nenhuma carta parecida encontrada
+Circle96.png  -- nenhuma carta parecida encontrada
+CircleBigMask.png  -- nenhuma carta parecida encontrada
+CircleOrbs10.png  -- nenhuma carta parecida encontrada
+CircleRainbow15.png  -- nenhuma carta parecida encontrada
+Circle_01_ClawSlashfx.png  -- nenhuma carta parecida encontrada
+Circle_ClawSlashfx.png  -- nenhuma carta parecida encontrada
+Circle_SuperBlur.png  -- nenhuma carta parecida encontrada
+CircularProgress001Blue.png  -- nenhuma carta parecida encontrada
+CircularProgress001Cyan.png  -- nenhuma carta parecida encontrada
+CircularProgress002White.png  -- nenhuma carta parecida encontrada
+CircularProgress004Blue_bg.png  -- nenhuma carta parecida encontrada
+CircularProgress006White_bg.png  -- nenhuma carta parecida encontrada
+Clay Roller Card Art.png  -- nenhuma carta parecida encontrada
+Clear Snail Card Art.png  -- sugestões: Diamond Snail (0.50)
+Close Icon - Semi Round.png  -- nenhuma carta parecida encontrada
+Close.png  -- nenhuma carta parecida encontrada
+CLOTHES #3162.png  -- nenhuma carta parecida encontrada
+clothes #4200.png  -- nenhuma carta parecida encontrada
+CLOTHES 001.png  -- nenhuma carta parecida encontrada
+CLOTHES 002.png  -- nenhuma carta parecida encontrada
+CLOTHES 003.png  -- nenhuma carta parecida encontrada
+CLOTHES 005.png  -- nenhuma carta parecida encontrada
+CLOTHES.png  -- nenhuma carta parecida encontrada
+cloudsmooth.png  -- nenhuma carta parecida encontrada
+cloud_2x2_soft.png  -- nenhuma carta parecida encontrada
+CMOTHES .png  -- nenhuma carta parecida encontrada
+Coins Bag - Dollar.png  -- nenhuma carta parecida encontrada
+Command Card Texture 1.png  -- nenhuma carta parecida encontrada
+Command Card Texture.png  -- nenhuma carta parecida encontrada
+Concrete_Trim_A_AlbedoTransparency.png  -- nenhuma carta parecida encontrada
+Concrete_Trim_A_MetallicSmoothness.png  -- nenhuma carta parecida encontrada
+Concrete_Trim_A_Normal.png  -- nenhuma carta parecida encontrada
+Concrete_Trim_A_Occlusion.png  -- nenhuma carta parecida encontrada
+controller_final_controller_BaseColor.1001.png  -- nenhuma carta parecida encontrada
+controller_final_controller_Metalness.1001.png  -- nenhuma carta parecida encontrada
+controller_final_controller_Roughness.1001.png  -- nenhuma carta parecida encontrada
+Cool Snail Card Art.png  -- sugestões: Diamond Snail (0.50)
+Crack18.png  -- nenhuma carta parecida encontrada
+Crack19.png  -- nenhuma carta parecida encontrada
+Crater1.png  -- nenhuma carta parecida encontrada
+Crater32.png  -- nenhuma carta parecida encontrada
+Crater34.png  -- nenhuma carta parecida encontrada
+Crater37.png  -- nenhuma carta parecida encontrada
+Crater40.png  -- nenhuma carta parecida encontrada
+Crater62.png  -- nenhuma carta parecida encontrada
+Crater64.png  -- nenhuma carta parecida encontrada
+CraterDecal.png  -- nenhuma carta parecida encontrada
+CraterDecal1_1.png  -- nenhuma carta parecida encontrada
+CraterDecal2.png  -- nenhuma carta parecida encontrada
+CraterDecal2Mask.png  -- nenhuma carta parecida encontrada
+CraterDecalMask3 #4158.png  -- nenhuma carta parecida encontrada
+CraterDecalMask3.png  -- nenhuma carta parecida encontrada
+CraterDecal_Mask 1.png  -- nenhuma carta parecida encontrada
+Cross32.png  -- nenhuma carta parecida encontrada
+Crown.png  -- nenhuma carta parecida encontrada
+Cup.png  -- nenhuma carta parecida encontrada
+Cycloid Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Cycloid Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Cycloid Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Cycloid Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Cycloid Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Cycloid Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Cycloid Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Cycloid Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Cycloid Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Cycloid Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Cycloid Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Cycloid Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Cycloid Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Cycloid Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Cycloid Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Cycloid Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Cycloid Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Cycloid Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Cycloid Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Cycloid Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Cycloid Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Cycloid Texture 3 - Haos 2.png  -- nenhuma carta parecida encontrada
+Cycloid Texture 3 - Pyrus(1).png  -- nenhuma carta parecida encontrada
+Cycloid Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Cycloid Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+Cycloid Texture 4 - Subterra.png  -- nenhuma carta parecida encontrada
+Cycloid.png  -- nenhuma carta parecida encontrada
+Dan Head Icon 2.png  -- nenhuma carta parecida encontrada
+Dan Head Icon.png  -- sugestões: Apollon Head (0.40)
+Dance - Breakdance Icon.png  -- nenhuma carta parecida encontrada
+Dance - Disco Icon.png  -- nenhuma carta parecida encontrada
+Dance - Egyptian Icon.png  -- nenhuma carta parecida encontrada
+Dance - Floss Icon.png  -- nenhuma carta parecida encontrada
+Dance - Griddy Icon.png  -- nenhuma carta parecida encontrada
+Dance - Hula Icon.png  -- nenhuma carta parecida encontrada
+Dance - Irish Icon.png  -- nenhuma carta parecida encontrada
+Dance - Milly Rock Icon.png  -- nenhuma carta parecida encontrada
+Dance - Pop.png  -- nenhuma carta parecida encontrada
+Dance - Robot Icon.png  -- nenhuma carta parecida encontrada
+Dance - Shoot Icon.png  -- nenhuma carta parecida encontrada
+Darkus leonidas.png  -- sugestões: Darkus Scythe (0.50) | Darkus Driver (0.50) | Darkus Gravity (0.50)
+Darkus Shrink Texture.png  -- sugestões: Darkus Scythe (0.40) | Darkus Driver (0.40) | Darkus Gravity (0.40)
+Darkus Symbol 2.png  -- sugestões: Darkus Scythe (0.40) | Darkus Driver (0.40) | Darkus Gravity (0.40)
+Darkus Symbol 3.png  -- sugestões: Darkus Scythe (0.40) | Darkus Driver (0.40) | Darkus Gravity (0.40)
+Debris1.png  -- nenhuma carta parecida encontrada
+Debris2 #3888.png  -- nenhuma carta parecida encontrada
+Debris2.png  -- nenhuma carta parecida encontrada
+Debris3.png  -- nenhuma carta parecida encontrada
+DecalRing1.png  -- nenhuma carta parecida encontrada
+Deck Icon.png  -- nenhuma carta parecida encontrada
+Default-Particle.png  -- nenhuma carta parecida encontrada
+Diamond.png  -- sugestões: Diamond Snail (0.67)
+Dirt_A_AlbedoTransparency.png  -- nenhuma carta parecida encontrada
+Dirt_A_Height.png  -- nenhuma carta parecida encontrada
+Dirt_A_MetallicSmoothness.png  -- nenhuma carta parecida encontrada
+Dirt_A_Normal.png  -- nenhuma carta parecida encontrada
+Dirt_A_Occlusion.png  -- nenhuma carta parecida encontrada
+Disolve_Twirly.png  -- nenhuma carta parecida encontrada
+Distortion1.png  -- nenhuma carta parecida encontrada
+Distortion1_1.png  -- nenhuma carta parecida encontrada
+Distortion2 #4179.png  -- nenhuma carta parecida encontrada
+Distortion2.png  -- nenhuma carta parecida encontrada
+Distortion4.png  -- nenhuma carta parecida encontrada
+Divine Overdrive Icon.png  -- sugestões: Divine Blessing (0.40)
+Dosis - Medium SDF Atlas.png  -- nenhuma carta parecida encontrada
+Dot.png  -- nenhuma carta parecida encontrada
+Double Action Left Image Mask.png  -- nenhuma carta parecida encontrada
+Double Action Right Image Mask.png  -- nenhuma carta parecida encontrada
+Dragon Rulers Icon.png  -- sugestões: Boosted Dragon (0.40) | Strike Dragon (0.40) | Dragon Contender (0.40)
+Dragonoid Ball Picture 1.png  -- nenhuma carta parecida encontrada
+Dragonoid Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Dragonoid Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Dragonoid Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Dragonoid Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Dragonoid Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Dragonoid Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 4 - Aquos.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 4 - Darkus.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 4 - Haos.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 4 - Pyrus.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 4 - Subterra.png  -- nenhuma carta parecida encontrada
+Dragonoid Texture 4 - Ventus.png  -- nenhuma carta parecida encontrada
+Dragonoid(1).png  -- nenhuma carta parecida encontrada
+Dragonoid.png  -- nenhuma carta parecida encontrada
+DropdownArrow_p.png  -- nenhuma carta parecida encontrada
+Druideskill_22.png  -- nenhuma carta parecida encontrada
+Druideskill_27_nobg.png  -- nenhuma carta parecida encontrada
+Druideskill_42_nobg.png  -- nenhuma carta parecida encontrada
+Dual Hydranoid Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Dual Hydranoid Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Dual Hydranoid Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Dual Hydranoid Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Dual Hydranoid Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Dual Hydranoid Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Dual Hydranoid Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Dual hydranoid.png  -- sugestões: Dual Gazer (0.50)
+Dynamo Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Dynamo Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Dynamo Ball Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Dynamo Ball Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Dynamo Ball Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Dynamo Ball Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Dynamo Ball Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Dynamo Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Dynamo Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Dynamo Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Dynamo Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Dynamo Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Dynamo Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+earth.png  -- sugestões: Earth Power (0.67)
+earth_rock_muddy.png  -- sugestões: Molten Rock (0.40) | Earth Power (0.40)
+earth_spray.png  -- sugestões: Earth Power (0.50)
+earth_spray2.png  -- sugestões: Earth Power (0.50)
+echowavekaraoke.png  -- nenhuma carta parecida encontrada
+Edge_Trim_A_AlbedoTransparency.png  -- sugestões: Feather Edge (0.40)
+Edge_Trim_A_MetallicSmoothness.png  -- sugestões: Feather Edge (0.40)
+Edge_Trim_A_Normal.png  -- sugestões: Feather Edge (0.40)
+Edge_Trim_A_Occlusion.png  -- sugestões: Feather Edge (0.40)
+Electrical_A_AlbedoTransparency.png  -- nenhuma carta parecida encontrada
+Electrical_A_MetallicSmoothness.png  -- nenhuma carta parecida encontrada
+Electrical_A_Normal.png  -- nenhuma carta parecida encontrada
+Electrical_A_Occlusion.png  -- nenhuma carta parecida encontrada
+Electricity.png  -- nenhuma carta parecida encontrada
+Electrolize-Regular SDF Atlas.png  -- nenhuma carta parecida encontrada
+Elfin Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Elfin Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Elfin Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Elfin Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Elfin Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Elfin Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Elfin Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Elfin Texture 1 - Aquos(14).png  -- nenhuma carta parecida encontrada
+Elfin Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Elfin Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Elfin Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Elfin Texture 1 - Subterra 2.png  -- nenhuma carta parecida encontrada
+Elfin Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Elfin Texture 1 - Ventus 2.png  -- nenhuma carta parecida encontrada
+Elico Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Elico Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Elico Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Elico Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Elico Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Elico Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Elico Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Elico Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Elico Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Elico Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Elico Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Elico Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Elico Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+EmberExpl2.png  -- nenhuma carta parecida encontrada
+EmberExpl2Motion.png  -- nenhuma carta parecida encontrada
+EmberExpl4Motion.png  -- nenhuma carta parecida encontrada
+EmberExpl5.png  -- nenhuma carta parecida encontrada
+EmberExpl6.png  -- nenhuma carta parecida encontrada
+Emerald Texture.png  -- nenhuma carta parecida encontrada
+Eraser Card Art.png  -- nenhuma carta parecida encontrada
+EscToExit_back.png  -- sugestões: Twin Back (0.50)
+EscToExit_Text.png  -- nenhuma carta parecida encontrada
+Eternal Cocoon Card Art.png  -- nenhuma carta parecida encontrada
+ExitLefttIcon.png  -- nenhuma carta parecida encontrada
+Explode Card Art.png  -- nenhuma carta parecida encontrada
+Explosion1(12x7).png  -- nenhuma carta parecida encontrada
+Eye #2936.png  -- sugestões: Eye For An Eye (0.50) | Dark Eye Superior (0.40)
+Eye #3752.png  -- sugestões: Eye For An Eye (0.50) | Dark Eye Superior (0.40)
+Eye #4277.png  -- sugestões: Eye For An Eye (0.50) | Dark Eye Superior (0.40)
+Eye Texture.png  -- sugestões: Eye For An Eye (0.50) | Dark Eye Superior (0.40)
+Eye(2).png  -- sugestões: Eye For An Eye (0.50) | Dark Eye Superior (0.40)
+eye.png  -- sugestões: Eye For An Eye (0.67) | Dark Eye Superior (0.50)
+Eyelash Texture(1).png  -- nenhuma carta parecida encontrada
+EYES.png  -- sugestões: Eye For An Eye (0.67) | Dark Eye Superior (0.50)
+F00_002_01_Shoes_01.png  -- nenhuma carta parecida encontrada
+Fabric_Trim_A_AlbedoTransparency.png  -- nenhuma carta parecida encontrada
+Fabric_Trim_A_MetallicSmoothness.png  -- nenhuma carta parecida encontrada
+Fabric_Trim_A_Normal.png  -- nenhuma carta parecida encontrada
+Fabric_Trim_A_Occlusion.png  -- nenhuma carta parecida encontrada
+Face Of Sorrow Card Art.png  -- sugestões: Face Of Grief (0.50) | Face Of Joy (0.50) | Face of Rage (0.50)
+Falcon Fly Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Falcon Fly Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Falcon Fly Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Falcon Fly Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Falcon Fly Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Falcon Fly Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Falcon Fly Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Falcon Fly Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Falcon Fly Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Falcon Fly Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Falcon Fly Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Falcon Fly Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Falcon Fly Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Falconeer Ball Eye Texture.png  -- nenhuma carta parecida encontrada
+Falconeer Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Falconeer Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Falconeer Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Falconeer Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Falconeer Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Falconeer Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Falconeer Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Falconeer Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Falconeer Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Falconeer Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Falconeer Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Falconeer Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Falconeer Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Falconeer Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Falconeer Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Falconeer Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Falconeer Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Falconeer Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Falconeer Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Falconeer Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Falconeer Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Falconeer Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Falconeer Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Falconeer Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+Falconeer.png  -- nenhuma carta parecida encontrada
+Fear Ripper Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Fear Ripper Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Fear Ripper Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Fear Ripper Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Fear Ripper Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Fear Ripper Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Fear Ripper Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Fear Ripper Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Fear Ripper Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Fear Ripper Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Fear Ripper Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Fear Ripper Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Fear Ripper Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Fear Ripper Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Fear Ripper Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Fear Ripper Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Fear Ripper Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Fear Ripper Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Fear Ripper Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Fear Ripper Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Fear Ripper Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Fear Ripper Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Fear Ripper Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Fear Ripper Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Fear Ripper Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+Fear ripper.png  -- nenhuma carta parecida encontrada
+FeathersPickbook.png  -- nenhuma carta parecida encontrada
+feather_1_ClawSlashfx.png  -- sugestões: Feather Edge (0.40) | Feather Storm (0.40)
+Female Anime Hair 1.png  -- nenhuma carta parecida encontrada
+Female Anime Hair 10.png  -- nenhuma carta parecida encontrada
+Female Anime Hair 11.png  -- nenhuma carta parecida encontrada
+Female Anime Hair 12.png  -- nenhuma carta parecida encontrada
+Female Anime Hair 13.png  -- nenhuma carta parecida encontrada
+Female Anime Hair 2.png  -- nenhuma carta parecida encontrada
+Female Anime Hair 3.png  -- nenhuma carta parecida encontrada
+Female Anime Hair 4.png  -- nenhuma carta parecida encontrada
+Female Anime Hair 5.png  -- nenhuma carta parecida encontrada
+Female Anime Hair 6.png  -- nenhuma carta parecida encontrada
+Female Anime Hair 7.png  -- nenhuma carta parecida encontrada
+Female Anime Hair 8.png  -- nenhuma carta parecida encontrada
+Female Anime Hair 9.png  -- nenhuma carta parecida encontrada
+FG_Area_Rug_AreaRug_albedo.png  -- nenhuma carta parecida encontrada
+FG_Area_Rug_AreaRug_metalness.png  -- nenhuma carta parecida encontrada
+FG_Area_Rug_AreaRug_normal.png  -- nenhuma carta parecida encontrada
+FG_Area_Rug_AreaRug_roughness.png  -- nenhuma carta parecida encontrada
+fg_carpet_Bump.png  -- nenhuma carta parecida encontrada
+fg_carpet_Grey.png  -- nenhuma carta parecida encontrada
+FG_Computer_Table_ComputerTable_albedo.png  -- nenhuma carta parecida encontrada
+FG_Computer_Table_ComputerTable_normal.png  -- nenhuma carta parecida encontrada
+FG_Computer_Table_ComputerTable_roughness.png  -- nenhuma carta parecida encontrada
+FG_Rug_Rug_metalness.png  -- nenhuma carta parecida encontrada
+FG_Rug_Rug_normal.png  -- nenhuma carta parecida encontrada
+FG_Rug_Rug_roughness.png  -- nenhuma carta parecida encontrada
+FG_Shelf_Shelf_albedo.png  -- nenhuma carta parecida encontrada
+FG_Shelf_Shelf_normal.png  -- nenhuma carta parecida encontrada
+FG_Shelf_Shelf_roughness.png  -- nenhuma carta parecida encontrada
+FG_Wall_Banner_WallBanner_albedo.png  -- nenhuma carta parecida encontrada
+FG_Wall_Banner_WallBanner_metalness.png  -- nenhuma carta parecida encontrada
+FG_Wall_Banner_WallBanner_normal.png  -- nenhuma carta parecida encontrada
+FG_Wall_Banner_WallBanner_roughness.png  -- nenhuma carta parecida encontrada
+FG_Wall_Light_Decor_WallLightDecor_albedo.png  -- nenhuma carta parecida encontrada
+FG_Wall_Scroll_Poster_2_WallScrollPoster2_albedo.png  -- nenhuma carta parecida encontrada
+FG_Wall_Scroll_Poster_2_WallScrollPoster2_normal.png  -- nenhuma carta parecida encontrada
+FG_Wall_Scroll_Poster_2_WallScrollPoster2_roughness.png  -- nenhuma carta parecida encontrada
+FG_Wall_Scroll_Poster_3_WallScrollPoster3_albedo.png  -- nenhuma carta parecida encontrada
+FG_Wall_Scroll_Poster_3_WallScrollPoster3_normal.png  -- nenhuma carta parecida encontrada
+FG_Wall_Scroll_Poster_3_WallScrollPoster3_roughness.png  -- nenhuma carta parecida encontrada
+Field Open Inner Ring Texture.png  -- nenhuma carta parecida encontrada
+Field Open Outer Ring Texture(1).png  -- nenhuma carta parecida encontrada
+Field Open Outer Ring Texture(2).png  -- nenhuma carta parecida encontrada
+Field Open Outer Ring Texture(3).png  -- nenhuma carta parecida encontrada
+Field Open Outer Ring Texture(4).png  -- nenhuma carta parecida encontrada
+Field Open Outer Ring Texture(5).png  -- nenhuma carta parecida encontrada
+Field Open Outer Ring Texture(6).png  -- nenhuma carta parecida encontrada
+Field Open Outer Ring Texture.png  -- nenhuma carta parecida encontrada
+Fire1 #2905.png  -- nenhuma carta parecida encontrada
+Fire1 #3571.png  -- nenhuma carta parecida encontrada
+Fire1.png  -- nenhuma carta parecida encontrada
+Fire10.png  -- nenhuma carta parecida encontrada
+Fire11.png  -- nenhuma carta parecida encontrada
+Fire2(16x8).png  -- nenhuma carta parecida encontrada
+Fire4.png  -- nenhuma carta parecida encontrada
+FireNoise.png  -- nenhuma carta parecida encontrada
+FireQuad_Stylized.png  -- nenhuma carta parecida encontrada
+FireSpliff_Flipbook1.png  -- nenhuma carta parecida encontrada
+FlameLick_Flip_1.png  -- nenhuma carta parecida encontrada
+FlameLick_Flip_2.png  -- nenhuma carta parecida encontrada
+Flare14.png  -- nenhuma carta parecida encontrada
+Flare2.png  -- nenhuma carta parecida encontrada
+Flare20.png  -- nenhuma carta parecida encontrada
+Flare21.png  -- nenhuma carta parecida encontrada
+Flare22.png  -- nenhuma carta parecida encontrada
+Flare23.png  -- nenhuma carta parecida encontrada
+Flare3.png  -- nenhuma carta parecida encontrada
+Flare30.png  -- nenhuma carta parecida encontrada
+Flare32.png  -- nenhuma carta parecida encontrada
+Flare6.png  -- nenhuma carta parecida encontrada
+Flare_Glint.png  -- sugestões: Melt Flare (0.50) | Flare Blinder (0.50) | Mega Flare Blinder (0.40)
+Flare_Glowdot.png  -- sugestões: Melt Flare (0.50) | Flare Blinder (0.50) | Mega Flare Blinder (0.40)
+Flare_Ultrawide.png  -- sugestões: Melt Flare (0.50) | Flare Blinder (0.50) | Mega Flare Blinder (0.40)
+Flash1.png  -- nenhuma carta parecida encontrada
+Flash21.png  -- nenhuma carta parecida encontrada
+Flash30.png  -- nenhuma carta parecida encontrada
+Flash7.png  -- nenhuma carta parecida encontrada
+flashes-1.png  -- nenhuma carta parecida encontrada
+Flecks_Fluid.png  -- nenhuma carta parecida encontrada
+Fleks_AlphaClipped.png  -- nenhuma carta parecida encontrada
+Flower_A_BaseColor_2.png  -- nenhuma carta parecida encontrada
+Flower_A_MetallicSmoothness.png  -- nenhuma carta parecida encontrada
+Flower_A_Normal.png  -- nenhuma carta parecida encontrada
+Fog2.png  -- nenhuma carta parecida encontrada
+Fog4.png  -- nenhuma carta parecida encontrada
+Fortress Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Fortress Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Fortress Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Fortress Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Fortress Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Fortress Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Fortress Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Fortress Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Fortress Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Fortress Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Fortress Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Fortress Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Fortress.png  -- nenhuma carta parecida encontrada
+Fourtress Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Fourtress Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Fourtress Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Fourtress Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Fourtress Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Fourtress Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Fourtress Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Fourtress Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Fourtress Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Fourtress Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Fourtress Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Fourtress Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Fourtress Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Fourtress Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Fourtress Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Fourtress Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Fourtress Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Fourtress Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Fourtress Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Fourtress Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Fourtress Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Fourtress Texture 3 - Pyrus #3352.png  -- nenhuma carta parecida encontrada
+Fourtress Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Fourtress Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Fourtress Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+FuzzballNoDark.png  -- nenhuma carta parecida encontrada
+Gacha Bakugan Armada Icon.png  -- nenhuma carta parecida encontrada
+Garganoid Art.png  -- nenhuma carta parecida encontrada
+Gargonoid Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Gargonoid Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Gargonoid Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Gargonoid Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Gargonoid Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Gargonoid Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Gargonoid Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Gargonoid Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Gargonoid Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Gargonoid Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Gargonoid Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Gargonoid Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Gargonoid Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Gargonoid Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Gargonoid Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Gargonoid Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Gargonoid Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Gargonoid Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Gargonoid Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Gargonoid Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Gargonoid Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Gargonoid Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Gargonoid Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Gargonoid Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Gargonoid Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+Gargonoid.png  -- nenhuma carta parecida encontrada
+GausianNoise_2.png  -- nenhuma carta parecida encontrada
+GausianNoise_3.png  -- nenhuma carta parecida encontrada
+General_Border_B.png  -- sugestões: General Quasar (0.40)
+Generic Generals Icon.png  -- sugestões: General Quasar (0.40)
+Glass_A_BaseColor.png  -- nenhuma carta parecida encontrada
+Glass_A_MetallicSmoothness.png  -- nenhuma carta parecida encontrada
+Glass_A_Normal.png  -- nenhuma carta parecida encontrada
+Glints_Pickbook_4x4.png  -- nenhuma carta parecida encontrada
+Glow Snail Card Art.png  -- sugestões: Ancient Glow (0.50) | Saurus Glow (0.50) | Diamond Snail (0.50)
+glow-white.png  -- sugestões: Ancient Glow (0.50) | Saurus Glow (0.50)
+glow01.png  -- nenhuma carta parecida encontrada
+glow1 #2995.png  -- nenhuma carta parecida encontrada
+Glow1 #3001.png  -- nenhuma carta parecida encontrada
+Glow1 #4243.png  -- nenhuma carta parecida encontrada
+Glow1.png  -- nenhuma carta parecida encontrada
+Glow2.png  -- nenhuma carta parecida encontrada
+Glowdots_Speckles.png  -- nenhuma carta parecida encontrada
+glowring.png  -- nenhuma carta parecida encontrada
+glowspiky.png  -- nenhuma carta parecida encontrada
+Gorem Art.png  -- nenhuma carta parecida encontrada
+Gorem Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Gorem Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Gorem Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Gorem Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Gorem Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Gorem Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Gorem Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Gorem Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Gorem Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Gorem Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Gorem Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Gorem Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Gorem Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Gorem Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Gorem Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Gorem Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Gorem Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Gorem Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Gorem Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Gorem Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Gorem Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Gorem Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Gorem Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Gorem Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Gorem Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+Gorem.png  -- nenhuma carta parecida encontrada
+Gradient11.png  -- nenhuma carta parecida encontrada
+Gradient12.png  -- nenhuma carta parecida encontrada
+Gradient15.png  -- nenhuma carta parecida encontrada
+Gradient17.png  -- nenhuma carta parecida encontrada
+Gradient18.png  -- nenhuma carta parecida encontrada
+Gradient20.png  -- nenhuma carta parecida encontrada
+Gradient21.png  -- nenhuma carta parecida encontrada
+Gradient3r.png  -- nenhuma carta parecida encontrada
+Gradient3Repeat.png  -- nenhuma carta parecida encontrada
+Gradient3t.png  -- nenhuma carta parecida encontrada
+Gradient4.3.png  -- nenhuma carta parecida encontrada
+Gradient8.png  -- nenhuma carta parecida encontrada
+Gradient9.png  -- nenhuma carta parecida encontrada
+Greyscale Square.png  -- nenhuma carta parecida encontrada
+GroundSmoke2 1.png  -- nenhuma carta parecida encontrada
+GroundSmoke2Motion.png  -- nenhuma carta parecida encontrada
+ground_arcane 1.png  -- sugestões: Ground Detonator (0.40) | Ground Boating (0.40)
+Ground_Normal.png  -- sugestões: Ground Detonator (0.50) | Ground Boating (0.50)
+ground_storm.png  -- sugestões: Feather Storm (0.50) | Ground Detonator (0.50) | Ground Boating (0.50)
+ground_water 1.png  -- sugestões: Ground Detonator (0.40) | Ground Boating (0.40) | Water Refrain (0.40)
+Gus Grav Icon.png  -- nenhuma carta parecida encontrada
+Hades Ball Eye Emission Texture(1).png  -- nenhuma carta parecida encontrada
+Hades Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Hades Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Hades Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Hades Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Hades Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Hades Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Hades Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Hades Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Hades Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Hades Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Hades Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Hades Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+HAED .png  -- nenhuma carta parecida encontrada
+hair #3672.png  -- nenhuma carta parecida encontrada
+HAIR.png  -- nenhuma carta parecida encontrada
+HalftoneCrescent.png  -- nenhuma carta parecida encontrada
+HAND #2927.png  -- sugestões: Helping Hand (0.50)
+hand.png  -- sugestões: Helping Hand (0.67)
+HandPaintedLightning2.png  -- nenhuma carta parecida encontrada
+Haos Bunker Card Art.png  -- sugestões: Tank Bunker (0.50) | Haos Freeze (0.50) | Haos Surge (0.50)
+Haos Shrink Texture.png  -- sugestões: Haos Freeze (0.40) | Haos Surge (0.40) | Rapid Haos (0.40)
+Haos Symbol 2.png  -- sugestões: Haos Freeze (0.40) | Haos Surge (0.40) | Rapid Haos (0.40)
+Haos Symbol 3.png  -- sugestões: Haos Freeze (0.40) | Haos Surge (0.40) | Rapid Haos (0.40)
+HaosCard-transformed.png  -- nenhuma carta parecida encontrada
+Harpus Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Harpus Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Harpus Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Harpus Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Harpus Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Harpus Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Harpus Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Harpus Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Harpus Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Harpus Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Harpus Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Harpus Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Harpus Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Harpus Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Harpus Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Harpus Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Harpus Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Harpus Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Harpus Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Harpus Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Harpus Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Harpus Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Harpus Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Harpus Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Harpus Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+Harpus Texture 4 - Aquos.png  -- nenhuma carta parecida encontrada
+Harpus Texture 4 - Darkus.png  -- nenhuma carta parecida encontrada
+Harpus Texture 4 - Haos.png  -- nenhuma carta parecida encontrada
+Harpus Texture 4 - Pyrus.png  -- nenhuma carta parecida encontrada
+Harpus Texture 4 - Subterra.png  -- nenhuma carta parecida encontrada
+Harpus Texture 4 - Ventus.png  -- nenhuma carta parecida encontrada
+Harpus.png  -- nenhuma carta parecida encontrada
+HeadphonesIcon.png  -- nenhuma carta parecida encontrada
+Heart3.png  -- nenhuma carta parecida encontrada
+Heart4.png  -- nenhuma carta parecida encontrada
+Heat #4415.png  -- sugestões: Heat Wave (0.50)
+Heat1.png  -- nenhuma carta parecida encontrada
+Heatwave Card Art.png  -- nenhuma carta parecida encontrada
+Helios Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Helios Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Helios Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Helios Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Helios Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Helios Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Helios Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Helios Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Helios Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Helios Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Helios Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Helios Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Helios Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Hexados Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Hexados Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Hexados Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Hexados Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Hexados Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Hexados Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Hexados Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Hexados Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Hexados Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Hexados Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Hexados Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Hexados Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Hexados Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+hit-blue-1.png  -- sugestões: Blue Shield (0.40) | Blue Stealth (0.40) | Blue Sky (0.40)
+horizontal scrollbar thumb.png  -- nenhuma carta parecida encontrada
+horizontal scrollbar.png  -- nenhuma carta parecida encontrada
+HorizontalMask_1.png  -- nenhuma carta parecida encontrada
+horizontalslider.png  -- nenhuma carta parecida encontrada
+Hot Snail Card Art.png  -- sugestões: Diamond Snail (0.50)
+How-to-draw-anime-hair.png  -- nenhuma carta parecida encontrada
+HPWater1 1.png  -- nenhuma carta parecida encontrada
+HPWater1.png  -- nenhuma carta parecida encontrada
+HPWater1b.png  -- nenhuma carta parecida encontrada
+HPwater2.png  -- nenhuma carta parecida encontrada
+Hydranoid Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Hydranoid Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Hydranoid Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Hydranoid Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Hydranoid Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Hydranoid Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Hydranoid Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Hydranoid Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Hydranoid Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Hydranoid Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Hydranoid Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Hydranoid Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Hydranoid Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Hydranoid Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Hydranoid Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Hydranoid Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Hydranoid Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Hydranoid Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+Hylash Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Hylash Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Hylash Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Hylash Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Hylash Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Hylash Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Hylash Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Hylash Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Hylash Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Hylash Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Hylash Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Hylash Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Hylash Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+IceNormal.png  -- nenhuma carta parecida encontrada
+IconButton01Blue_p.png  -- nenhuma carta parecida encontrada
+IconButton01Cyan_p.png  -- nenhuma carta parecida encontrada
+IconButton01White_1.png  -- nenhuma carta parecida encontrada
+IconButton01White_2.png  -- nenhuma carta parecida encontrada
+IconButton02Red_p.png  -- nenhuma carta parecida encontrada
+IconButton02White_1.png  -- nenhuma carta parecida encontrada
+IconButton09Red_n.png  -- nenhuma carta parecida encontrada
+IconButton09Red_p.png  -- nenhuma carta parecida encontrada
+IconButton11Blue_p.png  -- nenhuma carta parecida encontrada
+IconButton11Red_n.png  -- nenhuma carta parecida encontrada
+Icon_Boots.png  -- nenhuma carta parecida encontrada
+Icon_Boy.png  -- nenhuma carta parecida encontrada
+Icon_Crowd.png  -- nenhuma carta parecida encontrada
+Icon_DividingLine01.png  -- nenhuma carta parecida encontrada
+Icon_Girl.png  -- nenhuma carta parecida encontrada
+ICON_Help.png  -- nenhuma carta parecida encontrada
+Icon_Jump.png  -- sugestões: Jump Over (0.50)
+Icon_LargePlay.png  -- nenhuma carta parecida encontrada
+Icon_Maillist.png  -- nenhuma carta parecida encontrada
+Icon_Map.png  -- nenhuma carta parecida encontrada
+Icon_PC.png  -- nenhuma carta parecida encontrada
+Icon_PieChart.png  -- nenhuma carta parecida encontrada
+Icon_Settings0.png  -- nenhuma carta parecida encontrada
+ICON_Trophy.png  -- nenhuma carta parecida encontrada
+Icon_Trousers.png  -- nenhuma carta parecida encontrada
+Icon_Tshirt.png  -- nenhuma carta parecida encontrada
+img1.png  -- nenhuma carta parecida encontrada
+img2.png  -- nenhuma carta parecida encontrada
+img3.png  -- nenhuma carta parecida encontrada
+img4.png  -- nenhuma carta parecida encontrada
+img6.png  -- nenhuma carta parecida encontrada
+img7.png  -- nenhuma carta parecida encontrada
+img8.png  -- nenhuma carta parecida encontrada
+img9.png  -- nenhuma carta parecida encontrada
+Impact2.png  -- nenhuma carta parecida encontrada
+Impact_Lightrays.png  -- sugestões: Mega Impact (0.50) | Screw Impact (0.50) | Hyper Impact (0.50)
+Impact_LightraysBlurry.png  -- sugestões: Mega Impact (0.50) | Screw Impact (0.50) | Hyper Impact (0.50)
+Ingram Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Ingram Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Ingram Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Ingram Ball Texture - Ventus(1).png  -- nenhuma carta parecida encontrada
+Ingram Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Ingram Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Ingram Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Ingram Texture 1 - Haos 2.png  -- nenhuma carta parecida encontrada
+Ingram Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Ingram Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Ingram Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Ingram Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+InputFieldBackground.png  -- nenhuma carta parecida encontrada
+IntersectionNoise.png  -- nenhuma carta parecida encontrada
+ItemButton01Gray_p.png  -- nenhuma carta parecida encontrada
+ItemButton02Blue_p.png  -- nenhuma carta parecida encontrada
+ItemButton02Cyan_n.png  -- nenhuma carta parecida encontrada
+ItemButton02Green_n.png  -- nenhuma carta parecida encontrada
+ItemButton02Green_p.png  -- nenhuma carta parecida encontrada
+ItemButton02White_1.png  -- nenhuma carta parecida encontrada
+ItemButton02White_2.png  -- nenhuma carta parecida encontrada
+ItemButton03White1.png  -- nenhuma carta parecida encontrada
+ItemButton03White2.png  -- nenhuma carta parecida encontrada
+ItemButton05Blue_p.png  -- nenhuma carta parecida encontrada
+ItemButton06Blue_n.png  -- nenhuma carta parecida encontrada
+ItemButton06Gray_n.png  -- nenhuma carta parecida encontrada
+ItemButton06Gray_p.png  -- nenhuma carta parecida encontrada
+ItemButton07Blue_n.png  -- nenhuma carta parecida encontrada
+jacket.png  -- nenhuma carta parecida encontrada
+Jenny Hair.png  -- nenhuma carta parecida encontrada
+Jenny Head Icon.png  -- sugestões: Apollon Head (0.40)
+Jewls Head Icon.png  -- sugestões: Apollon Head (0.40)
+JS_Display_Case_Curved_Bump.png  -- nenhuma carta parecida encontrada
+JS_Display_Case_Curved_Diff.png  -- nenhuma carta parecida encontrada
+Juggernoid Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Juggernoid Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Juggernoid Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Juggernoid Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Juggernoid Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Juggernoid Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Juggernoid Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Juggernoid Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Juggernoid Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Juggernoid Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Juggernoid Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Juggernoid Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Juggernoid Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Juggernoid Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Juggernoid Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Juggernoid Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Juggernoid Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Juggernoid Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Juggernoid Texture 2- Haos.png  -- nenhuma carta parecida encontrada
+Juggernoid Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Juggernoid Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Juggernoid Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Juggernoid Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Juggernoid Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Juggernoid Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+Juggernoid.png  -- nenhuma carta parecida encontrada
+Julie Boots.png  -- nenhuma carta parecida encontrada
+Julie Head Icon.png  -- sugestões: Apollon Head (0.40)
+Julie Shirt.png  -- nenhuma carta parecida encontrada
+Julie Shorts.png  -- nenhuma carta parecida encontrada
+Julie_Clothes_Texture_upscaled(3).png  -- nenhuma carta parecida encontrada
+Julie_Clothes_Texture_upscaled(5)(4).png  -- nenhuma carta parecida encontrada
+Julio Head Icon.png  -- sugestões: Apollon Head (0.40)
+Kenji Head Icon.png  -- sugestões: Apollon Head (0.40)
+Kenta Head Icon.png  -- sugestões: Apollon Head (0.40)
+Klaus Head Icon.png  -- sugestões: Apollon Head (0.40)
+Knob.png  -- nenhuma carta parecida encontrada
+Komba Head Icon.png  -- sugestões: Apollon Head (0.40)
+Kompozit_dc_fff_GA_2_2_Tex.png  -- nenhuma carta parecida encontrada
+Kreon Light SDF Atlas.png  -- nenhuma carta parecida encontrada
+kurale-regular SDF Atlas.png  -- nenhuma carta parecida encontrada
+Land Twist Card Art.png  -- nenhuma carta parecida encontrada
+Large01.png  -- nenhuma carta parecida encontrada
+Large02.png  -- nenhuma carta parecida encontrada
+LargeButton01Gray_p 1.png  -- nenhuma carta parecida encontrada
+LargeButton03Gray_d.png  -- nenhuma carta parecida encontrada
+Laserman Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Laserman Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Laserman Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Laserman Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Laserman Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Laserman Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Laserman Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Laserman Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Laserman Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Laserman Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Laserman.png  -- nenhuma carta parecida encontrada
+LavaAnimation2.png  -- nenhuma carta parecida encontrada
+LavaAnimation3.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_0.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_1.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_10.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_11.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_12.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_13.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_14.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_15.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_16.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_17.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_18.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_19.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_2.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_20.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_21.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_22.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_23.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_24.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_25.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_26.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_27.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_28.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_29.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_3.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_30.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_31.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_4.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_5.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_6.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_7.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_8.png  -- nenhuma carta parecida encontrada
+LDR_LLL1_9.png  -- nenhuma carta parecida encontrada
+LeafAtlas_Nature.png  -- nenhuma carta parecida encontrada
+Leave9.png  -- nenhuma carta parecida encontrada
+Leonidas Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Leonidas Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Leonidas Ball Texture - Eye Emission.png  -- nenhuma carta parecida encontrada
+Leonidas Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Leonidas Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Leonidas Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Leonidas Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Leonidas Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Leonidas Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Leonidas Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Leonidas Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Leonidas Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Leonidas Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Leonidas Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Leonidas Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Leonidas Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Leonidas Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Leonidas Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Leonidas Texture 2- Subterra.png  -- nenhuma carta parecida encontrada
+Leonidas Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Leonidas Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Leonidas Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Leonidas Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Leonidas Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Leonidas Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+LiberationSans SDF Atlas.png  -- nenhuma carta parecida encontrada
+life_drop(1).png  -- sugestões: Life Ripple (0.40)
+LightFlash.png  -- nenhuma carta parecida encontrada
+Lightning1.png  -- nenhuma carta parecida encontrada
+Lightning10.png  -- nenhuma carta parecida encontrada
+Lightning11.png  -- nenhuma carta parecida encontrada
+Lightning15.png  -- nenhuma carta parecida encontrada
+lightning2 #3667.png  -- nenhuma carta parecida encontrada
+Lightning2.png  -- nenhuma carta parecida encontrada
+lightning_ball.png  -- sugestões: Lightning Shield (0.50) | Lightning Tornado (0.50)
+lightning_new_arcs_2x2.png  -- nenhuma carta parecida encontrada
+lightning_new_bolt.png  -- sugestões: Lightning Shield (0.40) | Lightning Tornado (0.40)
+lightning_new_glow2.png  -- sugestões: Lightning Shield (0.40) | Lightning Tornado (0.40)
+lighttrail.png  -- nenhuma carta parecida encontrada
+light_lensflare.png  -- sugestões: Guiding Light (0.50) | Pure Light (0.50)
+light_orb.png  -- sugestões: Guiding Light (0.50) | Pure Light (0.50)
+light_particle.png  -- sugestões: Guiding Light (0.50) | Pure Light (0.50)
+Line3.png  -- nenhuma carta parecida encontrada
+Linearprogress002White 1.png  -- nenhuma carta parecida encontrada
+Linearprogress004White_bg.png  -- nenhuma carta parecida encontrada
+lines-1.png  -- nenhuma carta parecida encontrada
+lines-2.png  -- nenhuma carta parecida encontrada
+Liquid3.png  -- nenhuma carta parecida encontrada
+List Lines Sharp.png  -- nenhuma carta parecida encontrada
+Lock #2755.png  -- sugestões: Gun Lock (0.50)
+Lock - Unlocked.png  -- sugestões: Gun Lock (0.50)
+Lock SciFi.png  -- sugestões: Gun Lock (0.50)
+Lock(3).png  -- sugestões: Gun Lock (0.50)
+Lock.png  -- sugestões: Gun Lock (0.67)
+MagicCircle57.png  -- nenhuma carta parecida encontrada
+MagicCircle70.png  -- nenhuma carta parecida encontrada
+MagicText6.png  -- nenhuma carta parecida encontrada
+Mail.png  -- nenhuma carta parecida encontrada
+Male Anime Hair 1.png  -- nenhuma carta parecida encontrada
+Male Anime Hair 10.png  -- nenhuma carta parecida encontrada
+Male Anime Hair 2.png  -- nenhuma carta parecida encontrada
+Male Anime Hair 3.png  -- nenhuma carta parecida encontrada
+Male Anime Hair 4.png  -- nenhuma carta parecida encontrada
+Male Anime Hair 5.png  -- nenhuma carta parecida encontrada
+Male Anime Hair 6.png  -- nenhuma carta parecida encontrada
+Male Anime Hair 8.png  -- nenhuma carta parecida encontrada
+Male Anime Hair 9.png  -- nenhuma carta parecida encontrada
+Male Eyelash Texture 1.png  -- nenhuma carta parecida encontrada
+Male Pants 1.png  -- nenhuma carta parecida encontrada
+Male Pants 2 Texture 1.png  -- nenhuma carta parecida encontrada
+Male Pants 2 Texture 2.png  -- nenhuma carta parecida encontrada
+Male Pants 2.png  -- nenhuma carta parecida encontrada
+Male Pants 3 Texture 1.png  -- nenhuma carta parecida encontrada
+Male Pants 3 Texture 2.png  -- nenhuma carta parecida encontrada
+Male Pants 3.png  -- nenhuma carta parecida encontrada
+Male Pants 4 Texture 1.png  -- nenhuma carta parecida encontrada
+Male Pants 4 Texture 2.png  -- nenhuma carta parecida encontrada
+Male Pants 4.png  -- nenhuma carta parecida encontrada
+Male Pants 5 Texture 1.png  -- nenhuma carta parecida encontrada
+Male Pants 5 Texture 2.png  -- nenhuma carta parecida encontrada
+Male Pants 5.png  -- nenhuma carta parecida encontrada
+Male Pants 6 Texture 1.png  -- nenhuma carta parecida encontrada
+Male Pants 6 Texture 2.png  -- nenhuma carta parecida encontrada
+Male Pants 7.png  -- nenhuma carta parecida encontrada
+Male Shirt 1 Texture 1.png  -- nenhuma carta parecida encontrada
+Male Shirt 1 Texture 2.png  -- nenhuma carta parecida encontrada
+Male Shirt 1.png  -- nenhuma carta parecida encontrada
+Male Shirt 2 Texture 1.png  -- nenhuma carta parecida encontrada
+Male Shirt 2 Texture 2.png  -- nenhuma carta parecida encontrada
+Male Shirt 2.png  -- nenhuma carta parecida encontrada
+Male Shirt 3 Texture 1.png  -- nenhuma carta parecida encontrada
+Male Shirt 3 Texture 2.png  -- nenhuma carta parecida encontrada
+Male Shirt 3.png  -- nenhuma carta parecida encontrada
+Male Shirt 4 Texture 2.png  -- nenhuma carta parecida encontrada
+Male Shirt 4.png  -- nenhuma carta parecida encontrada
+Male Shirt 5 Texture 1.png  -- nenhuma carta parecida encontrada
+Male Shirt 5 Texture 2.png  -- nenhuma carta parecida encontrada
+Male Shirt 5.png  -- nenhuma carta parecida encontrada
+Male Shirt 6 Texture 1.png  -- nenhuma carta parecida encontrada
+Male Shirt 6.png  -- nenhuma carta parecida encontrada
+Male Shirt 7.png  -- nenhuma carta parecida encontrada
+Male Shoes 1.png  -- nenhuma carta parecida encontrada
+Male Shoes 2 Texture.png  -- nenhuma carta parecida encontrada
+Male Shoes 2.png  -- nenhuma carta parecida encontrada
+Male Shoes 3 Texture.png  -- nenhuma carta parecida encontrada
+Male Shoes 4.png  -- nenhuma carta parecida encontrada
+Male Shoes 5.png  -- nenhuma carta parecida encontrada
+Male Shoes 7.png  -- nenhuma carta parecida encontrada
+Malr Shirt 6 Texture 2.png  -- nenhuma carta parecida encontrada
+Marduk Head Icon.png  -- sugestões: Apollon Head (0.40)
+Mark Of Chaos Icon.png  -- nenhuma carta parecida encontrada
+Marucho Head Icon.png  -- sugestões: Apollon Head (0.40)
+Mask.png  -- nenhuma carta parecida encontrada
+Mask23.png  -- nenhuma carta parecida encontrada
+Mask27.2.png  -- nenhuma carta parecida encontrada
+Mask33.png  -- nenhuma carta parecida encontrada
+Mask50.png  -- nenhuma carta parecida encontrada
+Mask54.png  -- nenhuma carta parecida encontrada
+Mask9.png  -- nenhuma carta parecida encontrada
+MaskForShader.png  -- nenhuma carta parecida encontrada
+MaskPortal.png  -- nenhuma carta parecida encontrada
+mask_3.png  -- nenhuma carta parecida encontrada
+mask_4.png  -- nenhuma carta parecida encontrada
+mask_7.png  -- nenhuma carta parecida encontrada
+Masquerade Head Icon.png  -- sugestões: Apollon Head (0.40)
+Max Reflector Card Art.png  -- nenhuma carta parecida encontrada
+Medium01.png  -- nenhuma carta parecida encontrada
+Medium02.png  -- nenhuma carta parecida encontrada
+Medium03.png  -- nenhuma carta parecida encontrada
+Medium04.png  -- nenhuma carta parecida encontrada
+Medium05.png  -- nenhuma carta parecida encontrada
+Medium06.png  -- nenhuma carta parecida encontrada
+MenuButton01Blue_p.png  -- nenhuma carta parecida encontrada
+MenuButton01Cyan_p.png  -- nenhuma carta parecida encontrada
+MenuButton01Gray_p.png  -- nenhuma carta parecida encontrada
+MenuButton01Green_p.png  -- nenhuma carta parecida encontrada
+MenuButton01Purple_n.png  -- nenhuma carta parecida encontrada
+MenuButton01Purple_p.png  -- nenhuma carta parecida encontrada
+MenuButton01Red_p.png  -- nenhuma carta parecida encontrada
+MenuButton01Yellow_p.png  -- nenhuma carta parecida encontrada
+MenuButton03Red_p 1.png  -- nenhuma carta parecida encontrada
+Metalfencer Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Metalfencer Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Metalfencer Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Metalfencer Ball Texture - Pyrus(1).png  -- nenhuma carta parecida encontrada
+Metalfencer Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Metalfencer Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Metalfencer Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Metalfencer Card Art.png  -- nenhuma carta parecida encontrada
+Metalfencer Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Metalfencer Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Metalfencer Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Metalfencer Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Metalfencer Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Metalfencer Texture 1 - Ventus 2.png  -- nenhuma carta parecida encontrada
+Metal_Trim_A_BaseColor.png  -- nenhuma carta parecida encontrada
+Metal_Trim_A_MetallicSmoothness.png  -- nenhuma carta parecida encontrada
+Metal_Trim_A_Normal.png  -- nenhuma carta parecida encontrada
+Metal_Trim_A_Occlusion.png  -- nenhuma carta parecida encontrada
+Metal_Trim_B_AlbedoTransparency.png  -- nenhuma carta parecida encontrada
+Metal_Trim_B_MetallicSmoothness.png  -- nenhuma carta parecida encontrada
+Metal_Trim_B_Normal.png  -- nenhuma carta parecida encontrada
+Metal_Trim_B_Occlusion.png  -- nenhuma carta parecida encontrada
+Mira Head Icon.png  -- sugestões: Apollon Head (0.40)
+modular_aura06.png  -- nenhuma carta parecida encontrada
+Monarus Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Monarus Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Monarus Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Monarus Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Monarus Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Monarus Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Monarus Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Monarus Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Monarus Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Monarus Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Monarus Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Monarus Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Monarus Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Monarus Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Monarus Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Monarus Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Monarus Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Monarus Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Monarus Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Monarus Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Monarus Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Monarus Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Monarus Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Monarus Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Monarus Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+Monarus.png  -- nenhuma carta parecida encontrada
+Motion12b.png  -- nenhuma carta parecida encontrada
+Motion5.png  -- nenhuma carta parecida encontrada
+Mouth Texture(2).png  -- nenhuma carta parecida encontrada
+Mouth Texture(5).png  -- nenhuma carta parecida encontrada
+Mouth Texture.png  -- nenhuma carta parecida encontrada
+MuzzleFlash3.png  -- nenhuma carta parecida encontrada
+Mystic Legion Icon.png  -- nenhuma carta parecida encontrada
+M_adboard_base_normal.png  -- nenhuma carta parecida encontrada
+M_aircon_BaseMap.png  -- nenhuma carta parecida encontrada
+M_aircon_MaskMap.png  -- nenhuma carta parecida encontrada
+M_aircon_Normal.png  -- nenhuma carta parecida encontrada
+M_asphalt_01_Normal.png  -- nenhuma carta parecida encontrada
+M_asphalt_02_diff.png  -- nenhuma carta parecida encontrada
+M_attachments_light_BaseMap.png  -- nenhuma carta parecida encontrada
+M_attachments_light_Emissive.png  -- nenhuma carta parecida encontrada
+M_attachments_light_MaskMap.png  -- nenhuma carta parecida encontrada
+M_attachments_light_Normal.png  -- nenhuma carta parecida encontrada
+M_attachments_residental_BaseMap.png  -- nenhuma carta parecida encontrada
+M_attachments_residental_MaskMap.png  -- nenhuma carta parecida encontrada
+M_attachments_residental_Normal.png  -- nenhuma carta parecida encontrada
+M_bark_01_BaseColor.png  -- nenhuma carta parecida encontrada
+M_bark_01_Normal.png  -- nenhuma carta parecida encontrada
+M_basetexture_stylized_02.png  -- nenhuma carta parecida encontrada
+M_beamsbrown_MaskMap.png  -- nenhuma carta parecida encontrada
+M_beams_black_BaseMap.png  -- nenhuma carta parecida encontrada
+M_beams_black_MaskMap.png  -- nenhuma carta parecida encontrada
+M_beams_brown_BaseMap.png  -- nenhuma carta parecida encontrada
+M_beams_metal_BaseMap.png  -- nenhuma carta parecida encontrada
+M_beams_metal_MaskMap.png  -- nenhuma carta parecida encontrada
+M_beams_Normal.png  -- nenhuma carta parecida encontrada
+M_beams_red_BaseMap.png  -- nenhuma carta parecida encontrada
+M_beams_red_MaskMap.png  -- nenhuma carta parecida encontrada
+M_billboard_bookstore(1).png  -- nenhuma carta parecida encontrada
+M_blindguidance_BaseMap.png  -- nenhuma carta parecida encontrada
+M_blindguidance_MaskMap.png  -- nenhuma carta parecida encontrada
+M_blindguidance_Normal.png  -- nenhuma carta parecida encontrada
+M_bottles_BaseMap.png  -- nenhuma carta parecida encontrada
+M_bottles_MaskMap.png  -- nenhuma carta parecida encontrada
+M_bottles_Normal.png  -- nenhuma carta parecida encontrada
+M_car_sport_attachments_BaseMap.png  -- nenhuma carta parecida encontrada
+M_car_sport_attachments_MaskMap.png  -- nenhuma carta parecida encontrada
+M_car_sport_attachments_Normal.png  -- nenhuma carta parecida encontrada
+M_car_sport_base_BaseMap.png  -- nenhuma carta parecida encontrada
+M_car_sport_base_MaskMap.png  -- nenhuma carta parecida encontrada
+M_car_sport_base_Normal.png  -- nenhuma carta parecida encontrada
+M_car_sport_base_varBaseMap.png  -- nenhuma carta parecida encontrada
+M_car_sport_base_varMaskMap.png  -- nenhuma carta parecida encontrada
+M_coil_BaseMap.png  -- nenhuma carta parecida encontrada
+M_coil_MaskMap.png  -- nenhuma carta parecida encontrada
+M_coil_Normal.png  -- nenhuma carta parecida encontrada
+M_cosmeticstore_wordsign_BaseMap.png  -- nenhuma carta parecida encontrada
+M_curbstones_BaseMap.png  -- nenhuma carta parecida encontrada
+M_curbstones_MaskMap.png  -- nenhuma carta parecida encontrada
+M_curbstones_Normal.png  -- nenhuma carta parecida encontrada
+M_decal_01.png  -- nenhuma carta parecida encontrada
+M_decal_arrow_right.png  -- nenhuma carta parecida encontrada
+M_decal_arrow_straight.png  -- nenhuma carta parecida encontrada
+M_decal_noparking.png  -- nenhuma carta parecida encontrada
+M_decal_parking.png  -- nenhuma carta parecida encontrada
+M_decal_stripes.png  -- nenhuma carta parecida encontrada
+M_emergencysigns_BaseMap.png  -- nenhuma carta parecida encontrada
+M_emergencysigns_MaskMap.png  -- nenhuma carta parecida encontrada
+M_emergencysigns_Normal.png  -- nenhuma carta parecida encontrada
+M_fences_01_BaseMap.png  -- nenhuma carta parecida encontrada
+M_fences_01_MaskMap.png  -- nenhuma carta parecida encontrada
+M_fences_01_Normal.png  -- nenhuma carta parecida encontrada
+M_fences_suburbs_BaseMap.png  -- nenhuma carta parecida encontrada
+M_fences_suburbs_MaskMap.png  -- nenhuma carta parecida encontrada
+M_fences_suburbs_Normal.png  -- nenhuma carta parecida encontrada
+M_fence_basecolor.png  -- nenhuma carta parecida encontrada
+M_fence_Normal.png  -- nenhuma carta parecida encontrada
+M_floortiles.png  -- nenhuma carta parecida encontrada
+M_floortiles_nrm.png  -- nenhuma carta parecida encontrada
+M_fuseboxes_01_BaseMap.png  -- nenhuma carta parecida encontrada
+M_fuseboxes_01_MaskMap.png  -- nenhuma carta parecida encontrada
+M_fuseboxes_01_Normal.png  -- nenhuma carta parecida encontrada
+M_garagedoor_BaseMap.png  -- nenhuma carta parecida encontrada
+M_garagedoor_MaskMap.png  -- nenhuma carta parecida encontrada
+M_garagedoor_Normal.png  -- nenhuma carta parecida encontrada
+M_gate_citycenter_BaseMap.png  -- nenhuma carta parecida encontrada
+M_gate_citycenter_Emissive.png  -- nenhuma carta parecida encontrada
+M_gate_citycenter_MaskMap.png  -- nenhuma carta parecida encontrada
+M_gate_citycenter_Normal.png  -- nenhuma carta parecida encontrada
+M_konbinientrance_BaseMap.png  -- nenhuma carta parecida encontrada
+M_konbinientrance_MaskMap.png  -- nenhuma carta parecida encontrada
+M_lamppole_BaseMap.png  -- nenhuma carta parecida encontrada
+M_lamppole_MaskMap.png  -- nenhuma carta parecida encontrada
+M_lamppole_Normal.png  -- nenhuma carta parecida encontrada
+M_lanterns_extra_BaseMap.png  -- nenhuma carta parecida encontrada
+M_lanterns_extra_MaskMap.png  -- nenhuma carta parecida encontrada
+M_lanterns_extra_Normal.png  -- nenhuma carta parecida encontrada
+M_leaves_tree.png  -- nenhuma carta parecida encontrada
+M_LED_emmision.png  -- nenhuma carta parecida encontrada
+M_LED_TV_BaseMap.png  -- nenhuma carta parecida encontrada
+M_LED_TV_MaskMap.png  -- nenhuma carta parecida encontrada
+M_LED_TV_Normal.png  -- nenhuma carta parecida encontrada
+M_licenseplate_BaseMap.png  -- nenhuma carta parecida encontrada
+M_licenseplate_MaskMap.png  -- nenhuma carta parecida encontrada
+M_licenseplate_Normal.png  -- nenhuma carta parecida encontrada
+M_lights_billboard_BaseMap.png  -- nenhuma carta parecida encontrada
+M_lights_billboard_Emissive.png  -- nenhuma carta parecida encontrada
+M_lights_billboard_MaskMap.png  -- nenhuma carta parecida encontrada
+M_lights_billboard_Normal.png  -- nenhuma carta parecida encontrada
+M_lines_vertical_Normal.png  -- nenhuma carta parecida encontrada
+M_line_decal.png  -- nenhuma carta parecida encontrada
+M_line_decal_02.png  -- nenhuma carta parecida encontrada
+M_metroentrance_sign_BaseMap.png  -- nenhuma carta parecida encontrada
+M_metroentrance_sign_Emissive.png  -- nenhuma carta parecida encontrada
+M_metroentrance_sign_MaskMap.png  -- nenhuma carta parecida encontrada
+M_neonsigns_BaseMap.png  -- nenhuma carta parecida encontrada
+M_neonsigns_Emissive.png  -- nenhuma carta parecida encontrada
+M_neonsigns_Normal.png  -- nenhuma carta parecida encontrada
+M_parasols_storefront_BaseMap.png  -- nenhuma carta parecida encontrada
+M_parasols_storefront_MaskMap.png  -- nenhuma carta parecida encontrada
+M_parasols_storefront_Normal.png  -- nenhuma carta parecida encontrada
+M_pavingstones_01_Basecolor.png  -- nenhuma carta parecida encontrada
+M_pavingstones_01_Normal.png.png  -- nenhuma carta parecida encontrada
+M_pedestriancrossing.png  -- nenhuma carta parecida encontrada
+M_pedestriancrossing2.png  -- nenhuma carta parecida encontrada
+M_pedestriancrossing3.png  -- nenhuma carta parecida encontrada
+M_pedestriancrossing4.png  -- nenhuma carta parecida encontrada
+M_pillar_edges_metro_BaseMap.png  -- nenhuma carta parecida encontrada
+M_pillar_edges_metro_MaskMap.png  -- nenhuma carta parecida encontrada
+M_pillar_edges_metro_Normal.png  -- nenhuma carta parecida encontrada
+M_pillar_metal_metro_BaseMap.png  -- nenhuma carta parecida encontrada
+M_pillar_metal_metro_MaskMap.png  -- nenhuma carta parecida encontrada
+M_pillar_metal_metro_Normal.png  -- nenhuma carta parecida encontrada
+M_pipes_01_BaseMap.png  -- nenhuma carta parecida encontrada
+M_pipes_01_MaskMap.png  -- nenhuma carta parecida encontrada
+M_pipes_01_Normal.png  -- nenhuma carta parecida encontrada
+M_plastic_Normal.png  -- nenhuma carta parecida encontrada
+M_plastic_roughness.png  -- nenhuma carta parecida encontrada
+M_posters_wall2_BaseMap.png  -- nenhuma carta parecida encontrada
+M_posters_wall_03_BaseMap.png  -- nenhuma carta parecida encontrada
+M_posters_wall_BaseMap.png  -- nenhuma carta parecida encontrada
+M_posters_wall_MaskMap.png  -- nenhuma carta parecida encontrada
+M_posters_wall_Normal.png  -- nenhuma carta parecida encontrada
+M_powerpole_extras_BaseMap.png  -- nenhuma carta parecida encontrada
+M_powerpole_extras_MaskMap.png  -- nenhuma carta parecida encontrada
+M_powerpole_extras_Normal.png  -- nenhuma carta parecida encontrada
+M_props_street_01_BaseMap.png  -- nenhuma carta parecida encontrada
+M_props_street_01_MaskMap.png  -- nenhuma carta parecida encontrada
+M_props_street_01_Normal.png  -- nenhuma carta parecida encontrada
+M_recyclingbin_BaseMap.png  -- nenhuma carta parecida encontrada
+M_recyclingbin_MaskMap.png  -- nenhuma carta parecida encontrada
+M_recyclingbin_Normal.png  -- nenhuma carta parecida encontrada
+M_road_decal_BaseColor.png  -- nenhuma carta parecida encontrada
+M_road_decal_Normal.png  -- nenhuma carta parecida encontrada
+M_roundmirror_02BaseMap.png  -- nenhuma carta parecida encontrada
+M_roundmirror_MaskMap.png  -- nenhuma carta parecida encontrada
+M_roundmirror_Normal.png  -- nenhuma carta parecida encontrada
+M_signboards_tokyo_02_BaseMap.png  -- nenhuma carta parecida encontrada
+M_signboards_tokyo_02_BaseMap_var.png  -- nenhuma carta parecida encontrada
+M_signboards_tokyo_03_BaseMap.png  -- nenhuma carta parecida encontrada
+M_signboards_tokyo_04_BaseMap.png  -- nenhuma carta parecida encontrada
+M_signboards_tokyo_05_BaseMap.png  -- nenhuma carta parecida encontrada
+M_signboards_tokyo_BaseMap.png  -- nenhuma carta parecida encontrada
+M_signboards_tokyo_horiyontal2BaseMap.png  -- nenhuma carta parecida encontrada
+M_signboards_tokyo_horizontalBaseMap.png  -- nenhuma carta parecida encontrada
+M_signboards_tokyo_MaskMap.png  -- nenhuma carta parecida encontrada
+M_signboard_borders_BaseMap.png  -- nenhuma carta parecida encontrada
+M_signboard_borders_MaskMap.png  -- nenhuma carta parecida encontrada
+M_signboard_borders_Normal.png  -- nenhuma carta parecida encontrada
+M_signboard_storefront_BaseMap.png  -- nenhuma carta parecida encontrada
+M_signboard_storefront_MaskMap.png  -- nenhuma carta parecida encontrada
+M_signboard_storefront_Normal.png  -- nenhuma carta parecida encontrada
+M_signs_highway_BaseMap.png  -- nenhuma carta parecida encontrada
+M_signs_highway_MaskMap.png  -- nenhuma carta parecida encontrada
+M_signs_metro_BaseMap.png  -- nenhuma carta parecida encontrada
+M_signs_metro_MaskMap.png  -- nenhuma carta parecida encontrada
+M_signs_suburbs_BaseMap.png  -- nenhuma carta parecida encontrada
+M_signs_suburbs_MaskMap.png  -- nenhuma carta parecida encontrada
+M_signs_suburbs_Normal.png  -- nenhuma carta parecida encontrada
+M_sign_firehydrant_BaseMap.png  -- nenhuma carta parecida encontrada
+M_sign_firehydrant_MaskMap.png  -- nenhuma carta parecida encontrada
+M_sign_firehydrant_Normal.png  -- nenhuma carta parecida encontrada
+M_storefronts_japan_02_BaseMap.png  -- nenhuma carta parecida encontrada
+M_storefronts_japan_02_MaskMap.png  -- nenhuma carta parecida encontrada
+M_storefronts_japan_BaseMap.png  -- nenhuma carta parecida encontrada
+M_storefronts_japan_Normal.png  -- nenhuma carta parecida encontrada
+M_storefront_tofu_BaseMap.png  -- nenhuma carta parecida encontrada
+M_storefront_tofu_MaskMap.png  -- nenhuma carta parecida encontrada
+M_storefront_tofu_Normal.png  -- nenhuma carta parecida encontrada
+M_storefront_traditional_BaseMap.png  -- nenhuma carta parecida encontrada
+M_storefront_traditional_MaskMap.png  -- nenhuma carta parecida encontrada
+M_storefront_traditional_Normal.png  -- nenhuma carta parecida encontrada
+M_streetlamp_BaseMap.png  -- nenhuma carta parecida encontrada
+M_streetlamp_MaskMap.png  -- nenhuma carta parecida encontrada
+M_streetlamp_Normal.png  -- nenhuma carta parecida encontrada
+M_ticketgate_japan_BaseMap.png  -- nenhuma carta parecida encontrada
+M_ticketgate_japan_Emissive.png  -- nenhuma carta parecida encontrada
+M_ticketgate_japan_MaskMap.png  -- nenhuma carta parecida encontrada
+M_ticketgate_japan_Normal.png  -- nenhuma carta parecida encontrada
+M_tiles_large_Base.png  -- nenhuma carta parecida encontrada
+M_tiles_large_nrm.png  -- nenhuma carta parecida encontrada
+M_trafficlights_BaseMap.png  -- nenhuma carta parecida encontrada
+M_trafficlights_Emissive.png  -- nenhuma carta parecida encontrada
+M_trafficlights_MaskMap.png  -- nenhuma carta parecida encontrada
+M_trafficlights_Normal.png  -- nenhuma carta parecida encontrada
+M_trafficpylons_BaseMap.png  -- nenhuma carta parecida encontrada
+M_trafficpylons_MaskMap.png  -- nenhuma carta parecida encontrada
+M_trafficpylons_Normal.png  -- nenhuma carta parecida encontrada
+M_trafficsigns_BaseMap.png  -- nenhuma carta parecida encontrada
+M_trafficsigns_MaskMap.png  -- nenhuma carta parecida encontrada
+M_trafficsigns_Normal.png  -- nenhuma carta parecida encontrada
+M_vendingmachine_02_BaseMap.png  -- nenhuma carta parecida encontrada
+M_vendingmachine_03_BaseMap.png  -- nenhuma carta parecida encontrada
+M_vendingmachine_BaseMap.png  -- nenhuma carta parecida encontrada
+M_vendingmachine_Emissive.png  -- nenhuma carta parecida encontrada
+M_vendingmachine_MaskMap.png  -- nenhuma carta parecida encontrada
+M_vendingmachine_Normal.png  -- nenhuma carta parecida encontrada
+M_vent_BaseMap.png  -- nenhuma carta parecida encontrada
+M_vent_MaskMap.png  -- nenhuma carta parecida encontrada
+M_vent_Normal.png  -- nenhuma carta parecida encontrada
+M_wall_linepattern2_diff.png  -- nenhuma carta parecida encontrada
+M_wall_linepattern_nrm.png  -- nenhuma carta parecida encontrada
+M_warningsigns_BaseMap.png  -- nenhuma carta parecida encontrada
+M_warningsigns_MaskMap.png  -- nenhuma carta parecida encontrada
+M_warningsigns_Normal.png  -- nenhuma carta parecida encontrada
+M_wheel_car_BaseMap.png  -- nenhuma carta parecida encontrada
+M_wheel_car_MaskMap.png  -- nenhuma carta parecida encontrada
+M_wheel_car_Normal.png  -- nenhuma carta parecida encontrada
+M_wordsigns_01_BaseMap.png  -- nenhuma carta parecida encontrada
+M_wordsigns_01_MaskMap.png  -- nenhuma carta parecida encontrada
+M_wordsigns_03_BaseMap.png  -- nenhuma carta parecida encontrada
+M_wordsigns_03_MaskMap.png  -- nenhuma carta parecida encontrada
+M_wordsigns_04_BaseMap.png  -- nenhuma carta parecida encontrada
+M_wordsigns_04_MaskMap.png  -- nenhuma carta parecida encontrada
+Nemus Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Nemus Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Nemus Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Nemus Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Nemus Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Nemus Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Nemus Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Nemus Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Nemus Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Nemus Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Nemus Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Nemus Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Nemus Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Nene Head Icon.png  -- sugestões: Apollon Head (0.40)
+Neo Dragonoid Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Neo Dragonoid Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Neo Dragonoid Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Neo Dragonoid Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Neo Dragonoid Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Neo Dragonoid Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Neo Dragonoid Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Neo Dragonoid Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Neo Dragonoid Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Neo Dragonoid Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Neo Dragonoid Texture 1 - Pyrus(1).png  -- nenhuma carta parecida encontrada
+Neo Dragonoid Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Neo Dragonoid Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+New Project(6) #3022.png  -- nenhuma carta parecida encontrada
+New Project(6).png  -- nenhuma carta parecida encontrada
+New Project(7).png  -- nenhuma carta parecida encontrada
+New Project(8).png  -- nenhuma carta parecida encontrada
+New Vestroia Bakugan Frame.png  -- nenhuma carta parecida encontrada
+Ninja Squirtles Icon.png  -- nenhuma carta parecida encontrada
+Nintendo_Switch_Material_albedo.png  -- nenhuma carta parecida encontrada
+Nintendo_Switch_Material_metallic.png  -- nenhuma carta parecida encontrada
+Nintendo_Switch_Material_normal.png  -- nenhuma carta parecida encontrada
+Noise Big 1.png  -- nenhuma carta parecida encontrada
+Noise Small 1.png  -- nenhuma carta parecida encontrada
+Noise.png  -- nenhuma carta parecida encontrada
+Noise1.png  -- nenhuma carta parecida encontrada
+Noise13.png  -- nenhuma carta parecida encontrada
+Noise28.png  -- nenhuma carta parecida encontrada
+Noise29.png  -- nenhuma carta parecida encontrada
+Noise34.png  -- nenhuma carta parecida encontrada
+Noise35n.png  -- nenhuma carta parecida encontrada
+Noise35t.png  -- nenhuma carta parecida encontrada
+Noise41.png  -- nenhuma carta parecida encontrada
+Noise43.png  -- nenhuma carta parecida encontrada
+Noise43b.png  -- nenhuma carta parecida encontrada
+Noise50.png  -- nenhuma carta parecida encontrada
+Noise50b.png  -- nenhuma carta parecida encontrada
+Noise51.png  -- nenhuma carta parecida encontrada
+Noise53.png  -- nenhuma carta parecida encontrada
+Noise59.png  -- nenhuma carta parecida encontrada
+Noise62.png  -- nenhuma carta parecida encontrada
+Noise63.png  -- nenhuma carta parecida encontrada
+Noise69.png  -- nenhuma carta parecida encontrada
+Noise84.png  -- nenhuma carta parecida encontrada
+Noise86.png  -- nenhuma carta parecida encontrada
+Noise87.png  -- nenhuma carta parecida encontrada
+NoiseTex256.png  -- nenhuma carta parecida encontrada
+Noise_SuperContrasted.png  -- nenhuma carta parecida encontrada
+Noise_TilingSoftWebbing.png  -- nenhuma carta parecida encontrada
+NormalMap8.png  -- nenhuma carta parecida encontrada
+Normal_11.png  -- nenhuma carta parecida encontrada
+Normal_14.png  -- nenhuma carta parecida encontrada
+Normal_16.png  -- nenhuma carta parecida encontrada
+Normal_4.png  -- nenhuma carta parecida encontrada
+Normal_6.png  -- nenhuma carta parecida encontrada
+Normal_7.png  -- nenhuma carta parecida encontrada
+notes2.png  -- nenhuma carta parecida encontrada
+nunchuck_high_lambert1_BaseColor.png  -- nenhuma carta parecida encontrada
+nunchuck_high_lambert1_Metallic.png  -- nenhuma carta parecida encontrada
+nunchuck_high_lambert1_Roughness.png  -- nenhuma carta parecida encontrada
+Nunito-Bold SDF Atlas.png  -- nenhuma carta parecida encontrada
+Nunito-SemiBold SDF Atlas.png  -- nenhuma carta parecida encontrada
+Octo Whip Card Art.png  -- nenhuma carta parecida encontrada
+One For All Card Art.png  -- sugestões: All For One (1.00) | One For All (1.00) | Eye For An Eye (0.40)
+OpenSans-Bold SDF Atlas.png  -- nenhuma carta parecida encontrada
+OpenSans-BoldItalic SDF Atlas.png  -- nenhuma carta parecida encontrada
+OpenSans-ExtraBold SDF Atlas.png  -- nenhuma carta parecida encontrada
+OpenSans-ExtraBoldItalic SDF Atlas.png  -- nenhuma carta parecida encontrada
+OpenSans-Italic SDF Atlas.png  -- nenhuma carta parecida encontrada
+OpenSans-Light SDF Atlas.png  -- nenhuma carta parecida encontrada
+OpenSans-LightItalic SDF Atlas.png  -- nenhuma carta parecida encontrada
+OpenSans-Regular SDF Atlas.png  -- nenhuma carta parecida encontrada
+OpenSans-Semibold SDF Atlas.png  -- nenhuma carta parecida encontrada
+OpenSans-SemiboldItalic SDF Atlas.png  -- nenhuma carta parecida encontrada
+PackedNoises_Generic.png  -- nenhuma carta parecida encontrada
+Paint2.png  -- nenhuma carta parecida encontrada
+Paladinskill_16.png  -- nenhuma carta parecida encontrada
+Paladinskill_17.png  -- nenhuma carta parecida encontrada
+Paladinskill_28.png  -- nenhuma carta parecida encontrada
+pants.png  -- nenhuma carta parecida encontrada
+particle-colored.png  -- nenhuma carta parecida encontrada
+particle-white.png  -- nenhuma carta parecida encontrada
+Particle1 #3165.png  -- nenhuma carta parecida encontrada
+Particle1.png  -- nenhuma carta parecida encontrada
+Particle2.png  -- nenhuma carta parecida encontrada
+Particle3.png  -- nenhuma carta parecida encontrada
+ParticleMesh1.png  -- nenhuma carta parecida encontrada
+Particles6.png  -- nenhuma carta parecida encontrada
+ParticleStretched2.png  -- nenhuma carta parecida encontrada
+Particle_01.png  -- nenhuma carta parecida encontrada
+PencilIcon_2.png  -- nenhuma carta parecida encontrada
+Percival Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Percival Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Percival Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Percival Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Percival Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Percival Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Percival Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Percival Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Percival Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Percival Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Percival Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Percival Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+PerlinMap_1.png  -- nenhuma carta parecida encontrada
+PerlinMap_2.png  -- nenhuma carta parecida encontrada
+PerlinMap_4.png  -- nenhuma carta parecida encontrada
+PerlinNoise.png  -- nenhuma carta parecida encontrada
+PerlinNoiseAlpha.png  -- nenhuma carta parecida encontrada
+PerlinNoiseGray2.png  -- nenhuma carta parecida encontrada
+PerlinNoise_10.png  -- nenhuma carta parecida encontrada
+PerlinNoise_5.png  -- nenhuma carta parecida encontrada
+PerlinNoise_9.png  -- nenhuma carta parecida encontrada
+Piercian Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Piercian Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Piercian Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Piercian Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Piercian Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Piercian Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Piercian Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Piercian Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Piercian Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Piercian Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Piercian Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Piercian Texture 1 - Subterra(1).png  -- nenhuma carta parecida encontrada
+Pipes_A_AlbedoTransparency.png  -- nenhuma carta parecida encontrada
+Pipes_A_MetallicSmoothness.png  -- nenhuma carta parecida encontrada
+Pipes_A_Normal.png  -- nenhuma carta parecida encontrada
+Pipes_A_Occlusion.png  -- nenhuma carta parecida encontrada
+Plant_A_AlbedoTransparency.png  -- nenhuma carta parecida encontrada
+Plant_A_MetallicSmoothness.png  -- nenhuma carta parecida encontrada
+Plant_A_Normal.png  -- nenhuma carta parecida encontrada
+Plastic_Trim_A_AlbedoTransparency.png  -- nenhuma carta parecida encontrada
+Plastic_Trim_A_MetallicSmoothness.png  -- nenhuma carta parecida encontrada
+Plastic_Trim_A_Normal.png  -- nenhuma carta parecida encontrada
+Plastic_Trim_A_Occlusion.png  -- nenhuma carta parecida encontrada
+Plus #4160.png  -- nenhuma carta parecida encontrada
+Plus.png  -- nenhuma carta parecida encontrada
+Point1.png  -- nenhuma carta parecida encontrada
+Point11.png  -- nenhuma carta parecida encontrada
+Point12.png  -- nenhuma carta parecida encontrada
+Point19.png  -- nenhuma carta parecida encontrada
+Point5.png  -- nenhuma carta parecida encontrada
+Popup001_Blue.png  -- sugestões: Blue Shield (0.50) | Blue Stealth (0.50) | Blue Sky (0.50)
+Popup001_Blue_Opaque.png  -- sugestões: Blue Shield (0.40) | Blue Stealth (0.40) | Blue Sky (0.40)
+Popup001_Cyan.png  -- nenhuma carta parecida encontrada
+Popup002_Blue_Opaque.png  -- sugestões: Blue Shield (0.40) | Blue Stealth (0.40) | Blue Sky (0.40)
+Popup002_Cyan_Opaque.png  -- nenhuma carta parecida encontrada
+Popup003_Blue_Opaque.png  -- sugestões: Blue Shield (0.40) | Blue Stealth (0.40) | Blue Sky (0.40)
+Popup004_White_1.png  -- nenhuma carta parecida encontrada
+Popup004_White_2.png  -- nenhuma carta parecida encontrada
+Popup005_Blue.png  -- sugestões: Blue Shield (0.50) | Blue Stealth (0.50) | Blue Sky (0.50)
+Popup005_White_1.png  -- nenhuma carta parecida encontrada
+Popup005_White_2.png  -- nenhuma carta parecida encontrada
+Popup007_White_01.png  -- nenhuma carta parecida encontrada
+Popup007_White_02.png  -- nenhuma carta parecida encontrada
+Popup008_Cyan_Opaque.png  -- nenhuma carta parecida encontrada
+Popup009_Cyan_Opaque.png  -- nenhuma carta parecida encontrada
+portal_glow.png  -- sugestões: Ancient Glow (0.50) | Saurus Glow (0.50)
+Premo Vulcan Art - Aquos.png  -- sugestões: Aquos Cyclone (0.40)
+Premo Vulcan Art - Darkus.png  -- sugestões: Darkus Scythe (0.40) | Darkus Driver (0.40) | Darkus Gravity (0.40)
+Premo Vulcan Art - Haos.png  -- sugestões: Haos Freeze (0.40) | Haos Surge (0.40) | Rapid Haos (0.40)
+Premo Vulcan Art - Pyrus.png  -- sugestões: Pyrus Durance (0.40) | Pyrus Burst (0.40)
+Premo Vulcan Art - Subterra.png  -- sugestões: Subterra Reaction (0.40)
+Premo Vulcan Art - Ventus.png  -- nenhuma carta parecida encontrada
+Premo Vulcan Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Premo Vulcan Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Premo Vulcan Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Premo Vulcan Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Premo Vulcan Ball Texture - Subterra(1).png  -- nenhuma carta parecida encontrada
+Premo Vulcan Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Premo Vulcan Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Premo Vulcan Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Premo Vulcan Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Premo Vulcan Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Premo Vulcan Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Premo Vulcan Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Premo Vulcan Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Premo Vulcan Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Premo Vulcan Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Premo Vulcan Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Premo Vulcan Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Premo Vulcan Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Premo Vulcan Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Preyas Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Preyas Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Preyas Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Preyas Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Preyas Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Preyas Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Preyas Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Preyas Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Preyas Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Preyas Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Preyas Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Preyas Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Preyas Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Preyas Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Preyas Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Preyas Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Preyas Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Preyas Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Preyas Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Preyas Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Preyas Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Preyas Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Preyas Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Preyas Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Preyas Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+Preyas.png  -- nenhuma carta parecida encontrada
+Priestskill_31.png  -- nenhuma carta parecida encontrada
+Proton Mars Card Art.png  -- nenhuma carta parecida encontrada
+Proton Rain Card Art.png  -- nenhuma carta parecida encontrada
+Pyrus Shrink Texture.png  -- sugestões: Pyrus Durance (0.40) | Pyrus Burst (0.40)
+Pyrus Symbol 2.png  -- sugestões: Pyrus Durance (0.40) | Pyrus Burst (0.40)
+Pyrus Symbol 4.png  -- sugestões: Pyrus Durance (0.40) | Pyrus Burst (0.40)
+PyrusCard_Anime-transformed.png  -- nenhuma carta parecida encontrada
+Quad1.png  -- nenhuma carta parecida encontrada
+Quad3.png  -- nenhuma carta parecida encontrada
+Radial Filled 256px.png  -- nenhuma carta parecida encontrada
+RainbowVertical.png  -- nenhuma carta parecida encontrada
+Ranking Sharp.png  -- nenhuma carta parecida encontrada
+Ravenoid Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Ravenoid Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Ravenoid Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Ravenoid Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Ravenoid Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Ravenoid Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Ravenoid Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Ravenoid Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Ravenoid Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Ravenoid Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Ravenoid Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Ravenoid Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Ravenoid Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Ravenoid Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Ravenoid Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Ravenoid Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Ravenoid Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Ravenoid Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Ravenoid Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Ravenoid Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Ravenoid Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Ravenoid Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Ravenoid Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Ravenoid Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Ravenoid Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+Ravenoid.png  -- nenhuma carta parecida encontrada
+Rays11.png  -- nenhuma carta parecida encontrada
+Rays3.png  -- nenhuma carta parecida encontrada
+Rays3b.png  -- nenhuma carta parecida encontrada
+Reaper Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Reaper Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Reaper Ball Texture - Haos 1.png  -- nenhuma carta parecida encontrada
+Reaper Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Reaper Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Reaper Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Reaper Sphere Eye Emission Map.png  -- nenhuma carta parecida encontrada
+Reaper Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Reaper Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Reaper Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Reaper Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Reaper Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Reaper Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Reaper Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Reaper Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Reaper Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Reaper Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Reaper Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Reaper Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Reaper Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Reaper Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Reaper Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Reaper Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Reaper Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Reaper Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+Reaper Wolfs Icon.png  -- nenhuma carta parecida encontrada
+Reaper.png  -- nenhuma carta parecida encontrada
+Rikimaru Head Icon.png  -- sugestões: Apollon Head (0.40)
+Ring_2 #2948.png  -- sugestões: Ring Of Flames (0.40)
+Ring_2.png  -- sugestões: Ring Of Flames (0.50)
+Ring_3.png  -- sugestões: Ring Of Flames (0.50)
+ring_shockwave.png  -- sugestões: Ring Of Flames (0.50)
+ROBE.png  -- nenhuma carta parecida encontrada
+Robotallion Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Robotallion Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Robotallion Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Robotallion Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Robotallion Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Robotallion Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Robotallion Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Robotallion Texture - Aquos.png  -- sugestões: Robotallion Enforcement (0.40) | Aquos Cyclone (0.40)
+Robotallion Texture - Darkus.png  -- sugestões: Darkus Scythe (0.40) | Darkus Driver (0.40) | Robotallion Enforcement (0.40)
+Robotallion Texture - Haos.png  -- sugestões: Robotallion Enforcement (0.40) | Haos Freeze (0.40) | Haos Surge (0.40)
+Robotallion Texture - Pyrus.png  -- sugestões: Pyrus Durance (0.40) | Robotallion Enforcement (0.40) | Pyrus Burst (0.40)
+Robotallion Texture - Subterra.png  -- sugestões: Subterra Reaction (0.40) | Robotallion Enforcement (0.40)
+Robotallion Texture - Ventus.png  -- sugestões: Robotallion Enforcement (0.40)
+Robotallion.png  -- sugestões: Robotallion Enforcement (0.67)
+Roboto-Bold SDF Atlas.png  -- nenhuma carta parecida encontrada
+Roboto-Regular SDF Atlas.png  -- nenhuma carta parecida encontrada
+Rock2_Albedo.png  -- nenhuma carta parecida encontrada
+Rock2_Height.png  -- nenhuma carta parecida encontrada
+Rock2_MS.png  -- nenhuma carta parecida encontrada
+Rock2_Normal.png  -- nenhuma carta parecida encontrada
+RockNormal2.png  -- nenhuma carta parecida encontrada
+rock_diff_cutout.png  -- sugestões: Molten Rock (0.40)
+Rose Renegades Icon.png  -- nenhuma carta parecida encontrada
+RoughWaves.png  -- nenhuma carta parecida encontrada
+Rounded - 200ppu.png  -- nenhuma carta parecida encontrada
+Rounded Filled 256px.png  -- nenhuma carta parecida encontrada
+RUHE52_03622f6e_8.png  -- nenhuma carta parecida encontrada
+RUHE52_0403cdbb_14.png  -- nenhuma carta parecida encontrada
+RUHE52_07fc63d5_8.png  -- nenhuma carta parecida encontrada
+RUHE52_0a1b26ae_8.png  -- nenhuma carta parecida encontrada
+RUHE52_239d24ed_8.png  -- nenhuma carta parecida encontrada
+RUHE52_2b09fce0_8.png  -- nenhuma carta parecida encontrada
+RUHE52_33da8b4f_14.png  -- nenhuma carta parecida encontrada
+RUHE52_36bcda98_8.png  -- nenhuma carta parecida encontrada
+RUHE52_3784cab5_8(1).png  -- nenhuma carta parecida encontrada
+RUHE52_3784cab5_8.png  -- nenhuma carta parecida encontrada
+RUHE52_41701fde_8.png  -- nenhuma carta parecida encontrada
+RUHE52_49040e90_14(1).png  -- nenhuma carta parecida encontrada
+RUHE52_49040e90_14(3).png  -- nenhuma carta parecida encontrada
+RUHE52_49040e90_14.png  -- nenhuma carta parecida encontrada
+RUHE52_4a902849_8.png  -- nenhuma carta parecida encontrada
+RUHE52_4e65e177_8 1.png  -- nenhuma carta parecida encontrada
+RUHE52_4e65e177_8.png  -- nenhuma carta parecida encontrada
+RUHE52_4eb19239_8.png  -- nenhuma carta parecida encontrada
+RUHE52_5665473a_8.png  -- nenhuma carta parecida encontrada
+RUHE52_5c0d320b_8.png  -- nenhuma carta parecida encontrada
+RUHE52_5ce83e8f_14 1.png  -- nenhuma carta parecida encontrada
+RUHE52_5ce83e8f_14(1).png  -- nenhuma carta parecida encontrada
+RUHE52_5ce83e8f_14.png  -- nenhuma carta parecida encontrada
+RUHE52_623de3f8_14(1).png  -- nenhuma carta parecida encontrada
+RUHE52_623de3f8_14(2).png  -- nenhuma carta parecida encontrada
+RUHE52_623de3f8_14.png  -- nenhuma carta parecida encontrada
+RUHE52_6d310291_8.png  -- nenhuma carta parecida encontrada
+RUHE52_70ddf5ee_14_upscaled.png  -- nenhuma carta parecida encontrada
+RUHE52_736b8e20_8.png  -- nenhuma carta parecida encontrada
+RUHE52_73ef8b3e_8.png  -- nenhuma carta parecida encontrada
+RUHE52_79755e12_8.png  -- nenhuma carta parecida encontrada
+RUHE52_8be17cc3_8.png  -- nenhuma carta parecida encontrada
+RUHE52_8d67b0f7_8.png  -- nenhuma carta parecida encontrada
+RUHE52_8f7c6d8e_14.png  -- nenhuma carta parecida encontrada
+RUHE52_914b77f7_8 1.png  -- nenhuma carta parecida encontrada
+RUHE52_914b77f7_8.png  -- nenhuma carta parecida encontrada
+RUHE52_921172e0_8 1.png  -- nenhuma carta parecida encontrada
+RUHE52_921172e0_8(1).png  -- nenhuma carta parecida encontrada
+RUHE52_921172e0_8.png  -- nenhuma carta parecida encontrada
+RUHE52_926afe02_14.png  -- nenhuma carta parecida encontrada
+RUHE52_95a636b5_8.png  -- nenhuma carta parecida encontrada
+RUHE52_976bd013_8.png  -- nenhuma carta parecida encontrada
+RUHE52_985bbe13_8(1)(3).png  -- nenhuma carta parecida encontrada
+RUHE52_985bbe13_8(2).png  -- nenhuma carta parecida encontrada
+RUHE52_985bbe13_8.png  -- nenhuma carta parecida encontrada
+RUHE52_9da0b46c_8.png  -- nenhuma carta parecida encontrada
+RUHE52_aa616fa5_8.png  -- nenhuma carta parecida encontrada
+RUHE52_b80894bb_14.png  -- nenhuma carta parecida encontrada
+RUHE52_b91e3ebf_8 1.png  -- nenhuma carta parecida encontrada
+RUHE52_b91e3ebf_8(4).png  -- nenhuma carta parecida encontrada
+RUHE52_b91e3ebf_8.png  -- nenhuma carta parecida encontrada
+RUHE52_bbbb22d2_8.png  -- nenhuma carta parecida encontrada
+RUHE52_c02a6a90_8.png  -- nenhuma carta parecida encontrada
+RUHE52_c057f4c5_8.png  -- nenhuma carta parecida encontrada
+RUHE52_c2d0bc4a_8.png  -- nenhuma carta parecida encontrada
+RUHE52_c337647c_8.png  -- nenhuma carta parecida encontrada
+RUHE52_c7b34af3_14.png  -- nenhuma carta parecida encontrada
+RUHE52_cfac3f22_8.png  -- nenhuma carta parecida encontrada
+RUHE52_d108f9fa_8.png  -- nenhuma carta parecida encontrada
+RUHE52_d1353cba_14.png  -- nenhuma carta parecida encontrada
+RUHE52_d566cac1_8.png  -- nenhuma carta parecida encontrada
+RUHE52_d5b51eb9_8.png  -- nenhuma carta parecida encontrada
+RUHE52_e4aba8bd_8.png  -- nenhuma carta parecida encontrada
+RUHE52_e4aba8bd_8b.png  -- nenhuma carta parecida encontrada
+RUHE52_e89689ab_8.png  -- nenhuma carta parecida encontrada
+RUHE52_f0894b86_8.png  -- nenhuma carta parecida encontrada
+RUHE52_f73f889d_8 1.png  -- nenhuma carta parecida encontrada
+RUHE52_f73f889d_8.png  -- nenhuma carta parecida encontrada
+RUHE52_f923ce5c_8 #3701.png  -- nenhuma carta parecida encontrada
+RUHE52_f923ce5c_8 #4314.png  -- nenhuma carta parecida encontrada
+RUHE52_f923ce5c_8(11).png  -- nenhuma carta parecida encontrada
+RUHE52_f923ce5c_8.png  -- nenhuma carta parecida encontrada
+RUHE52_f9f5e58b_8.png  -- nenhuma carta parecida encontrada
+RUHE52_fb17cb18_8.png  -- nenhuma carta parecida encontrada
+RUHE52_fe6fba1a_8.png  -- nenhuma carta parecida encontrada
+RUHE52_feb9f02d_8 1.png  -- nenhuma carta parecida encontrada
+RUHE52_feb9f02d_8.png  -- nenhuma carta parecida encontrada
+Runic Guard Icon.png  -- nenhuma carta parecida encontrada
+Runo Boots.png  -- nenhuma carta parecida encontrada
+Runo Hair.png  -- nenhuma carta parecida encontrada
+Runo Head Icon.png  -- sugestões: Apollon Head (0.40)
+Runo Shirt(1).png  -- nenhuma carta parecida encontrada
+Runo Skirt.png  -- nenhuma carta parecida encontrada
+Satellite Boost Card Art.png  -- sugestões: Reflection Boost (0.50)
+Satellite Impact Card Art.png  -- sugestões: Mega Impact (0.50) | Screw Impact (0.50) | Hyper Impact (0.50)
+Saurus Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Saurus Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Saurus Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Saurus Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Saurus Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Saurus Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Saurus Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Saurus Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Saurus Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Saurus Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Saurus Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Saurus Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Saurus Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Saurus Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Saurus Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Saurus Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Saurus Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Saurus Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Saurus Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Saurus Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Saurus Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Saurus Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Saurus Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Saurus Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Saurus Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+Saurus.png  -- sugestões: Saurus Glow (0.67)
+Scales #3568.png  -- nenhuma carta parecida encontrada
+Scales.png  -- nenhuma carta parecida encontrada
+Sci-Fi Box 2 Frame.png  -- nenhuma carta parecida encontrada
+Sci-Fi Box 2.png  -- nenhuma carta parecida encontrada
+Sci-Fi Frame.png  -- sugestões: Frame Fire (0.40)
+SciFi_Circle02Blue_02.png  -- nenhuma carta parecida encontrada
+SciFi_MouseCursor_b3.png  -- nenhuma carta parecida encontrada
+Scorpion Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Scorpion Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Scorpion Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Scorpion Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Scorpion Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Scorpion Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Scorpion Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Scorpion Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Scorpion Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Scorpion Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Scorpion Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Scorpion Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Scorpion Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+SCPE_Clouds_01.png  -- nenhuma carta parecida encontrada
+Scratch Lines 1.png  -- sugestões: Shadow Scratch (0.40)
+SearchTex.png  -- nenhuma carta parecida encontrada
+Semi Rounded - Outline - 12px - 600ppu.png  -- nenhuma carta parecida encontrada
+Semicircle6.png  -- nenhuma carta parecida encontrada
+Semicircle7.png  -- nenhuma carta parecida encontrada
+Serpenoid Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Serpenoid Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Serpenoid Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Serpenoid Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Serpenoid Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Serpenoid Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Serpenoid Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Serpenoid Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Serpenoid Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Serpenoid Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Serpenoid Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Serpenoid Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Serpenoid Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Serpenoid Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Serpenoid Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Serpenoid Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Serpenoid Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Serpenoid Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Serpenoid Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Serpenoid Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Serpenoid Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Serpenoid Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Serpenoid Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Serpenoid Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Serpenoid Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+Serpenoid.png  -- nenhuma carta parecida encontrada
+Settings - Center Circle.png  -- nenhuma carta parecida encontrada
+Settings - Point.png  -- nenhuma carta parecida encontrada
+shadowtrail.png  -- nenhuma carta parecida encontrada
+shadow_cloud.png  -- sugestões: Shadow Split (0.50) | Shadow Echo (0.50) | Misty Shadow (0.50)
+shadow_mothball.png  -- sugestões: Shadow Split (0.50) | Shadow Echo (0.50) | Misty Shadow (0.50)
+shadow_orb.png  -- sugestões: Shadow Split (0.50) | Shadow Echo (0.50) | Misty Shadow (0.50)
+shield02.png  -- nenhuma carta parecida encontrada
+shield_rock.png  -- sugestões: Mega Shield (0.50) | Merge Shield (0.50) | Blue Shield (0.50)
+ShockWave_3.png  -- nenhuma carta parecida encontrada
+shoes #3677.png  -- nenhuma carta parecida encontrada
+SHOES.png  -- nenhuma carta parecida encontrada
+Shower Harpoon Card Art.png  -- nenhuma carta parecida encontrada
+Shuji Head Icon.png  -- sugestões: Apollon Head (0.40)
+Shun Head Icon.png  -- sugestões: Apollon Head (0.40)
+Siding_B_AlbedoTransparency.png  -- nenhuma carta parecida encontrada
+Siding_B_MetallicSmoothness.png  -- nenhuma carta parecida encontrada
+Siding_B_Normal.png  -- nenhuma carta parecida encontrada
+Siding_B_Occlusion.png  -- nenhuma carta parecida encontrada
+Siege Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Siege Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Siege Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Siege Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Siege Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Siege Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Siege Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Siege Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Siege Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Siege Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Siege Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Siege Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Siege Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Siege Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Siege Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Siege Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Siege Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Siege Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Siege Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Siege Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Siege Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Siege Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Siege Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Siege Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Siege Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+Siege Texture 4 - Aquos.png  -- nenhuma carta parecida encontrada
+Siege Texture 4 - Darkus.png  -- nenhuma carta parecida encontrada
+Siege Texture 4 - Haos.png  -- nenhuma carta parecida encontrada
+Siege Texture 4 - Pyrus.png  -- nenhuma carta parecida encontrada
+Siege Texture 4 - Subterra.png  -- nenhuma carta parecida encontrada
+Siege Texture 4 - Ventus.png  -- nenhuma carta parecida encontrada
+Siege.png  -- nenhuma carta parecida encontrada
+SilkyWebbedNoise.png  -- nenhuma carta parecida encontrada
+Silly Kitties Icon.png  -- nenhuma carta parecida encontrada
+Single Player.png  -- nenhuma carta parecida encontrada
+SinglePlayer.png  -- nenhuma carta parecida encontrada
+SinglePlayerIcon.png  -- nenhuma carta parecida encontrada
+Sirenoid Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Sirenoid Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Sirenoid Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Sirenoid Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Sirenoid Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Sirenoid Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Sirenoid Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Sirenoid Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Sirenoid Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Sirenoid Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Sirenoid Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Sirenoid Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Sirenoid Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Sirenoid Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Sirenoid Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Sirenoid Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Sirenoid Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Sirenoid Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Sirenoid Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Sirenoid Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Sirenoid Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Sirenoid Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Sirenoid Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Sirenoid Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+Sirenoid.png  -- nenhuma carta parecida encontrada
+Sketch_Strokes_RG.png  -- nenhuma carta parecida encontrada
+skill_121_noBG.png  -- nenhuma carta parecida encontrada
+skill_138_noBG.png  -- nenhuma carta parecida encontrada
+skill_185_noBG.png  -- nenhuma carta parecida encontrada
+skill_197_noBG.png  -- nenhuma carta parecida encontrada
+skill_206_noBG.png  -- nenhuma carta parecida encontrada
+skill_212_noBG.png  -- nenhuma carta parecida encontrada
+skill_214_noBG.png  -- nenhuma carta parecida encontrada
+Skill_231_noBG(1).png  -- nenhuma carta parecida encontrada
+skill_275_noBG.png  -- nenhuma carta parecida encontrada
+skill_285_noBG.png  -- nenhuma carta parecida encontrada
+skill_30.png  -- nenhuma carta parecida encontrada
+skill_358_noBG.png  -- nenhuma carta parecida encontrada
+skill_384_noBG.png  -- nenhuma carta parecida encontrada
+skill_393_noBG.png  -- nenhuma carta parecida encontrada
+skill_406_noBG.png  -- nenhuma carta parecida encontrada
+skill_44.png  -- nenhuma carta parecida encontrada
+skill_56.png  -- nenhuma carta parecida encontrada
+skill_61.png  -- nenhuma carta parecida encontrada
+skill_72.png  -- nenhuma carta parecida encontrada
+skill_79.png  -- nenhuma carta parecida encontrada
+skill_80.png  -- nenhuma carta parecida encontrada
+Skyress anime version.png  -- nenhuma carta parecida encontrada
+Skyress Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Skyress Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Skyress Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Skyress Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Skyress Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Skyress Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Skyress Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Skyress Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Skyress Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Skyress Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Skyress Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Skyress Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Skyress Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Skyress Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Skyress Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Skyress Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Skyress Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Skyress Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Skyress Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Skyress Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Skyress Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Skyress Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Skyress Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Skyress Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Skyress Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+Sky_Space_Nebula_OrangeBlue_Cam_0_Front+Z.png  -- nenhuma carta parecida encontrada
+Slash_01_ClawSlashfx.png  -- sugestões: Slash Zero (0.40)
+Slash_03_ClawSlashfx.png  -- sugestões: Slash Zero (0.40)
+Slash_04_ClawSlashfx.png  -- sugestões: Slash Zero (0.40)
+Slash_05_ClawSlashfx.png  -- sugestões: Slash Zero (0.40)
+Slash_06_ClawSlashfx.png  -- sugestões: Slash Zero (0.40)
+Slash_08_Ab_ClawSlashfx.png  -- nenhuma carta parecida encontrada
+Slash_3.png  -- sugestões: Slash Zero (0.50)
+Slash_4.png  -- sugestões: Slash Zero (0.50)
+slash_circle02.png  -- sugestões: Slash Zero (0.50)
+slider thumb active.png  -- nenhuma carta parecida encontrada
+slider thumb.png  -- nenhuma carta parecida encontrada
+slidert humb hover.png  -- nenhuma carta parecida encontrada
+smallglow01.png  -- nenhuma carta parecida encontrada
+Smoke.png  -- nenhuma carta parecida encontrada
+Smoke12.png  -- nenhuma carta parecida encontrada
+Smoke17.png  -- nenhuma carta parecida encontrada
+Smoke18n.png  -- nenhuma carta parecida encontrada
+smoke1Norm.png  -- nenhuma carta parecida encontrada
+Smoke2.png  -- nenhuma carta parecida encontrada
+Smoke21.png  -- nenhuma carta parecida encontrada
+Smoke24.png  -- nenhuma carta parecida encontrada
+Smoke27.png  -- nenhuma carta parecida encontrada
+Smoke3(8x8).png  -- nenhuma carta parecida encontrada
+Smoke3.png  -- nenhuma carta parecida encontrada
+Smoke3Light.png  -- nenhuma carta parecida encontrada
+Smoke5.png  -- nenhuma carta parecida encontrada
+SmokeAnim1.png  -- nenhuma carta parecida encontrada
+SmokeHarsh.png  -- nenhuma carta parecida encontrada
+SmokeHarsh_BlackSpots.png  -- nenhuma carta parecida encontrada
+SmokePuff_Twirly.png  -- nenhuma carta parecida encontrada
+SmokeTile2 #3621.png  -- nenhuma carta parecida encontrada
+SmokeTile2.png  -- nenhuma carta parecida encontrada
+SmokeTile3 #2682.png  -- nenhuma carta parecida encontrada
+SmokeTile3.png  -- nenhuma carta parecida encontrada
+SmokeTile4 #3406.png  -- nenhuma carta parecida encontrada
+SmokeTile4.png  -- nenhuma carta parecida encontrada
+SmokeTile5 #3119.png  -- nenhuma carta parecida encontrada
+SmokeTile5.png  -- nenhuma carta parecida encontrada
+Smoke_1.png  -- nenhuma carta parecida encontrada
+Smoke_3.png  -- nenhuma carta parecida encontrada
+Smoke_4.png  -- nenhuma carta parecida encontrada
+Smoke_DissipateFlipbook.png  -- nenhuma carta parecida encontrada
+SmoothWaves.png  -- nenhuma carta parecida encontrada
+Snoke5.png  -- nenhuma carta parecida encontrada
+Snoke5_upscaled.png  -- nenhuma carta parecida encontrada
+Snow4.png  -- nenhuma carta parecida encontrada
+SOCKS.png  -- nenhuma carta parecida encontrada
+Soft.png  -- nenhuma carta parecida encontrada
+Soliton Defender Card Art.png  -- nenhuma carta parecida encontrada
+sotGroundTile02_Normal.png  -- nenhuma carta parecida encontrada
+spark.png  -- sugestões: Spark Roa (0.67) | Spark Out (0.67)
+sparkle3.png  -- nenhuma carta parecida encontrada
+SparkTrail2.png  -- nenhuma carta parecida encontrada
+SparkTrail2Motion.png  -- nenhuma carta parecida encontrada
+SparkTrail3.png  -- nenhuma carta parecida encontrada
+SparkTrail3Motion.png  -- nenhuma carta parecida encontrada
+Spark_1.png  -- sugestões: Spark Roa (0.50) | Spark Out (0.50)
+Speckle_Cluster.png  -- nenhuma carta parecida encontrada
+Spectra Phantom Icon.png  -- nenhuma carta parecida encontrada
+Sphere Base Color.png  -- nenhuma carta parecida encontrada
+Square.png  -- nenhuma carta parecida encontrada
+SquareMap01.png  -- nenhuma carta parecida encontrada
+SS2.png  -- nenhuma carta parecida encontrada
+SSU_Noise_1K.png  -- nenhuma carta parecida encontrada
+stand_lambert1_Metalness.png  -- nenhuma carta parecida encontrada
+stand_lambert1_Roughness.png  -- nenhuma carta parecida encontrada
+star #3324.png  -- nenhuma carta parecida encontrada
+Star.png  -- nenhuma carta parecida encontrada
+Star2.png  -- nenhuma carta parecida encontrada
+Star3.png  -- nenhuma carta parecida encontrada
+StarIcon.png  -- nenhuma carta parecida encontrada
+star_soft_4x4.png  -- nenhuma carta parecida encontrada
+Stone1.png  -- nenhuma carta parecida encontrada
+Stone1_Albedo.png  -- nenhuma carta parecida encontrada
+Stone1_Height.png  -- nenhuma carta parecida encontrada
+Stone1_MS.png  -- nenhuma carta parecida encontrada
+Stone1_Normal.png  -- nenhuma carta parecida encontrada
+Stone3.png  -- nenhuma carta parecida encontrada
+storm_cloud.png  -- sugestões: Feather Storm (0.50) | Storm Breaker (0.50)
+storm_sharpswirl.png  -- sugestões: Feather Storm (0.50) | Storm Breaker (0.50)
+Straight - 100ppu.png  -- nenhuma carta parecida encontrada
+Straight - 200ppu.png  -- nenhuma carta parecida encontrada
+Straight - 400ppu.png  -- nenhuma carta parecida encontrada
+Straight - 500ppu.png  -- nenhuma carta parecida encontrada
+Straight - Stroke 2px - 200ppu.png  -- nenhuma carta parecida encontrada
+Straight - Stroke 3px - 400ppu.png  -- nenhuma carta parecida encontrada
+Straight - Stroke 4px - 500ppu.png  -- nenhuma carta parecida encontrada
+Sub Dimension Card Art.png  -- sugestões: Aurora Dimension (0.50) | Dimension Four (0.50) | Double Dimension (0.50)
+Subterra Shrink Texture.png  -- sugestões: Subterra Reaction (0.40)
+Subterra Symbol 2.png  -- sugestões: Subterra Reaction (0.40)
+Subterra Symbol.png  -- sugestões: Subterra Reaction (0.50) | Correlation - Pyrus & Subterra (0.40) | Correlation - Subterra & Haos (0.40)
+SunShines.png  -- nenhuma carta parecida encontrada
+sw-color-1.png  -- nenhuma carta parecida encontrada
+SWS_Caustics2.png  -- nenhuma carta parecida encontrada
+SWS_Foam1.png  -- nenhuma carta parecida encontrada
+tape.png  -- nenhuma carta parecida encontrada
+TAPE1.png  -- nenhuma carta parecida encontrada
+Tatsuya Head Icon.png  -- sugestões: Apollon Head (0.40)
+Team Eclipse Icon.png  -- nenhuma carta parecida encontrada
+Team Faith Icon.png  -- nenhuma carta parecida encontrada
+Team Overkill Icon.png  -- nenhuma carta parecida encontrada
+Team Persona Icon.png  -- nenhuma carta parecida encontrada
+TeleportParticles #4067.png  -- nenhuma carta parecida encontrada
+TeleportParticles.png  -- nenhuma carta parecida encontrada
+TeleportParticles2.png  -- nenhuma carta parecida encontrada
+Tentaclear Art.png  -- nenhuma carta parecida encontrada
+Tentaclear Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Tentaclear Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Tentaclear Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Tentaclear Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Tentaclear Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Tentaclear Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Tentaclear Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Tentaclear Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Tentaclear Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Tentaclear Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Tentaclear Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Tentaclear Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Tentaclear Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Tentaclear Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Tentaclear Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Tentaclear Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Tentaclear Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Tentaclear Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Tentaclear Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Tentaclear Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Tentaclear Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+Tentaclear.png  -- nenhuma carta parecida encontrada
+Test SDF Atlas.png  -- nenhuma carta parecida encontrada
+tex1.png  -- nenhuma carta parecida encontrada
+tex1_256x256_3d74b3df01a5e124_14.png  -- nenhuma carta parecida encontrada
+tex1_512x512_9e022944817bd47f_14.png  -- nenhuma carta parecida encontrada
+tex2.png  -- nenhuma carta parecida encontrada
+tex3.png  -- nenhuma carta parecida encontrada
+tex4.png  -- nenhuma carta parecida encontrada
+Text 1 #2280.png  -- nenhuma carta parecida encontrada
+Text 1 #3021.png  -- nenhuma carta parecida encontrada
+Text 1 #3044.png  -- nenhuma carta parecida encontrada
+Text 1 #3495.png  -- nenhuma carta parecida encontrada
+Text 1 #3520.png  -- nenhuma carta parecida encontrada
+Text 1 #3918.png  -- nenhuma carta parecida encontrada
+Text 1 #4000.png  -- nenhuma carta parecida encontrada
+Text 1 #4163.png  -- nenhuma carta parecida encontrada
+Text 1 - Edit.png  -- nenhuma carta parecida encontrada
+Text 1.png  -- nenhuma carta parecida encontrada
+Text 10.png  -- nenhuma carta parecida encontrada
+Text 2 #2490.png  -- nenhuma carta parecida encontrada
+Text 2 #2660.png  -- nenhuma carta parecida encontrada
+Text 2 #2934.png  -- nenhuma carta parecida encontrada
+Text 2 #2985.png  -- nenhuma carta parecida encontrada
+Text 2 #3087.png  -- nenhuma carta parecida encontrada
+Text 2 #3310.png  -- nenhuma carta parecida encontrada
+Text 2 #3750.png  -- nenhuma carta parecida encontrada
+Text 2 #3754.png  -- nenhuma carta parecida encontrada
+Text 2 #3819.png  -- nenhuma carta parecida encontrada
+Text 2.png  -- nenhuma carta parecida encontrada
+Text 3 #2011.png  -- nenhuma carta parecida encontrada
+Text 3 #2263.png  -- nenhuma carta parecida encontrada
+Text 3 #2493.png  -- nenhuma carta parecida encontrada
+Text 3 #3341.png  -- nenhuma carta parecida encontrada
+Text 3 #3514.png  -- nenhuma carta parecida encontrada
+Text 3 #3618.png  -- nenhuma carta parecida encontrada
+Text 3 #4096.png  -- nenhuma carta parecida encontrada
+Text 3 #4154.png  -- nenhuma carta parecida encontrada
+Text 3 #4343.png  -- nenhuma carta parecida encontrada
+Text 3.png  -- nenhuma carta parecida encontrada
+Text 4 #2749.png  -- nenhuma carta parecida encontrada
+Text 4 #3507.png  -- nenhuma carta parecida encontrada
+Text 4 #4477.png  -- nenhuma carta parecida encontrada
+Text 4 #4490.png  -- nenhuma carta parecida encontrada
+Text 4.png  -- nenhuma carta parecida encontrada
+Text 5 #2916.png  -- nenhuma carta parecida encontrada
+Text 5 #3458.png  -- nenhuma carta parecida encontrada
+Text 5 #3902.png  -- nenhuma carta parecida encontrada
+Text 5 #3913.png  -- nenhuma carta parecida encontrada
+Text 5.png  -- nenhuma carta parecida encontrada
+Text 6 #2003.png  -- nenhuma carta parecida encontrada
+Text 6 #2171.png  -- nenhuma carta parecida encontrada
+Text 6 #2351.png  -- nenhuma carta parecida encontrada
+Text 6 #2425.png  -- nenhuma carta parecida encontrada
+Text 6.png  -- nenhuma carta parecida encontrada
+Text 7 #2688.png  -- nenhuma carta parecida encontrada
+Text 7 #3663.png  -- nenhuma carta parecida encontrada
+Text 7 #3844.png  -- nenhuma carta parecida encontrada
+Text 7 #3859.png  -- nenhuma carta parecida encontrada
+Text 7.png  -- nenhuma carta parecida encontrada
+Text 8 #2328.png  -- nenhuma carta parecida encontrada
+Text 8 #2693.png  -- nenhuma carta parecida encontrada
+Text 8 #3262.png  -- nenhuma carta parecida encontrada
+Text 8.png  -- nenhuma carta parecida encontrada
+Text 9 #2683.png  -- nenhuma carta parecida encontrada
+Text 9 #4134.png  -- nenhuma carta parecida encontrada
+Text 9.png  -- nenhuma carta parecida encontrada
+textfield hover.png  -- nenhuma carta parecida encontrada
+textfield on.png  -- nenhuma carta parecida encontrada
+textfield.png  -- nenhuma carta parecida encontrada
+Thin01.png  -- nenhuma carta parecida encontrada
+Thin02.png  -- nenhuma carta parecida encontrada
+Throw Icon.png  -- nenhuma carta parecida encontrada
+Thunder Power - Glimmering Slash Card Art.png  -- nenhuma carta parecida encontrada
+Thunder Strike Open.png  -- sugestões: Thunder booster (0.40) | Thunder Fire (0.40) | Strike Dragon (0.40)
+Thunder Wilda Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Thunder Wilda Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Thunder Wilda Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Thunder Wilda Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Thunder Wilda Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Thunder Wilda Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Thunder Wilda Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+TickClassicIcon.png  -- nenhuma carta parecida encontrada
+Tigrerra Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Tigrerra Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Tigrerra Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Tigrerra Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Tigrerra Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Tigrerra Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Tigrerra Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Tigrerra Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Tigrerra Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Tigrerra Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Tigrerra Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Tigrerra Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Tigrerra Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Tigrerra Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Tigrerra Texture 2 - Haos(1).png  -- nenhuma carta parecida encontrada
+Tigrerra Texture 2 - Haos(3).png  -- nenhuma carta parecida encontrada
+Tigrerra Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Tigrerra Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Tigrerra Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Tigrerra Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Tigrerra Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Tigrerra Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Tigrerra.png  -- nenhuma carta parecida encontrada
+TiledNormal1.png  -- nenhuma carta parecida encontrada
+TiledNormal2.png  -- nenhuma carta parecida encontrada
+Tip002Red.png  -- nenhuma carta parecida encontrada
+Tip002White_1.png  -- nenhuma carta parecida encontrada
+Tip002White_2.png  -- nenhuma carta parecida encontrada
+toggle active.png  -- nenhuma carta parecida encontrada
+toggle hover.png  -- nenhuma carta parecida encontrada
+toggle on active.png  -- nenhuma carta parecida encontrada
+toggle on hover.png  -- nenhuma carta parecida encontrada
+toggle on.png  -- nenhuma carta parecida encontrada
+toggle.png  -- nenhuma carta parecida encontrada
+Trail17.png  -- nenhuma carta parecida encontrada
+Trail21.png  -- nenhuma carta parecida encontrada
+Trail25.png  -- nenhuma carta parecida encontrada
+Trail29.png  -- nenhuma carta parecida encontrada
+Trail36.png  -- nenhuma carta parecida encontrada
+Trail42.png  -- nenhuma carta parecida encontrada
+Trail44.png  -- nenhuma carta parecida encontrada
+Trail48.png  -- nenhuma carta parecida encontrada
+Trail5.png  -- nenhuma carta parecida encontrada
+Trail54.png  -- nenhuma carta parecida encontrada
+Trail55.png  -- nenhuma carta parecida encontrada
+Trail55b.png  -- nenhuma carta parecida encontrada
+Trail58.png  -- nenhuma carta parecida encontrada
+Trail6.png  -- nenhuma carta parecida encontrada
+Trail63.png  -- nenhuma carta parecida encontrada
+Trail68.png  -- nenhuma carta parecida encontrada
+Trail71.png  -- nenhuma carta parecida encontrada
+Trail73.png  -- nenhuma carta parecida encontrada
+Trail74.png  -- nenhuma carta parecida encontrada
+Trail75.png  -- nenhuma carta parecida encontrada
+Trail76.png  -- nenhuma carta parecida encontrada
+TrailBall6.png  -- nenhuma carta parecida encontrada
+TrailBall9.png  -- nenhuma carta parecida encontrada
+TrailGradient21.png  -- nenhuma carta parecida encontrada
+TrailPart4.png  -- nenhuma carta parecida encontrada
+TrailPart9.png  -- nenhuma carta parecida encontrada
+Trail_MaskTapering.png  -- nenhuma carta parecida encontrada
+Trail_TaperedSoft.png  -- nenhuma carta parecida encontrada
+tranquility_nobg.png  -- nenhuma carta parecida encontrada
+Transporter Card Texture.png  -- nenhuma carta parecida encontrada
+Trash.png  -- nenhuma carta parecida encontrada
+Triangle.png  -- nenhuma carta parecida encontrada
+triangle_curve.png  -- nenhuma carta parecida encontrada
+Triple Node Dark Art.png  -- sugestões: Triple Node - Darkus, Ventus, & Subterra (0.50) | Triple Node - Pyrus, Aquos, & Haos (0.50)
+Triple Node Light Art.png  -- sugestões: Triple Node - Darkus, Ventus, & Subterra (0.50) | Triple Node - Pyrus, Aquos, & Haos (0.50) | Guiding Light (0.40)
+Tripod Epsilon Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Tripod Epsilon Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Tripod Epsilon Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Tripod Epsilon Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Tripod Epsilon Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Tripod Epsilon Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Tripod Epsilon Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Tripod Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Tripod Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Tripod Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Tripod Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Tripod Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Tripod Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Tripod Theta 1.png  -- nenhuma carta parecida encontrada
+Tripod Theta Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Tripod Theta Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Tripod Theta Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Tripod Theta Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Tripod Theta Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Tripod Theta Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Tripod Theta Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Tripod Theta Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Tripod Theta Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Tripod Theta Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Tripod Theta Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Tripod Theta Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Tripod Theta Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+tt_eyes #2739.png  -- sugestões: Eye For An Eye (0.40)
+tt_eyes.png  -- sugestões: Eye For An Eye (0.50) | Dark Eye Superior (0.40)
+tt_hair.png  -- nenhuma carta parecida encontrada
+tt_hair_02.png  -- nenhuma carta parecida encontrada
+tt_pant #2250.png  -- nenhuma carta parecida encontrada
+tt_pant.png  -- nenhuma carta parecida encontrada
+tt_shoes #3789.png  -- nenhuma carta parecida encontrada
+tt_shoes.png  -- nenhuma carta parecida encontrada
+tt_skin #3549.png  -- nenhuma carta parecida encontrada
+tt_skin.png  -- nenhuma carta parecida encontrada
+tt_suit_bow #3048.png  -- nenhuma carta parecida encontrada
+tt_suit_bow.png  -- nenhuma carta parecida encontrada
+Twilight Chaos Brawlers Icon.png  -- nenhuma carta parecida encontrada
+T_56_2_Terrain_Ground_normal.png  -- nenhuma carta parecida encontrada
+T_fx_ParticleSet_01.png  -- nenhuma carta parecida encontrada
+T_fx_ParticleSet_01_UV.png  -- nenhuma carta parecida encontrada
+T_fx_ParticleSet_Stretch_02.png  -- nenhuma carta parecida encontrada
+T_fx_ParticleSet_Stretch_02_UV.png  -- nenhuma carta parecida encontrada
+T_GradientSphere.png  -- nenhuma carta parecida encontrada
+UIMask.png  -- nenhuma carta parecida encontrada
+UISprite.png  -- nenhuma carta parecida encontrada
+Unicorn Gents Icon.png  -- nenhuma carta parecida encontrada
+UnitySplash-cube.png  -- nenhuma carta parecida encontrada
+UnitySplash-HolographicTrackingLoss.png  -- nenhuma carta parecida encontrada
+UnityWatermark-beta.png  -- nenhuma carta parecida encontrada
+UnityWatermark-dev.png  -- nenhuma carta parecida encontrada
+UnityWatermark-edu.png  -- nenhuma carta parecida encontrada
+UnityWatermark-proto.png  -- nenhuma carta parecida encontrada
+UnityWatermark-small.png  -- nenhuma carta parecida encontrada
+UnityWatermark-trial-big.png  -- nenhuma carta parecida encontrada
+UnityWatermark-trial.png  -- nenhuma carta parecida encontrada
+UnityWatermarkPlugin-beta.png  -- nenhuma carta parecida encontrada
+UniverseTile.png  -- nenhuma carta parecida encontrada
+Untitled-1_ClawSlashfx.png  -- nenhuma carta parecida encontrada
+User.png  -- nenhuma carta parecida encontrada
+vampire_nobg.png  -- nenhuma carta parecida encontrada
+vecteezy_rainbow-gradient-background-abstract-blur-texture_9496975.png  -- nenhuma carta parecida encontrada
+Vector Phalanx Card Art.png  -- nenhuma carta parecida encontrada
+Vents_A_AlbedoTransparency.png  -- nenhuma carta parecida encontrada
+Vents_A_MetallicSmoothness.png  -- nenhuma carta parecida encontrada
+Vents_A_Normal.png  -- nenhuma carta parecida encontrada
+Vents_A_Occlusion.png  -- nenhuma carta parecida encontrada
+Ventus Shrink Texture.png  -- nenhuma carta parecida encontrada
+Ventus Symbol 2.png  -- nenhuma carta parecida encontrada
+Ventus Symbol 3.png  -- nenhuma carta parecida encontrada
+Ventus.png  -- sugestões: Correlation - Aquos & Ventus (0.50) | Correlation - Ventus & Pyrus (0.50) | Diagonal Link - Ventus & Haos (0.40)
+vertical scrollbar thumb.png  -- nenhuma carta parecida encontrada
+vertical scrollbar.png  -- nenhuma carta parecida encontrada
+verticalglow01.png  -- nenhuma carta parecida encontrada
+verticalglow2.png  -- nenhuma carta parecida encontrada
+verticalglow3.png  -- nenhuma carta parecida encontrada
+verticalslider.png  -- nenhuma carta parecida encontrada
+Vexxed Vigilantes Icon.png  -- nenhuma carta parecida encontrada
+Vladitor Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Vladitor Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Vladitor Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Vladitor Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Vladitor Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Vladitor Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Vladitor Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Vladitor Character Card.png  -- nenhuma carta parecida encontrada
+Vladitor Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Vladitor Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Vladitor Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Vladitor Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Vladitor Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Vladitor Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+Vladitor Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Vladitor Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Vladitor Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Vladitor Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Vladitor Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Vladitor Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Vladitor Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Vladitor Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Vladitor Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Vladitor Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Vladitor Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Vladitor Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+VolumeIcon.png  -- nenhuma carta parecida encontrada
+Vol_19_3_Vegetation_Normal.png  -- nenhuma carta parecida encontrada
+voracity_nobg.png  -- nenhuma carta parecida encontrada
+wall_paint_white_4_4_Tex.png  -- nenhuma carta parecida encontrada
+Warius Ball Eye Emission Texture.png  -- nenhuma carta parecida encontrada
+Warius Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Warius Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Warius Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Warius Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Warius Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Warius Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Warius Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Warius Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Warius Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Warius Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Warius Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Warius Texture 1 - Ventus(1).png  -- nenhuma carta parecida encontrada
+Warius Texture 2 - Aquos.png  -- nenhuma carta parecida encontrada
+Warius Texture 2 - Darkus.png  -- nenhuma carta parecida encontrada
+Warius Texture 2 - Haos.png  -- nenhuma carta parecida encontrada
+Warius Texture 2 - Pyrus.png  -- nenhuma carta parecida encontrada
+Warius Texture 2 - Subterra.png  -- nenhuma carta parecida encontrada
+Warius Texture 2 - Ventus.png  -- nenhuma carta parecida encontrada
+Warius Texture 3 - Aquos.png  -- nenhuma carta parecida encontrada
+Warius Texture 3 - Darkus.png  -- nenhuma carta parecida encontrada
+Warius Texture 3 - Haos.png  -- nenhuma carta parecida encontrada
+Warius Texture 3 - Pyrus.png  -- nenhuma carta parecida encontrada
+Warius Texture 3 - Subterra.png  -- nenhuma carta parecida encontrada
+Warius Texture 3 - Ventus.png  -- nenhuma carta parecida encontrada
+Warius.png  -- nenhuma carta parecida encontrada
+WarningSign.png  -- nenhuma carta parecida encontrada
+Water13.png  -- nenhuma carta parecida encontrada
+Water2.png  -- nenhuma carta parecida encontrada
+WaterF2.png  -- nenhuma carta parecida encontrada
+WaterNorm2.png  -- nenhuma carta parecida encontrada
+WaterPoint1.png  -- nenhuma carta parecida encontrada
+water_bubble.png  -- sugestões: Water Refrain (0.50) | Water Slap (0.50)
+water_drop.png  -- sugestões: Water Refrain (0.50) | Water Slap (0.50)
+water_trsp_3x3.png  -- sugestões: Water Refrain (0.40) | Water Slap (0.40)
+Wave1.png  -- nenhuma carta parecida encontrada
+Waves21.png  -- nenhuma carta parecida encontrada
+Waves23.png  -- nenhuma carta parecida encontrada
+wii_lambert1_BaseColor.png  -- nenhuma carta parecida encontrada
+wii_lambert1_Metalness.png  -- nenhuma carta parecida encontrada
+wii_lambert1_Roughness.png  -- nenhuma carta parecida encontrada
+Wilda Card Art - Aquos.png  -- sugestões: Aquos Cyclone (0.50) | Correlation - Aquos & Ventus (0.40) | Correlation - Darkus & Aquos (0.40)
+Wilda Card Art - Darkus.png  -- sugestões: Darkus Scythe (0.50) | Darkus Driver (0.50) | Darkus Gravity (0.50)
+Wilda Card Art - Haos.png  -- sugestões: Haos Freeze (0.50) | Haos Surge (0.50) | Rapid Haos (0.50)
+Wilda Card Art - Pyrus.png  -- sugestões: Pyrus Durance (0.50) | Pyrus Burst (0.50) | Correlation - Pyrus & Subterra (0.40)
+Wilda Card Art - Subterra.png  -- sugestões: Subterra Reaction (0.50) | Correlation - Pyrus & Subterra (0.40) | Correlation - Subterra & Haos (0.40)
+Wilda Card Art - Ventus.png  -- sugestões: Correlation - Aquos & Ventus (0.40) | Correlation - Ventus & Pyrus (0.40)
+Wilda Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Wilda Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Wilda Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Wilda Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Wilda Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Wilda Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+window on.png  -- nenhuma carta parecida encontrada
+window.png  -- nenhuma carta parecida encontrada
+Window001_CyanTitleLight.png  -- nenhuma carta parecida encontrada
+Window001_CyanTitleLine1.png  -- nenhuma carta parecida encontrada
+Window001_CyanTitleLine2.png  -- nenhuma carta parecida encontrada
+Window001_Cyan_Opaque.png  -- nenhuma carta parecida encontrada
+Window002_CyanTitle.png  -- nenhuma carta parecida encontrada
+Window002_Cyan_Opaque.png  -- nenhuma carta parecida encontrada
+Window003_CyanTitle.png  -- nenhuma carta parecida encontrada
+Window003_Cyan_Opaque.png  -- nenhuma carta parecida encontrada
+Window006_CyanTitle1.png  -- nenhuma carta parecida encontrada
+Window006_CyanTitle2.png  -- nenhuma carta parecida encontrada
+Window006_Cyan_Opaque.png  -- nenhuma carta parecida encontrada
+Window007_White1.png  -- nenhuma carta parecida encontrada
+Window007_White2.png  -- nenhuma carta parecida encontrada
+Window008_Blue_Opaque.png  -- sugestões: Blue Shield (0.40) | Blue Stealth (0.40) | Blue Sky (0.40)
+Window_Tabs_Active_Border.png  -- nenhuma carta parecida encontrada
+WindStreak_Clamped.png  -- nenhuma carta parecida encontrada
+Wired Ball Texture - Aquos.png  -- nenhuma carta parecida encontrada
+Wired Ball Texture - Darkus.png  -- nenhuma carta parecida encontrada
+Wired Ball Texture - Haos.png  -- nenhuma carta parecida encontrada
+Wired Ball Texture - Pyrus.png  -- nenhuma carta parecida encontrada
+Wired Ball Texture - Subterra.png  -- nenhuma carta parecida encontrada
+Wired Ball Texture - Ventus(1).png  -- nenhuma carta parecida encontrada
+Wired Ball Texture - Ventus.png  -- nenhuma carta parecida encontrada
+Wired Texture 1 - Aquos.png  -- nenhuma carta parecida encontrada
+Wired Texture 1 - Darkus.png  -- nenhuma carta parecida encontrada
+Wired Texture 1 - Haos.png  -- nenhuma carta parecida encontrada
+Wired Texture 1 - Pyrus.png  -- nenhuma carta parecida encontrada
+Wired Texture 1 - Subterra.png  -- nenhuma carta parecida encontrada
+Wired Texture 1 - Ventus.png  -- nenhuma carta parecida encontrada
+WorldOfAquos01.PNG.png  -- nenhuma carta parecida encontrada
+WorldOfDarkus01.PNG.png  -- nenhuma carta parecida encontrada
+WorldOfHaos01.PNG.png  -- nenhuma carta parecida encontrada
+WorldOfPyrus01.PNG.png  -- nenhuma carta parecida encontrada
+WorldOfSubterra01.PNG.png  -- nenhuma carta parecida encontrada
+WorldOfVentus01.PNG.png  -- nenhuma carta parecida encontrada
+X (Big).png  -- nenhuma carta parecida encontrada
+X.png  -- nenhuma carta parecida encontrada
+
+--- CARTAS AINDA SEM IMAGEM (18) ---
+[special] Mega Impact
+[special] Red Valkyrie
+[special] Drill Booster
+[special] Screw Impact
+[special] Hyper Impact
+[special] Viblow
+[special] Gamma Ray
+[special] Ground Detonator
+[special] Ground Boating
+[special] Iron Plate
+[special] Volcano Hammer
+[special] Quicksand Hole
+[special] Power Winder
+[attribute] Backdraft
+[attribute] All For One
+[attribute] One For All
+[attribute] Triple Node - Darkus, Ventus, & Subterra
+[attribute] Triple Node - Pyrus, Aquos, & Haos

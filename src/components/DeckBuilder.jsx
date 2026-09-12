@@ -22,6 +22,7 @@ const ABILITY_POOL = [
     bakuganRef: c.bakuganRef,
     category: 'especial',
     maxCopies: c.maxCopies,
+    image: c.image,
   })),
   ...ATTRIBUTE_ABILITY_CARDS.map((c) => ({
     id: c.id,
@@ -32,6 +33,7 @@ const ABILITY_POOL = [
     bakuganRef: null,
     category: 'atributo',
     maxCopies: c.maxCopies,
+    image: c.image,
   })),
 ];
 

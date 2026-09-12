@@ -10,8 +10,7 @@
 //
 // 27 cartas da planilha vieram sem descrição/efeito documentado ainda (várias
 // 'Snail', 'Aura Cannon', 'Eraser', etc) — não entraram aqui até terem texto.
-export const SPECIAL_ABILITY_CARDS = 
-[
+export const SPECIAL_ABILITY_CARDS = [
   {
     "id": "special-2",
     "name": "Shock Cannon",
@@ -19,7 +18,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Altair",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/shock-cannon.png"
   },
   {
     "id": "special-6",
@@ -28,7 +28,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Altair",
     "requiredAttribute": "Aquos",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/mega-shield.png"
   },
   {
     "id": "special-133",
@@ -37,7 +38,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Altair",
     "requiredAttribute": "Darkus",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/blaster-bind.png"
   },
   {
     "id": "special-1",
@@ -46,7 +48,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Altair",
     "requiredAttribute": "Haos",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/thunder-booster.png"
   },
   {
     "id": "special-5",
@@ -55,7 +58,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Altair",
     "requiredAttribute": "Pyrus",
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/thunder-fire.png"
   },
   {
     "id": "special-7",
@@ -64,7 +68,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Altair",
     "requiredAttribute": "Subterra",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/giga-armor.png"
   },
   {
     "id": "special-4",
@@ -73,7 +78,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Altair",
     "requiredAttribute": "Ventus",
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/spinal-saucer.png"
   },
   {
     "id": "special-8",
@@ -82,7 +88,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Baliton",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/apollon-head.png"
   },
   {
     "id": "special-9",
@@ -91,7 +98,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Brontes",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/darku-scythe.png"
   },
   {
     "id": "special-14",
@@ -100,7 +108,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Brontes",
     "requiredAttribute": "Aquos",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/jeer-frontier.png"
   },
   {
     "id": "special-10",
@@ -109,7 +118,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Brontes",
     "requiredAttribute": "Darkus",
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/ghost-cell.png"
   },
   {
     "id": "special-11",
@@ -118,7 +128,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Brontes",
     "requiredAttribute": "Haos",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/maniactu-magical.png"
   },
   {
     "id": "special-13",
@@ -127,7 +138,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Brontes",
     "requiredAttribute": "Pyrus",
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/aurora-dimension.png"
   },
   {
     "id": "special-15",
@@ -136,7 +148,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Brontes",
     "requiredAttribute": "Subterra",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/desert-python.png"
   },
   {
     "id": "special-12",
@@ -145,7 +158,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Brontes",
     "requiredAttribute": "Ventus",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/wizard-proxy.png"
   },
   {
     "id": "special-16",
@@ -154,7 +168,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Cycloid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/left-giganti.png"
   },
   {
     "id": "special-17",
@@ -163,7 +178,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Cycloid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/right-giganti.png"
   },
   {
     "id": "special-18",
@@ -172,7 +188,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Cycloud",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/stare-down.png"
   },
   {
     "id": "special-19",
@@ -181,7 +198,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Dragonoid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/boosted-dragon.png"
   },
   {
     "id": "special-20",
@@ -190,7 +208,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Dragonoid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/melt-flare.png"
   },
   {
     "id": "special-21",
@@ -199,7 +218,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Dual Hydranoid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/dual-gazer.png"
   },
   {
     "id": "special-136",
@@ -208,7 +228,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Dual Hydranoid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/gravity-chamber.png"
   },
   {
     "id": "special-22",
@@ -217,7 +238,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Dual Hydranoid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/merge-shield.png"
   },
   {
     "id": "special-23",
@@ -226,7 +248,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Dynamo",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/gilian-cord.png"
   },
   {
     "id": "special-27",
@@ -235,7 +258,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Elfin",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/twin-back.png"
   },
   {
     "id": "special-28",
@@ -244,7 +268,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Elfin",
     "requiredAttribute": "Aquos",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/blue-shield.png"
   },
   {
     "id": "special-24",
@@ -253,7 +278,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Elfin",
     "requiredAttribute": "Darkus",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/moon-rainbow.png"
   },
   {
     "id": "special-25",
@@ -262,7 +288,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Elfin",
     "requiredAttribute": "Haos",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/shooting-stardust.png"
   },
   {
     "id": "special-29",
@@ -271,7 +298,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Elfin",
     "requiredAttribute": "Pyrus",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/jamming-out.png"
   },
   {
     "id": "special-26",
@@ -280,7 +308,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Elfin",
     "requiredAttribute": "Subterra",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/subterra-reaction.png"
   },
   {
     "id": "special-30",
@@ -289,7 +318,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Elfin",
     "requiredAttribute": "Ventus",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/wing-mercury.png"
   },
   {
     "id": "special-34",
@@ -298,7 +328,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Elico",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/trick-world.png"
   },
   {
     "id": "special-37",
@@ -307,7 +338,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Elico",
     "requiredAttribute": "Aquos",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/scramble-zwei.png"
   },
   {
     "id": "special-35",
@@ -316,7 +348,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Elico",
     "requiredAttribute": "Darkus",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/arculu.png"
   },
   {
     "id": "special-31",
@@ -325,7 +358,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Elico",
     "requiredAttribute": "Haos",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/flash-freeze.png"
   },
   {
     "id": "special-32",
@@ -334,7 +368,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Elico",
     "requiredAttribute": "Pyrus",
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/mythran-judge.png"
   },
   {
     "id": "special-36",
@@ -343,7 +378,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Elico",
     "requiredAttribute": "Subterra",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/gaia-loose.png"
   },
   {
     "id": "special-33",
@@ -352,7 +388,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Elico",
     "requiredAttribute": "Ventus",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/screw-blow.png"
   },
   {
     "id": "special-38",
@@ -361,7 +398,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Falcon Fly",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/fly-enemy.png"
   },
   {
     "id": "special-39",
@@ -370,7 +408,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Falconeer",
     "requiredAttribute": "Pyrus",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/frame-fire.png"
   },
   {
     "id": "special-40",
@@ -379,7 +418,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Fear Ripper",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/slash-zero.png"
   },
   {
     "id": "special-41",
@@ -388,7 +428,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Fortress",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/crossfire.png"
   },
   {
     "id": "special-42",
@@ -397,7 +438,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Fourtress",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/face-grief.png"
   },
   {
     "id": "special-43",
@@ -406,7 +448,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Fourtress",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/face-joy.png"
   },
   {
     "id": "special-44",
@@ -415,7 +458,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Fourtress",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/face-rage.png"
   },
   {
     "id": "special-45",
@@ -433,7 +477,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Griffon",
     "requiredAttribute": "Haos",
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/venomou-beast-torrent-attack.png"
   },
   {
     "id": "special-47",
@@ -442,7 +487,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Hades",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/full-burst.png"
   },
   {
     "id": "special-50",
@@ -451,7 +497,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Hades",
     "requiredAttribute": "Aquos",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/phaser-trident.png"
   },
   {
     "id": "special-48",
@@ -460,7 +507,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Hades",
     "requiredAttribute": "Darkus",
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/chao-leap-sting.png"
   },
   {
     "id": "special-46",
@@ -469,7 +517,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Hades",
     "requiredAttribute": "Haos",
     "category": "especial",
-    "maxCopies": 5
+    "maxCopies": 5,
+    "image": "/abilities/special/photon-tail.png"
   },
   {
     "id": "special-49",
@@ -478,7 +527,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Hades",
     "requiredAttribute": "Pyrus",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/saurer-cannon.png"
   },
   {
     "id": "special-51",
@@ -487,7 +537,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Harpus",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/feather-edge.png"
   },
   {
     "id": "special-52",
@@ -496,7 +547,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Harpus",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/feather-storm.png"
   },
   {
     "id": "special-54",
@@ -505,7 +557,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Helios",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/general-quasar.png"
   },
   {
     "id": "special-58",
@@ -514,7 +567,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Helios",
     "requiredAttribute": "Aquos",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/melt-stream.png"
   },
   {
     "id": "special-55",
@@ -523,7 +577,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Helios",
     "requiredAttribute": "Darkus",
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/void-stream.png"
   },
   {
     "id": "special-53",
@@ -532,7 +587,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Helios",
     "requiredAttribute": "Haos",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/burst-core.png"
   },
   {
     "id": "special-57",
@@ -541,7 +597,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Helios",
     "requiredAttribute": "Pyrus",
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/maximum-quasar.png"
   },
   {
     "id": "special-59",
@@ -550,7 +607,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Helios",
     "requiredAttribute": "Subterra",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/nova-defenser.png"
   },
   {
     "id": "special-56",
@@ -559,7 +617,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Helios",
     "requiredAttribute": "Ventus",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/nova-spiral.png"
   },
   {
     "id": "special-60",
@@ -568,7 +627,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Hexados",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/ray-drill.png"
   },
   {
     "id": "special-61",
@@ -577,7 +637,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Hylash",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/claw-thunder-position-kagenui.png"
   },
   {
     "id": "special-62",
@@ -586,7 +647,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Ingram",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/shadow-split.png"
   },
   {
     "id": "special-67",
@@ -595,7 +657,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Ingram",
     "requiredAttribute": "Aquos",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/armored-megadome.png"
   },
   {
     "id": "special-64",
@@ -604,7 +667,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Ingram",
     "requiredAttribute": "Darkus",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/shadow-echo.png"
   },
   {
     "id": "special-63",
@@ -613,7 +677,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Ingram",
     "requiredAttribute": "Haos",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/thunderbolt-torrential-wave.png"
   },
   {
     "id": "special-134",
@@ -622,7 +687,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Ingram",
     "requiredAttribute": "Pyrus",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/continuou-dance-phoenix-position.png"
   },
   {
     "id": "special-68",
@@ -631,7 +697,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Ingram",
     "requiredAttribute": "Subterra",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/armored-victory.png"
   },
   {
     "id": "special-65",
@@ -640,7 +707,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Ingram",
     "requiredAttribute": "Ventus",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/wind-power-soaring-strike-shot.png"
   },
   {
     "id": "special-69",
@@ -649,7 +717,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Juggernoid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/depth-tornado.png"
   },
   {
     "id": "special-70",
@@ -658,7 +727,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Juggernoid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/super-shard.png"
   },
   {
     "id": "special-71",
@@ -667,7 +737,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Laserman",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/leap-sting.png"
   },
   {
     "id": "special-72",
@@ -676,7 +747,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Leonidas",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/alpha-blaster.png"
   },
   {
     "id": "special-73",
@@ -694,7 +766,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Nemus",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/shade-cacoon.png"
   },
   {
     "id": "special-79",
@@ -703,7 +776,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Nemus",
     "requiredAttribute": "Aquos",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/ancient-glow.png"
   },
   {
     "id": "special-76",
@@ -712,7 +786,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Nemus",
     "requiredAttribute": "Darkus",
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/raven-lore.png"
   },
   {
     "id": "special-74",
@@ -721,7 +796,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Nemus",
     "requiredAttribute": "Haos",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/flow-skylight.png"
   },
   {
     "id": "special-78",
@@ -730,7 +806,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Nemus",
     "requiredAttribute": "Pyrus",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/pyra-might-skid-roa.png"
   },
   {
     "id": "special-80",
@@ -739,7 +816,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Nemus",
     "requiredAttribute": "Subterra",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/corona-hole.png"
   },
   {
     "id": "special-77",
@@ -748,7 +826,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Nemus",
     "requiredAttribute": "Ventus",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/spark-roa.png"
   },
   {
     "id": "special-82",
@@ -757,7 +836,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Neo Dragonoid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/strike-dragon.png"
   },
   {
     "id": "special-86",
@@ -766,7 +846,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Neo Dragonoid",
     "requiredAttribute": "Aquos",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/burst-shield.png"
   },
   {
     "id": "special-83",
@@ -775,7 +856,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Neo Dragonoid",
     "requiredAttribute": "Darkus",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/dragon-contender.png"
   },
   {
     "id": "special-81",
@@ -784,7 +866,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Neo Dragonoid",
     "requiredAttribute": "Haos",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/maximum-dragon.png"
   },
   {
     "id": "special-85",
@@ -793,7 +876,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Neo Dragonoid",
     "requiredAttribute": "Pyrus",
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/burning-dragon.png"
   },
   {
     "id": "special-87",
@@ -802,7 +886,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Neo Dragonoid",
     "requiredAttribute": "Subterra",
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/dragon-clash.png"
   },
   {
     "id": "special-84",
@@ -811,7 +896,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Neo Dragonoid",
     "requiredAttribute": "Ventus",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/tornado-barrier.png"
   },
   {
     "id": "special-89",
@@ -820,7 +906,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Percival",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/tri-gunner.png"
   },
   {
     "id": "special-93",
@@ -829,7 +916,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Percival",
     "requiredAttribute": "Aquos",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/misty-shadow.png"
   },
   {
     "id": "special-90",
@@ -838,7 +926,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Percival",
     "requiredAttribute": "Darkus",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/darku-driver.png"
   },
   {
     "id": "special-88",
@@ -847,7 +936,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Percival",
     "requiredAttribute": "Haos",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/stray-thunder.png"
   },
   {
     "id": "special-92",
@@ -856,7 +946,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Percival",
     "requiredAttribute": "Pyrus",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/battle-marionette.png"
   },
   {
     "id": "special-94",
@@ -865,7 +956,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Percival",
     "requiredAttribute": "Subterra",
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/vermillion.png"
   },
   {
     "id": "special-91",
@@ -874,7 +966,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Percival",
     "requiredAttribute": "Ventus",
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/black-maiden.png"
   },
   {
     "id": "special-95",
@@ -883,7 +976,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Piercian",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/tank-bunker.png"
   },
   {
     "id": "special-97",
@@ -892,7 +986,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Premo Vulcan",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/titan-knuckle.png"
   },
   {
     "id": "special-101",
@@ -928,7 +1023,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Premo Vulcan",
     "requiredAttribute": "Pyrus",
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/pyru-durance.png"
   },
   {
     "id": "special-102",
@@ -937,7 +1033,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Premo Vulcan",
     "requiredAttribute": "Subterra",
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/heavy-aegi.png"
   },
   {
     "id": "special-99",
@@ -955,7 +1052,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Preyas",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/blue-stealth.png"
   },
   {
     "id": "special-104",
@@ -964,7 +1062,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Ravenoid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/shadow-scratch.png"
   },
   {
     "id": "special-105",
@@ -973,7 +1072,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Ravenoid",
     "requiredAttribute": "Haos",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/spark-out.png"
   },
   {
     "id": "special-106",
@@ -982,7 +1082,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Ravenoid",
     "requiredAttribute": "Ventus",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/tornado-pandemonium.png"
   },
   {
     "id": "special-107",
@@ -991,7 +1092,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Reaper",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/dimension-four.png"
   },
   {
     "id": "special-108",
@@ -1000,7 +1102,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Reaper",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/double-dimension.png"
   },
   {
     "id": "special-109",
@@ -1009,7 +1112,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Robotallion",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/robotallion-enforcement.png"
   },
   {
     "id": "special-110",
@@ -1018,7 +1122,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Saurus",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/sauru-glow.png"
   },
   {
     "id": "special-111",
@@ -1027,7 +1132,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Scorpion",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/reflection-boost.png"
   },
   {
     "id": "special-113",
@@ -1036,7 +1142,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Siege",
     "requiredAttribute": "Aquos",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/aqua-javelin.png"
   },
   {
     "id": "special-140",
@@ -1045,7 +1152,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Siege",
     "requiredAttribute": "Aquos",
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/tsunami-wave.png"
   },
   {
     "id": "special-112",
@@ -1054,7 +1162,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Siege",
     "requiredAttribute": "Pyrus",
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/fire-sword.png"
   },
   {
     "id": "special-114",
@@ -1063,7 +1172,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Sirenoid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/anthemusa.png"
   },
   {
     "id": "special-115",
@@ -1072,7 +1182,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Sirenoid",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/forcing-wave.png"
   },
   {
     "id": "special-137",
@@ -1081,7 +1192,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Skyress",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/green-nobility-violent-wind.png"
   },
   {
     "id": "special-117",
@@ -1099,7 +1211,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Tentaclear",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/solar-ray.png"
   },
   {
     "id": "special-135",
@@ -1108,7 +1221,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Tentaclear",
     "requiredAttribute": "Haos",
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/flare-blinder.png"
   },
   {
     "id": "special-138",
@@ -1117,7 +1231,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Tentaclear",
     "requiredAttribute": "Haos",
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/mega-flare-blinder.png"
   },
   {
     "id": "special-119",
@@ -1126,7 +1241,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Tigrerra",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/crystal-fang.png"
   },
   {
     "id": "special-120",
@@ -1135,7 +1251,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Tigrerra",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/cut-in-saber.png"
   },
   {
     "id": "special-121",
@@ -1144,7 +1261,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Tigrerra",
     "requiredAttribute": "Haos",
     "category": "especial",
-    "maxCopies": 1
+    "maxCopies": 1,
+    "image": "/abilities/special/cut-in-slayer.png"
   },
   {
     "id": "special-122",
@@ -1153,7 +1271,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Tripod Epsilon",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/diamond-snail.png"
   },
   {
     "id": "special-123",
@@ -1162,7 +1281,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Tripod Theta",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/life-ripple.png"
   },
   {
     "id": "special-124",
@@ -1171,7 +1291,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Vladitor",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/dark-sphere-impact.png"
   },
   {
     "id": "special-127",
@@ -1189,7 +1310,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Wilda",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 2
+    "maxCopies": 2,
+    "image": "/abilities/special/gun-lock.png"
   },
   {
     "id": "special-139",
@@ -1198,7 +1320,8 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Wilda",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 0
+    "maxCopies": 0,
+    "image": "/abilities/special/molten-rock.png"
   },
   {
     "id": "special-130",
@@ -1252,7 +1375,7 @@ export const SPECIAL_ABILITY_CARDS =
     "bakuganRef": "Wired",
     "requiredAttribute": null,
     "category": "especial",
-    "maxCopies": 3
+    "maxCopies": 3,
+    "image": "/abilities/special/hybrid-cannon.png"
   }
-]
-;
+];
