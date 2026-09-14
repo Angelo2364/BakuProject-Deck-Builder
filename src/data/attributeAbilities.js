@@ -14,7 +14,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Backfire",
     "attribute": "Pyrus",
     "text": "Nullify the gate card your Pyrus Bakugan is battling on.",
-    "image": "/abilities/attribute/backfire.png",
+    "image": "/ability-cards/attribute/backfire.png",
     "maxCopies": 3
   },
   {
@@ -22,7 +22,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Correlation - Pyrus & Subterra",
     "attribute": "Pyrus",
     "text": "If there is a Subterra Bakugan on your Pyrus Bakugan's gate card, your Pyrus Bakugan gains +100 G's. If the other Bakugan was an ally, both Bakugan gain +50 G's instead.",
-    "image": "/abilities/attribute/correlation-pyru-subterra.png",
+    "image": "/ability-cards/attribute/correlation-pyrus-subterra.png",
     "maxCopies": 3
   },
   {
@@ -30,7 +30,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Fire Judge",
     "attribute": "Pyrus",
     "text": "Your Pyrus Bakugan gains +100 G's.",
-    "image": "/abilities/attribute/fire-judge.png",
+    "image": "/ability-cards/attribute/fire-judge.png",
     "maxCopies": 3
   },
   {
@@ -38,7 +38,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Fire Tornado",
     "attribute": "Pyrus",
     "text": "Transfer 100 G's from an opponent's Bakugan to your Pyrus Bakugan in battle.",
-    "image": "/abilities/attribute/fire-tornado.png",
+    "image": "/ability-cards/attribute/fire-tornado.png",
     "maxCopies": 2
   },
   {
@@ -46,7 +46,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Fire Wall",
     "attribute": "Pyrus",
     "text": "An opponent's Bakugan loses -50 G's.",
-    "image": "/abilities/attribute/fire-wall.png",
+    "image": "/ability-cards/attribute/fire-wall.png",
     "maxCopies": 3
   },
   {
@@ -54,7 +54,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Heat Wave",
     "attribute": "Pyrus",
     "text": "Your Pyrus Bakugan gains +50 G's for the rest of the game. (Stackable)",
-    "image": "/abilities/attribute/heat-wave.png",
+    "image": "/ability-cards/attribute/heat-wave.png",
     "maxCopies": 3
   },
   {
@@ -62,7 +62,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Power Charge",
     "attribute": "Pyrus",
     "text": "Your Pyrus Bakugan gains +100 G's and moves to a gate card with an opponent's Bakugan on it.",
-    "image": "/abilities/attribute/power-charge.png",
+    "image": "/ability-cards/attribute/power-charge.png",
     "maxCopies": 2
   },
   {
@@ -70,7 +70,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Pyrus Burst",
     "attribute": "Pyrus",
     "text": "Your Pyrus Bakugan attacks an opponent's Bakugan adjacent to it. If the attack fails, your Pyrus Bakugan is defeated.",
-    "image": "/abilities/attribute/pyru-burst.png",
+    "image": "/ability-cards/attribute/pyrus-burst.png",
     "maxCopies": 1
   },
   {
@@ -78,7 +78,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Raging Inferno",
     "attribute": "Pyrus",
     "text": "Each of your Pyrus Bakugan on the field gains +50 G's.",
-    "image": "/abilities/attribute/raging-inferno.png",
+    "image": "/ability-cards/attribute/raging-inferno.png",
     "maxCopies": 3
   },
   {
@@ -86,7 +86,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Rapid Fire",
     "attribute": "Pyrus",
     "text": "Add an additional Pyrus Bakugan into battle. If the Bakugan is a teammate's, it can be any attribute.",
-    "image": "/abilities/attribute/rapid-fire.png",
+    "image": "/ability-cards/attribute/rapid-fire.png",
     "maxCopies": 1
   },
   {
@@ -94,7 +94,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Ring Of Flames",
     "attribute": "Pyrus",
     "text": "Your Pyrus Bakugan gains +150 G's, and lose -100 G's at the start of each of your turns.",
-    "image": "/abilities/attribute/ring-flame.png",
+    "image": "/ability-cards/attribute/ring-of-flames.png",
     "maxCopies": 3
   },
   {
@@ -102,7 +102,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Aquos Cyclone",
     "attribute": "Aquos",
     "text": "Your Aquos Bakugan gains +125 G's on your 2nd turn after this card's activation.",
-    "image": "/abilities/attribute/aquo-cyclone.png",
+    "image": "/ability-cards/attribute/aquos-cyclone.png",
     "maxCopies": 3
   },
   {
@@ -110,7 +110,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Blue Sky",
     "attribute": "Aquos",
     "text": "At the start of each of your turns, draw an extra card as long as your Aquos Bakugan is on the field. (Non-Stackable)",
-    "image": "/abilities/attribute/blue-sky.png",
+    "image": "/ability-cards/attribute/blue-sky.png",
     "maxCopies": 2
   },
   {
@@ -118,7 +118,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Correlation - Aquos & Ventus",
     "attribute": "Aquos",
     "text": "If there is a Ventus Bakugan on your Aquos Bakugan's gate card, your Aquos Bakugan gains +100 G's. If the other Bakugan was an ally, both Bakugan gain +50 G's instead.",
-    "image": "/abilities/attribute/correlation-aquo-ventu.png",
+    "image": "/ability-cards/attribute/correlation-aquos-ventus.png",
     "maxCopies": 3
   },
   {
@@ -126,7 +126,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Dive Mirage",
     "attribute": "Aquos",
     "text": "Move your Aquos Bakugan to another gate card was an opponent's, it is nullified.",
-    "image": "/abilities/attribute/dive-mirage.png",
+    "image": "/ability-cards/attribute/dive-mirage.png",
     "maxCopies": 3
   },
   {
@@ -134,7 +134,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Freezing Wave",
     "attribute": "Aquos",
     "text": "Your Aquos Bakugan gains +50 G's for each continuous & delayed effect it has.",
-    "image": "/abilities/attribute/freezing-wave.png",
+    "image": "/ability-cards/attribute/freezing-wave.png",
     "maxCopies": 3
   },
   {
@@ -142,7 +142,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Holograph Divide",
     "attribute": "Aquos",
     "text": "Your Aquos Bakugan gains +50 G's at the start of each of your turns.",
-    "image": "/abilities/attribute/holograph-divide.png",
+    "image": "/ability-cards/attribute/holograph-divide.png",
     "maxCopies": 3
   },
   {
@@ -150,7 +150,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Maelstrom",
     "attribute": "Aquos",
     "text": "Choose a card from your deck, in 2 of your turns it is added to your hand.",
-    "image": "/abilities/attribute/maelstrom.png",
+    "image": "/ability-cards/attribute/maelstrom.png",
     "maxCopies": 3
   },
   {
@@ -158,7 +158,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Shadow Aggressor",
     "attribute": "Aquos",
     "text": "If your Ventus Bakugan has any status effects, they are immediately cleared and you draw 1 Ventus ability card.",
-    "image": "/abilities/attribute/shadow-aggressor.png",
+    "image": "/ability-cards/attribute/shadow-aggressor.png",
     "maxCopies": 3
   },
   {
@@ -166,7 +166,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Tides Of Fate",
     "attribute": "Aquos",
     "text": "Choose a card from your deck and place it on top.",
-    "image": "/abilities/attribute/tide-fate.png",
+    "image": "/ability-cards/attribute/tides-of-fate.png",
     "maxCopies": 3
   },
   {
@@ -174,7 +174,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Water Refrain",
     "attribute": "Aquos",
     "text": "All previous abilities used this chain are nullified.",
-    "image": "/abilities/attribute/water-refrain.png",
+    "image": "/ability-cards/attribute/water-refrain.png",
     "maxCopies": 1
   },
   {
@@ -182,7 +182,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Water Slap",
     "attribute": "Aquos",
     "text": "Your opponent's Bakugan loses -50 G's.",
-    "image": "/abilities/attribute/water-slap.png",
+    "image": "/ability-cards/attribute/water-slap.png",
     "maxCopies": 3
   },
   {
@@ -190,7 +190,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Copycat",
     "attribute": "Subterra",
     "text": "Copy any power level changes from your opponent's last ability.",
-    "image": "/abilities/attribute/copycat.png",
+    "image": "/ability-cards/attribute/copycat.png",
     "maxCopies": 2
   },
   {
@@ -198,7 +198,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Correlation - Subterra & Haos",
     "attribute": "Subterra",
     "text": "If there is a Haos Bakugan on your Subterra Bakugan's gate card, your Subterra Bakugan gains +100 G's. If the other Bakugan was an ally, both Bakugan gain +50 G's instead.",
-    "image": "/abilities/attribute/correlation-subterra-hao.png",
+    "image": "/ability-cards/attribute/correlation-subterra-haos.png",
     "maxCopies": 3
   },
   {
@@ -206,7 +206,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Desert Hole",
     "attribute": "Subterra",
     "text": "If you have more gate cards on the field than your opponent, your Subterra Bakugan gains +75 G's for each more.",
-    "image": "/abilities/attribute/desert-hole.png",
+    "image": "/ability-cards/attribute/desert-hole.png",
     "maxCopies": 3
   },
   {
@@ -214,7 +214,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Earth Power",
     "attribute": "Subterra",
     "text": "Increase your Subterra Bakugan's power level by +50 G's.",
-    "image": "/abilities/attribute/earth-power.png",
+    "image": "/ability-cards/attribute/earth-power.png",
     "maxCopies": 3
   },
   {
@@ -222,7 +222,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Floodgate",
     "attribute": "Subterra",
     "text": "Set a gate card from your deck.",
-    "image": "/abilities/attribute/floodgate.png",
+    "image": "/ability-cards/attribute/floodgate.png",
     "maxCopies": 3
   },
   {
@@ -230,7 +230,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Gate Building",
     "attribute": "Subterra",
     "text": "Draw and set a gate card.",
-    "image": "/abilities/attribute/gate-building.png",
+    "image": "/ability-cards/attribute/gate-building.png",
     "maxCopies": 2
   },
   {
@@ -238,7 +238,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Gatekeeper",
     "attribute": "Subterra",
     "text": "Send an attribute gate card from your deck to your used pile, and have your Subterra Bakugan gain G's equal to it's increase.",
-    "image": "/abilities/attribute/gatekeeper.png",
+    "image": "/ability-cards/attribute/gatekeeper.png",
     "maxCopies": 3
   },
   {
@@ -246,7 +246,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Grand Slide",
     "attribute": "Subterra",
     "text": "Move an opponent's gate card next to the gate card your Subterra Bakugan is on, then your Subterra Bakugan moves to it.",
-    "image": "/abilities/attribute/grand-slide.png",
+    "image": "/ability-cards/attribute/grand-slide.png",
     "maxCopies": 3
   },
   {
@@ -254,7 +254,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Magma Prominence",
     "attribute": "Subterra",
     "text": "Change the gate card your Subterra Bakugan is standing on's attribute to Subterra.",
-    "image": "/abilities/attribute/magma-prominence.png",
+    "image": "/ability-cards/attribute/magma-prominence.png",
     "maxCopies": 3
   },
   {
@@ -262,7 +262,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Sand Trap",
     "attribute": "Subterra",
     "text": "Your Subterra Bakugan attacks an opponent's Bakugan adjacent to it.",
-    "image": "/abilities/attribute/sand-trap.png",
+    "image": "/ability-cards/attribute/sand-trap.png",
     "maxCopies": 1
   },
   {
@@ -270,7 +270,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Saturn Balloon",
     "attribute": "Subterra",
     "text": "While your Subterra Bakugan is on the field, each time a gate card is activated you draw a card. (Non-Stackable)",
-    "image": "/abilities/attribute/saturn-balloon.png",
+    "image": "/ability-cards/attribute/saturn-balloon.png",
     "maxCopies": 3
   },
   {
@@ -278,7 +278,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Spirit Canyon",
     "attribute": "Subterra",
     "text": "Copy any power level gains from an opponent's gate card to your Bakugan.",
-    "image": "/abilities/attribute/spirit-canyon.png",
+    "image": "/ability-cards/attribute/spirit-canyon.png",
     "maxCopies": 2
   },
   {
@@ -286,7 +286,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Terra Crunch",
     "attribute": "Subterra",
     "text": "Your Subterra Bakugan gains +20 G's for each gate card on the field. (+15 in Team Battles)",
-    "image": "/abilities/attribute/terra-crunch.png",
+    "image": "/ability-cards/attribute/terra-crunch.png",
     "maxCopies": 3
   },
   {
@@ -294,7 +294,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Air Battle",
     "attribute": "Ventus",
     "text": "Move your Ventus Bakugan to a gate card with an opponent's Bakugan present and prevent it from opening.",
-    "image": "/abilities/attribute/air-battle.png",
+    "image": "/ability-cards/attribute/air-battle.png",
     "maxCopies": 2
   },
   {
@@ -302,7 +302,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Backdraft",
     "attribute": "Ventus",
     "text": "Return a Bakugan back to it's owner.",
-    "image": "",
+    "image": "/ability-cards/attribute/backdraft.png",
     "maxCopies": 2
   },
   {
@@ -310,7 +310,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Blow Away",
     "attribute": "Ventus",
     "text": "Move an opponent's Bakugan to another gate card.",
-    "image": "/abilities/attribute/blow-away.png",
+    "image": "/ability-cards/attribute/blow-away.png",
     "maxCopies": 3
   },
   {
@@ -318,7 +318,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Blower Plexus",
     "attribute": "Ventus",
     "text": "One of your Ventus Bakugan gains +50 G's each time it moves. (Non-Stackable)",
-    "image": "/abilities/attribute/blower-plexu.png",
+    "image": "/ability-cards/attribute/blower-plexus.png",
     "maxCopies": 3
   },
   {
@@ -326,7 +326,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Correlation - Ventus & Pyrus",
     "attribute": "Ventus",
     "text": "If there is a Pyrus Bakugan on your Ventus Bakugan's gate card, your Ventus Bakugan gains +100 G's. If the other Bakugan was an ally, both Bakugan gain +50 G's instead.",
-    "image": "/abilities/attribute/correlation-ventu-pyru.png",
+    "image": "/ability-cards/attribute/correlation-ventus-pyrus.png",
     "maxCopies": 3
   },
   {
@@ -334,7 +334,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Gale Force",
     "attribute": "Ventus",
     "text": "Throw 2 Ventus Bakugan onto an opponent's empty closed gate card.",
-    "image": "/abilities/attribute/gale-force.png",
+    "image": "/ability-cards/attribute/gale-force.png",
     "maxCopies": 1
   },
   {
@@ -342,7 +342,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Jump Over",
     "attribute": "Ventus",
     "text": "Move your Ventus Bakugan to an adjacent gate card.",
-    "image": "/abilities/attribute/jump-over.png",
+    "image": "/ability-cards/attribute/jump-over.png",
     "maxCopies": 3
   },
   {
@@ -350,7 +350,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Scarlet Twister",
     "attribute": "Ventus",
     "text": "Move a Bakugan to another gate card. If the Bakugan was in battle, your Ventus Bakugan is defeated and the other Bakugan is returned to it's owner instead.",
-    "image": "/abilities/attribute/scarlet-twister.png",
+    "image": "/ability-cards/attribute/scarlet-twister.png",
     "maxCopies": 3
   },
   {
@@ -358,7 +358,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Second Wind",
     "attribute": "Ventus",
     "text": "Swap a ventus Bakugan you control on the field with one from your hand.",
-    "image": "/abilities/attribute/second-wind.png",
+    "image": "/ability-cards/attribute/second-wind.png",
     "maxCopies": 3
   },
   {
@@ -366,7 +366,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Storm Breaker",
     "attribute": "Ventus",
     "text": "Nullify the gate card your Ventus Bakugan is battling on.",
-    "image": "/abilities/attribute/storm-breaker.png",
+    "image": "/ability-cards/attribute/storm-breaker.png",
     "maxCopies": 3
   },
   {
@@ -374,7 +374,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Updraft",
     "attribute": "Ventus",
     "text": "Return an empty gate card on the field to it's owner's hand.",
-    "image": "/abilities/attribute/updraft.png",
+    "image": "/ability-cards/attribute/updraft.png",
     "maxCopies": 3
   },
   {
@@ -382,7 +382,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Ventus Triple Chain - Winds Of Fury",
     "attribute": "Ventus",
     "text": "If you control three Ventus Bakugan on the field, each of your opponent's Bakugan adjacent to your Ventus Bakugan loses -100 G's, then it attacks each of them.",
-    "image": "/abilities/attribute/ventu-triple-chain-wind-fury.png",
+    "image": "/ability-cards/attribute/ventus-triple-chain-winds-of-fury.png",
     "maxCopies": 1
   },
   {
@@ -390,7 +390,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "All For One",
     "attribute": "Darkus",
     "text": "All allied Bakugan have half their G's transfered to one of your Darkus Bakugan.",
-    "image": "",
+    "image": "/ability-cards/attribute/all-for-one.png",
     "maxCopies": 3
   },
   {
@@ -398,7 +398,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Black is Darkness",
     "attribute": "Darkus",
     "text": "Bring all adjacent enemy Bakugan to your Darkus Bakugan's gate card.",
-    "image": "/abilities/attribute/black-is-darkness.png",
+    "image": "/ability-cards/attribute/black-is-darkness.png",
     "maxCopies": 1
   },
   {
@@ -406,7 +406,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Call Of The Void",
     "attribute": "Darkus",
     "text": "If your deck is empty, your Darkus Bakugan gains +200 G's.",
-    "image": "/abilities/attribute/call-void.png",
+    "image": "/ability-cards/attribute/call-of-the-void.png",
     "maxCopies": 1
   },
   {
@@ -414,7 +414,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Correlation - Darkus & Aquos",
     "attribute": "Darkus",
     "text": "If there is a Aquos Bakugan on your Darkus Bakugan's gate card, your Darkus Bakugan gains +100 G's. If the other Bakugan was an ally, both Bakugan gain +50 G's instead.",
-    "image": "/abilities/attribute/correlation-darku-aquo.png",
+    "image": "/ability-cards/attribute/correlation-darkus-aquos.png",
     "maxCopies": 3
   },
   {
@@ -422,7 +422,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Dark Eye Superior",
     "attribute": "Darkus",
     "text": "Nullify an opponent's ability in battle, or that targets your Darkus Bakugan.",
-    "image": "/abilities/attribute/dark-eye-superior.png",
+    "image": "/ability-cards/attribute/dark-eye-superior.png",
     "maxCopies": 1
   },
   {
@@ -430,7 +430,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Darkus Gravity",
     "attribute": "Darkus",
     "text": "Move a Darkus Bakugan to an adjacent Darkus Bakugan's gate card.",
-    "image": "/abilities/attribute/darku-gravity.png",
+    "image": "/ability-cards/attribute/darkus-gravity.png",
     "maxCopies": 3
   },
   {
@@ -438,7 +438,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Destroy Force Down",
     "attribute": "Darkus",
     "text": "Each Bakugan on the field un-owned by you loses -25 G's. (-15 in Team Battles.)",
-    "image": "/abilities/attribute/destroy-force-down.png",
+    "image": "/ability-cards/attribute/destroy-force-down.png",
     "maxCopies": 3
   },
   {
@@ -446,7 +446,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Doom Companion",
     "attribute": "Darkus",
     "text": "All Bakugan on your Darkus Bakugan's gate card are removed from play for the rest of the game.",
-    "image": "/abilities/attribute/doom-companion.png",
+    "image": "/ability-cards/attribute/doom-companion.png",
     "maxCopies": 1
   },
   {
@@ -454,7 +454,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Eye For An Eye",
     "attribute": "Darkus",
     "text": "Both one of your Darkus Bakugan and an opponent's Bakugan lose -200 G's.",
-    "image": "/abilities/attribute/eye-for-eye.png",
+    "image": "/ability-cards/attribute/eye-for-an-eye.png",
     "maxCopies": 2
   },
   {
@@ -462,7 +462,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Grand Down",
     "attribute": "Darkus",
     "text": "The gate card your Darkus Bakugan is standing on is nullified.",
-    "image": "/abilities/attribute/grand-down.png",
+    "image": "/ability-cards/attribute/grand-down.png",
     "maxCopies": 3
   },
   {
@@ -470,7 +470,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Oregano Revenge",
     "attribute": "Darkus",
     "text": "Each of your opponent's Bakugan in battle loses -100 G's, and up to the same number of yours in the battle gains +100 G's.",
-    "image": "/abilities/attribute/oregano-revenge.png",
+    "image": "/ability-cards/attribute/oregano-revenge.png",
     "maxCopies": 1
   },
   {
@@ -478,7 +478,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Spiced Assault",
     "attribute": "Darkus",
     "text": "Send any number of cards from your deck to your used pile, your Darkus Bakugan gains +30 G's for each sent.",
-    "image": "/abilities/attribute/spiced-assault.png",
+    "image": "/ability-cards/attribute/spiced-assault.png",
     "maxCopies": 3
   },
   {
@@ -486,7 +486,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Ability Counter",
     "attribute": "Haos",
     "text": "Nullify an opponent's ability in battle, or that targets your Haos Bakugan.",
-    "image": "/abilities/attribute/counter.png",
+    "image": "/ability-cards/attribute/ability-counter.png",
     "maxCopies": 1
   },
   {
@@ -494,7 +494,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Correlation - Haos & Darkus",
     "attribute": "Haos",
     "text": "If there is a Darkus Bakugan on your Haos Bakugan's gate card, your Haos Bakugan gains +100 G's. If the other Bakugan was an ally, both Bakugan gain +50 G's instead.",
-    "image": "/abilities/attribute/correlation-hao-darku.png",
+    "image": "/ability-cards/attribute/correlation-haos-darkus.png",
     "maxCopies": 3
   },
   {
@@ -502,7 +502,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Divine Blessing",
     "attribute": "Haos",
     "text": "Each player draws a card.",
-    "image": "/abilities/attribute/divine-blessing.png",
+    "image": "/ability-cards/attribute/divine-blessing.png",
     "maxCopies": 3
   },
   {
@@ -510,7 +510,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Double Down",
     "attribute": "Haos",
     "text": "The next time an allied Bakugan gains G's from an ability card, the increase is doubled.(Non-Stackable)(Can only be activated outside of battle.)",
-    "image": "/abilities/attribute/double-down.png",
+    "image": "/ability-cards/attribute/double-down.png",
     "maxCopies": 2
   },
   {
@@ -518,7 +518,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Enhancement",
     "attribute": "Haos",
     "text": "An allied Bakugan gains +75 G's.",
-    "image": "/abilities/attribute/enhancement.png",
+    "image": "/ability-cards/attribute/enhancement.png",
     "maxCopies": 3
   },
   {
@@ -526,7 +526,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Guiding Light",
     "attribute": "Haos",
     "text": "Throw a Haos Bakugan onto any gate card, but it's power level becomes 50.",
-    "image": "/abilities/attribute/guiding-light.png",
+    "image": "/ability-cards/attribute/guiding-light.png",
     "maxCopies": 3
   },
   {
@@ -534,7 +534,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Haos Freeze",
     "attribute": "Haos",
     "text": "Immediately add an additional Haos Bakugan into battle. If the Bakugan is a teammate's, it can be any attribute.",
-    "image": "/abilities/attribute/hao-freeze.png",
+    "image": "/ability-cards/attribute/haos-freeze.png",
     "maxCopies": 1
   },
   {
@@ -542,7 +542,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Haos Surge",
     "attribute": "Haos",
     "text": "An allied Bakugan's power level becomes half of the strongest Bakugan your opponent control's.",
-    "image": "/abilities/attribute/hao-surge.png",
+    "image": "/ability-cards/attribute/haos-surge.png",
     "maxCopies": 2
   },
   {
@@ -550,7 +550,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Haos Triple Chain - Haos Stasis",
     "attribute": "Haos",
     "text": "If there are three Haos Bakugan on your field, your Haos Bakugan gains +100 G's and you draw 2 cards. Any teammates each draw 1 card.",
-    "image": "/abilities/attribute/hao-triple-chain-hao-stasi.png",
+    "image": "/ability-cards/attribute/haos-triple-chain-haos-stasis.png",
     "maxCopies": 1
   },
   {
@@ -558,7 +558,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Helping Hand",
     "attribute": "Haos",
     "text": "An allied player draws a card.",
-    "image": "/abilities/attribute/helping-hand.png",
+    "image": "/ability-cards/attribute/helping-hand.png",
     "maxCopies": 2
   },
   {
@@ -566,7 +566,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Lightning Shield",
     "attribute": "Haos",
     "text": "The gate card your Haos Bakugan is standing on is nullified.",
-    "image": "/abilities/attribute/lightning-shield.png",
+    "image": "/ability-cards/attribute/lightning-shield.png",
     "maxCopies": 3
   },
   {
@@ -574,7 +574,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Lightning Tornado",
     "attribute": "Haos",
     "text": "Transfer 100 G's from your Opponent's Bakugan to your Haos Bakugan.",
-    "image": "/abilities/attribute/lightning-tornado.png",
+    "image": "/ability-cards/attribute/lightning-tornado.png",
     "maxCopies": 1
   },
   {
@@ -582,7 +582,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "One For All",
     "attribute": "Haos",
     "text": "All allied Bakugan have their G's added together, and then split between eachother. If each Bakugan you control is Haos, they gain +50 G's.",
-    "image": "",
+    "image": "/ability-cards/attribute/one-for-all.png",
     "maxCopies": 3
   },
   {
@@ -590,7 +590,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Positivity Down",
     "attribute": "Haos",
     "text": "Further boosts gained from ability cards on an opponent's Bakugan in battle with your Haos Bakugan are halved.",
-    "image": "/abilities/attribute/positivity-down.png",
+    "image": "/ability-cards/attribute/positivity-down.png",
     "maxCopies": 3
   },
   {
@@ -598,7 +598,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Pure Light",
     "attribute": "Haos",
     "text": "After winning a battle, revive a defeated Bakugan and give it to an ally with less than three Bakugan in their deck.",
-    "image": "/abilities/attribute/pure-light.png",
+    "image": "/ability-cards/attribute/pure-light.png",
     "maxCopies": 1
   },
   {
@@ -606,7 +606,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Rapid Haos",
     "attribute": "Haos",
     "text": "Add an additional Haos Bakugan into battle. If the Bakugan is a teammate's, it can be any attribute.",
-    "image": "/abilities/attribute/rapid-hao.png",
+    "image": "/ability-cards/attribute/rapid-haos.png",
     "maxCopies": 1
   },
   {
@@ -614,7 +614,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Recovery",
     "attribute": "Haos",
     "text": "Add 3 cards from an ally's used pile to their deck, besides copies of this card.",
-    "image": "/abilities/attribute/recovery.png",
+    "image": "/ability-cards/attribute/recovery.png",
     "maxCopies": 3
   },
   {
@@ -622,7 +622,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
     "name": "Shade Ability",
     "attribute": "Haos",
     "text": "Nullify all ability card effects and power level changes on an opponent's Bakugan.",
-    "image": "/abilities/attribute/shade.png",
+    "image": "/ability-cards/attribute/shade-ability.png",
     "maxCopies": 1
   },
   {
@@ -634,7 +634,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
       "Subterra"
     ],
     "text": "If there is an Aquos/Subterra Bakugan on your opposite Attributed Bakugan's gate card, your Bakugan gains +100 G's. If the other Bakugan was an ally, it can be on any gate card and it gains +100 G's as well.",
-    "image": "/abilities/attribute/diagonal-link-aquo-subterra.png",
+    "image": "/ability-cards/attribute/diagonal-link-aquos-subterra.png",
     "maxCopies": 2
   },
   {
@@ -646,7 +646,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
       "Darkus"
     ],
     "text": "If there is an Pyrus/Darkus Bakugan on your opposite Attributed Bakugan's gate card, your Bakugan gains +100 G's. If the other Bakugan was an ally, it can be on any gate card and it gains +100 G's as well.",
-    "image": "/abilities/attribute/diagonal-link-pyru-darku.png",
+    "image": "/ability-cards/attribute/diagonal-link-pyrus-darkus.png",
     "maxCopies": 2
   },
   {
@@ -658,7 +658,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
       "Haos"
     ],
     "text": "If there is an Ventus/Haos Bakugan on your opposite Attributed Bakugan's gate card, your Bakugan gains +100 G's. If the other Bakugan was an ally, it can be on any gate card and it gains +100 G's as well.",
-    "image": "/abilities/attribute/diagonal-link-ventu-hao.png",
+    "image": "/ability-cards/attribute/diagonal-link-ventus-haos.png",
     "maxCopies": 2
   },
   {
@@ -671,7 +671,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
       "Subterra"
     ],
     "text": "If your field contains a Darkus, Ventus, and Subterra Bakugan they each gain +200 G's.",
-    "image": "",
+    "image": "/ability-cards/attribute/triple-node-darkus-ventus-subterra.png",
     "maxCopies": 1
   },
   {
@@ -684,7 +684,7 @@ export const ATTRIBUTE_ABILITY_CARDS = [
       "Haos"
     ],
     "text": "If your field contains a Pyrus, Aquos, and Haos Bakugan they each gain +200 G's.",
-    "image": "",
+    "image": "/ability-cards/attribute/triple-node-pyrus-aquos-haos.png",
     "maxCopies": 1
   }
 ];
